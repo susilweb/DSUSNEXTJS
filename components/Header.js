@@ -876,7 +876,7 @@ return(
               >
                 <div className="offcanvas-header">
                   <a href="/" className="logo d-flex align-items-center">
-                  <Image
+                   <Image
                   src="/img/dynamicssqure-logo.svg"
                   alt="Dynamics Square logo"
                   width={550}
