@@ -1007,57 +1007,69 @@ export default function Home() {
               >
                 <SwiperSlide>
                   <div className="swiper-slide">
-                    <img
+                    <Image
                       src="/img/clients/JVEquip_logo.png"
                       className="img-fluid"
                       alt="JVEquip_logo"
+                      width={200}
+                        height={80}
                     />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   {" "}
                   <div className="swiper-slide">
-                    <img
+                    <Image
                       src="/img/clients/Spectra-Aluminum-logo-new.png"
                       className="img-fluid"
                       alt="Spectra-Aluminum-logo"
+                      width={200}
+                        height={80}
                     />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="swiper-slide">
-                    <img
+                    <Image
                       src="/img/clients/MexiLand_logos.png"
                       className="img-fluid"
                       alt="MexiLand_logos"
+                      width={200}
+                        height={80}
                     />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   {" "}
                   <div className="swiper-slide">
-                    <img
+                    <Image
                       src="/img/clients/VidPro_logo.png"
                       className="img-fluid"
                       alt="VidPro_logo"
+                      width={200}
+                        height={80}
                     />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="swiper-slide">
-                    <img
+                    <Image
                       src="/img/clients/PLASP-LOGO.png"
                       className="img-fluid"
                       alt="PLASP-LOGO"
+                      width={200}
+                        height={80}
                     />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="swiper-slide">
-                    <img
+                    <Image
                       src="/img/clients/SOS-MANUFACTURING-LOGO.png"
                       className="img-fluid"
                       alt="SOS-MANUFACTURING-LOGO"
+                      width={200}
+                        height={80}
                     />
                   </div>
                 </SwiperSlide>
@@ -1102,10 +1114,12 @@ export default function Home() {
                 <SwiperSlide>
                   <div className="casestudys-slider-item">
                     <div className="profile mt-auto">
-                      <img
+                      <Image
                         src="/img/cs-DMIC-logo.png"
                         className="cs-DMIC-logo"
-                        alt=""
+                        alt="cs-DMIC-logo"
+                        width={200}
+                        height={80}
                       />
                       <p>
                         Streamline Manufacturing & Accounting with D365 Business
@@ -1135,10 +1149,12 @@ export default function Home() {
                 <SwiperSlide>
                   <div className="casestudys-slider-item">
                     <div className="profile mt-auto">
-                      <img
+                      <Image
                         src="/img/cs-spectra-logo.png"
                         className="cs-spectra-logo"
                         alt="crm-trading"
+                        width={200}
+                        height={80}
                       />
                       <p>
                         Implemented Custom EFT Module to improvise Payment
@@ -1168,10 +1184,12 @@ export default function Home() {
                 <SwiperSlide>
                   <div className="casestudys-slider-item">
                     <div className="profile mt-auto">
-                      <img
+                      <Image
                         src="/img/cs-shimco-logo-csg.png"
                         className="casestudys-slider-item-img"
                         alt="cs-shimco-logo-csg"
+                        width={200}
+                        height={80}
                       />
                       <p>
                         Implementation of Microsoft Dynamics Business Central

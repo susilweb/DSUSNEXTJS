@@ -1,8 +1,7 @@
 import React, { Component } from "react";
+import Image from 'next/image';
 
 class Header extends Component {
-
-
 componentDidMount() {
     let elementId = document.getElementById("header");
     document.addEventListener("scroll", () => {
@@ -27,9 +26,11 @@ return(
           <nav id="navbar" className="navbar">
             <div className="left-logo">
               <a href="/" className="logo">
-                <img
+                <Image
                   src="/img/dynamicssqure-logo.svg"
                   alt="Dynamics Square logo"
+                  width={550}
+                  height={90}
                 />
               </a>
             </div>

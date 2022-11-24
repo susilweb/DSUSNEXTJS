@@ -3,6 +3,7 @@ import Form from "./Form";
 import emailjs from '@emailjs/browser';
 import { useRouter } from 'next/router';
 import FormFooterSubscriber from './FormFooterSubscriber';
+import Image from 'next/image';
 const Footer = () =>{
   
   const router = useRouter();
@@ -180,10 +181,12 @@ const Footer = () =>{
                   </div>
                 </div>
                 <div className="col-sm-4 col-md-6 col-lg-6 hide-c">
-                  <img
+                  <Image
                     src="/img/contactfor-sede-img.jpg"
                     alt="contactfor-sede-img"
                     className="image-cover"
+                    width={545}
+                    height={641}
                     layout="responsive"
                   />
                 </div>
@@ -316,9 +319,11 @@ const Footer = () =>{
             <div className="row gy-4">
               <div className="col-lg-5 col-md-12 footer-info">
                 <a href="/" className="logo d-flex align-items-center">
-                  <img
-                    src="img/dsuk-footer-logo.svg"
+                  <Image
+                    src="/img/dsuk-footer-logo.svg"
                     alt="dsuk-footer-logo"
+                    width={282}
+                    height={20}
                   />
                 </a>
                 <p>
@@ -327,15 +332,19 @@ const Footer = () =>{
                   next-gen Microsoft Business Apps from our highly skilled
                   Microsoft consultants.
                 </p>
-                <img
-                  src="img/microsoft-partner.svg"
+                <Image
+                  src="/img/microsoft-partner.svg"
                   alt="microsoft-partner"
                   className="footer-img"
+                  width={210}
+                  height={74}
                 />
-                <img
-                  src="img/Tech-For-Socil-Impact.svg"
+                <Image
+                  src="/img/Tech-For-Socil-Impact.svg"
                   alt="Tech-For-Socil-Impact"
                   className="footer-img"
+                  width={210}
+                  height={74}
                 />
               </div>
               <div className="col-lg-2 col-12 footer-links">
