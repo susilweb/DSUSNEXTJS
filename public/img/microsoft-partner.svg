@@ -1,0 +1,20 @@
+<svg data-name="Group 380" xmlns="http://www.w3.org/2000/svg" width="209.993" height="74.36" viewBox="0 0 209.993 74.36">
+    <defs>
+        <clipPath id="30ezkg6n6a">
+            <path data-name="Rectangle 461" style="fill:none" d="M0 0h209.993v74.361H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 251">
+        <g data-name="Group 250" style="clip-path:url(#30ezkg6n6a)">
+            <text data-name="Microsoft Partner" transform="translate(0 37.5)" style="font-family:SegoeUI,Segoe UI;font-size:26px;fill:#fff"><tspan x="0" y="0">Microsoft </tspan><tspan y="0" style="letter-spacing:-.034em">P</tspan><tspan y="0">artner</tspan></text>
+            <text transform="translate(0 11.249)" style="fill:#edb462;font-size:14px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">Gold</tspan></text>
+        </g>
+    </g>
+    <path data-name="Rectangle 462" transform="translate(134.665 56.445)" style="fill:#e34b23" d="M0 0h7.658v7.658H0z"/>
+    <path data-name="Rectangle 463" transform="translate(142.865 56.445)" style="fill:#6dbb29" d="M0 0h7.658v7.658H0z"/>
+    <path data-name="Rectangle 464" transform="translate(134.665 64.626)" style="fill:#589dd4" d="M0 0h7.658v7.658H0z"/>
+    <path data-name="Rectangle 465" transform="translate(142.865 64.626)" style="fill:#f4bf01" d="M0 0h7.658v7.658H0z"/>
+    <g style="clip-path:url(#30ezkg6n6a)" data-name="Group 253">
+        <text transform="translate(155.315 66.622)" style="font-size:10px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#fff" data-name="Group 252"><tspan x="0" y="0">Mic</tspan><tspan y="0" style="letter-spacing:-.008em">r</tspan><tspan y="0">os</tspan><tspan y="0" style="letter-spacing:-.016em">o</tspan><tspan y="0" style="letter-spacing:.018em">f</tspan><tspan y="0">t</tspan></text>
+    </g>
+</svg>

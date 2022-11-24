@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="181" height="181" viewBox="0 0 181 181">
+    <defs>
+        <filter id="gy4oxoa8ba" x="0" y="0" width="181" height="181" filterUnits="userSpaceOnUse">
+            <feOffset dy="15"/>
+            <feGaussianBlur stdDeviation="15" result="blur"/>
+            <feFlood flood-color="#1773ce" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Component 41 – 1">
+        <g style="filter:url(#gy4oxoa8ba)">
+            <rect data-name="Rectangle 1314" width="91" height="91" rx="10" transform="translate(45 30)" style="fill:#ee3442"/>
+        </g>
+        <g data-name="Group 982">
+            <path data-name="Path 974" d="M110.579 495.83H81.757a10.556 10.556 0 0 0-10.523 10.538v13.855A10.55 10.55 0 0 0 81.7 530.746l.057 10.31 13.643-10.31h15.18a10.556 10.556 0 0 0 10.538-10.523v-13.856a10.569 10.569 0 0 0-10.538-10.538z" transform="translate(-5.234 -440.942)" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px"/>
+            <path data-name="Path 976" d="M89.568 513.927V508.6h-1.125a2.069 2.069 0 0 1 1.125-1.529v-1.952a6.087 6.087 0 0 0-2.512 1.139 4.673 4.673 0 0 0-1.578 2.083 9.011 9.011 0 0 0-.463 3.133v2.444z" transform="translate(.608 -437.003)" style="fill:#fff"/>
+            <path data-name="Path 975" d="M93.836 513.927V508.6h-1.125a2.069 2.069 0 0 1 1.125-1.529v-1.952a6.009 6.009 0 0 0-2.519 1.139 4.7 4.7 0 0 0-1.566 2.083 9.011 9.011 0 0 0-.463 3.133v2.444z" transform="translate(2.418 -437.003)" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

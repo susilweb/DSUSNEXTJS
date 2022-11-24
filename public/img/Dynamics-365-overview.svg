@@ -1,0 +1,246 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="555" height="552.067" viewBox="0 0 555 552.067">
+    <g transform="translate(-15 -17.563)">
+        <path data-name="Path 905" d="M503.967 493.929C462.423 580.119 374.238 639.6 272.161 639.6 130.138 639.6 15 524.456 15 382.435A256.687 256.687 0 0 1 112.159 181.1l160 201.335z" transform="translate(0 -69.967)" style="fill:#90caf9"/>
+        <path data-name="Path 906" d="M601.973 340.691a256.207 256.207 0 0 1-25.356 111.494L344.812 340.691l-160-201.335a256.052 256.052 0 0 1 160-55.826c142.023 0 257.161 115.138 257.161 257.161z" transform="translate(-72.65 -28.223)" style="fill:#bbdefb"/>
+        <circle data-name="Ellipse 104" cx="161.194" cy="161.194" r="161.194" transform="translate(110.967 151.274)" style="fill:#e3f2fd"/>
+        <path data-name="Path 907" d="M447.486 472.194v-43.865c.268.148.475.247.666.37 3.765 2.427 7.521 4.869 11.3 7.273a.915.915 0 0 1 .434 1.292q-5.448 16.135-10.851 32.289c-.061.181-.1.37-.206.774l38.7-40.069c.023.343.048.551.048.758q0 9.347.012 18.695a.884.884 0 0 1-.53.915q-19.541 10.654-39.068 21.333c-.127.067-.262.124-.505.235z" transform="translate(-185.033 -175.74)" style="fill:#0071bc"/>
+        <path data-name="Path 908" d="m447.062 391.529 38.928 21.128-4.259 3.059c-2.741 1.965-5.49 3.921-8.219 5.9a1.061 1.061 0 0 1-1.259.12q-12.272-5.983-24.562-11.93c-.321-.156-.644-.241-.643-.753.022-5.785.014-11.573.014-17.524z" transform="translate(-184.846 -159.996)" style="fill:#0071bc"/>
+        <path data-name="Path 909" d="M627.376 745.046a198.878 198.878 0 0 1-83.1 42.63h-.006l-19.3-72.508a123.214 123.214 0 0 0 51.792-25.507z" transform="translate(-218.182 -287.547)" style="stroke-miterlimit:10;stroke:#fff;fill:#1976d2"/>
+        <path data-name="Path 910" d="M428.317 787.35a198.611 198.611 0 0 1-174.36-41.116l48.321-57.334a123.939 123.939 0 0 0 106.74 25.941z" transform="translate(-102.234 -287.221)" style="stroke-miterlimit:10;stroke:#fff;fill:#1976d2"/>
+        <path data-name="Path 911" d="M249.311 608.474 200.99 665.8q-6.545-5.5-12.641-11.606a197.69 197.69 0 0 1-42.121-62.131c-.142-.33-.286-.668-.427-1a197.444 197.444 0 0 1-15.647-77.357q0-6.432.405-12.8l74.712 6.733a135.59 135.59 0 0 0-.142 6.065 123.4 123.4 0 0 0 44.183 94.76z" transform="translate(-49.267 -206.795)" style="stroke-miterlimit:10;stroke:#fff;fill:#1976d2"/>
+        <path data-name="Path 912" d="M221.892 385.185a123.072 123.072 0 0 0-16.315 55.623l-74.712-6.733a198.506 198.506 0 0 1 27.853-89.392z" transform="translate(-49.572 -139.954)" style="stroke-miterlimit:10;stroke:#fff;fill:#1976d2"/>
+        <path data-name="Path 913" d="M216.043 56.777a293.525 293.525 0 0 1 145.591-38.713v95.223a198.507 198.507 0 0 0-98.229 26.124z" transform="translate(-86.013 -.214)" style="fill:#97d5f7"/>
+        <path data-name="Path 914" d="M361.057 18.137v94.651a198.808 198.808 0 0 0-97.837 26.02l-47.078-82.139a293.245 293.245 0 0 1 144.915-38.532m.572-.572a293.807 293.807 0 0 0-146.268 38.892l47.648 83.131a197.345 197.345 0 0 1 98.62-26.229v-95.8z" transform="translate(-85.721)" style="fill:#fff"/>
+        <path data-name="Path 915" d="M797.27 571.128a197.76 197.76 0 0 0 11.9-67.863 201.032 201.032 0 0 0-1.621-25.47l94.431-12.373a296.336 296.336 0 0 1 2.413 37.845 292.433 292.433 0 0 1-17.67 100.533z" transform="translate(-334.682 -191.61)" style="fill:#97d5f7"/>
+        <path data-name="Path 916" d="M901.464 465.5a296.24 296.24 0 0 1 2.374 37.523 292.168 292.168 0 0 1-17.559 100.167l-88.914-32.475a198.063 198.063 0 0 0 11.823-67.692A201.392 201.392 0 0 0 807.6 477.8l93.864-12.3m.494-.641-95 12.434a200.1 200.1 0 0 1 1.659 25.73 197.691 197.691 0 0 1-11.984 68.034l89.99 32.867a295.919 295.919 0 0 0 15.335-139.064z" transform="translate(-334.41 -191.369)" style="fill:#fff"/>
+        <path data-name="Path 917" d="M789.7 379.751a198.447 198.447 0 0 0-33.98-87.541l78.043-54.591a293.372 293.372 0 0 1 50.368 129.771z" transform="translate(-316.906 -94.147)" style="fill:#97d5f7"/>
+        <path data-name="Path 918" d="M833.4 237.722a293.1 293.1 0 0 1 50.118 129.127l-93.865 12.284a198.736 198.736 0 0 0-33.829-87.148l77.576-54.263m.141-.8-78.514 54.92a197.065 197.065 0 0 1 34.132 87.93l95-12.434a293.651 293.651 0 0 0-50.618-130.416z" transform="translate(-316.608 -93.851)" style="fill:#fff"/>
+        <path data-name="Path 919" d="M702.382 222.735a200.129 200.129 0 0 0-70.563-61.961l43.994-84.452a295.294 295.294 0 0 1 104.615 91.82z" transform="translate(-263.897 -25.139)" style="fill:#97d5f7"/>
+        <path data-name="Path 920" d="M675.646 76.416a295.014 295.014 0 0 1 104.095 91.367l-77.576 54.264a200.425 200.425 0 0 0-70.247-61.684l43.729-83.947m-.243-.772L631.146 160.6a199.184 199.184 0 0 1 70.879 62.238l78.514-54.92a295.555 295.555 0 0 0-105.134-92.274z" transform="translate(-263.609 -24.849)" style="fill:#fff"/>
+        <path data-name="Path 921" d="M562.723 135.584a199.006 199.006 0 0 0-91.223-22.3v-95.22a291.945 291.945 0 0 1 114.108 23.131 292.508 292.508 0 0 1 21.107 9.936z" transform="translate(-195.307 -.214)" style="fill:#97d5f7"/>
+        <path data-name="Path 922" d="M471.572 18.136a291.582 291.582 0 0 1 113.647 23.082c7.19 3.042 14.2 6.335 20.9 9.821l-43.729 83.946a199.321 199.321 0 0 0-90.815-22.2V18.136m-.575-.572v95.795a197.357 197.357 0 0 1 91.628 22.4L606.889 50.8q-10.448-5.461-21.384-10.078A292.27 292.27 0 0 0 471 17.564z" transform="translate(-195.093)" style="fill:#fff"/>
+        <path data-name="Path 923" d="M216.043 56.777a293.525 293.525 0 0 1 145.591-38.713v95.223a198.507 198.507 0 0 0-98.229 26.124z" transform="translate(-86.013 -.214)" style="fill:#42a5f5"/>
+        <path data-name="Path 924" d="M361.057 18.137v94.651a198.808 198.808 0 0 0-97.837 26.02l-47.078-82.139a293.245 293.245 0 0 1 144.915-38.532m.572-.572a293.807 293.807 0 0 0-146.268 38.892l47.648 83.131a197.345 197.345 0 0 1 98.62-26.229v-95.8z" transform="translate(-85.721)" style="fill:#fff"/>
+        <path data-name="Path 925" d="M797.27 571.128a197.76 197.76 0 0 0 11.9-67.863 201.032 201.032 0 0 0-1.621-25.47l94.431-12.373a296.336 296.336 0 0 1 2.413 37.845 292.433 292.433 0 0 1-17.67 100.533z" transform="translate(-334.682 -191.61)" style="fill:#42a5f5"/>
+        <path data-name="Path 926" d="M901.464 465.5a296.24 296.24 0 0 1 2.374 37.523 292.168 292.168 0 0 1-17.559 100.167l-88.914-32.475a198.063 198.063 0 0 0 11.823-67.692A201.392 201.392 0 0 0 807.6 477.8l93.864-12.3m.494-.641-95 12.434a200.1 200.1 0 0 1 1.659 25.73 197.691 197.691 0 0 1-11.984 68.034l89.99 32.867a295.919 295.919 0 0 0 15.335-139.064z" transform="translate(-334.41 -191.369)" style="fill:#fff"/>
+        <path data-name="Path 927" d="M789.7 379.751a198.447 198.447 0 0 0-33.98-87.541l78.043-54.591a293.372 293.372 0 0 1 50.368 129.771z" transform="translate(-316.906 -94.147)" style="fill:#42a5f5"/>
+        <path data-name="Path 928" d="M833.4 237.722a293.1 293.1 0 0 1 50.118 129.127l-93.865 12.284a198.736 198.736 0 0 0-33.829-87.148l77.576-54.263m.141-.8-78.514 54.92a197.065 197.065 0 0 1 34.132 87.93l95-12.434a293.651 293.651 0 0 0-50.618-130.416z" transform="translate(-316.608 -93.851)" style="fill:#fff"/>
+        <path data-name="Path 929" d="M702.382 222.735a200.129 200.129 0 0 0-70.563-61.961l43.994-84.452a295.294 295.294 0 0 1 104.615 91.82z" transform="translate(-263.897 -25.139)" style="fill:#42a5f5"/>
+        <path data-name="Path 930" d="M675.646 76.416a295.014 295.014 0 0 1 104.095 91.367l-77.576 54.264a200.425 200.425 0 0 0-70.247-61.684l43.729-83.947m-.243-.772L631.146 160.6a199.184 199.184 0 0 1 70.879 62.238l78.514-54.92a295.555 295.555 0 0 0-105.134-92.274z" transform="translate(-263.609 -24.849)" style="fill:#fff"/>
+        <path data-name="Path 931" d="M562.723 135.584a199.006 199.006 0 0 0-91.223-22.3v-95.22a291.945 291.945 0 0 1 114.108 23.131 292.508 292.508 0 0 1 21.107 9.936z" transform="translate(-195.307 -.214)" style="fill:#42a5f5"/>
+        <path data-name="Path 932" d="M471.572 18.136a291.582 291.582 0 0 1 113.647 23.082c7.19 3.042 14.2 6.335 20.9 9.821l-43.729 83.946a199.321 199.321 0 0 0-90.815-22.2V18.136m-.575-.572v95.795a197.357 197.357 0 0 1 91.628 22.4L606.889 50.8q-10.448-5.461-21.384-10.078A292.27 292.27 0 0 0 471 17.564z" transform="translate(-195.093)" style="fill:#fff"/>
+        <path data-name="Line 87" transform="translate(409.194 457.499)" style="stroke:#0071bc;stroke-width:.25px;fill:none;stroke-miterlimit:10" d="M.48.525 0 0"/>
+        <path data-name="Line 88" transform="translate(108.96 204.611)" style="fill:#0071bc" d="M.188.12 0 0"/>
+        <text transform="translate(241.188 327.936)" style="font-family:SegoeUI,Segoe UI;font-size:19px;fill:#0071bc"><tspan x="0" y="0">Microsoft</tspan></text>
+        <text data-name="Dynamics 365" transform="translate(222.123 351.487)" style="font-family:SegoeUI,Segoe UI;font-size:19px;fill:#0071bc"><tspan x="0" y="0">Dynamics 365</tspan></text>
+        <path data-name="Line 89" transform="translate(215.836 88.33)" style="stroke-width:2px;stroke-linejoin:round;stroke-linecap:round;fill:none;stroke:#fff" d="M0 3.442V0"/>
+        <path data-name="Line 90" transform="translate(218.734 82.849)" style="stroke-width:2px;stroke-linejoin:round;stroke-linecap:round;fill:none;stroke:#fff" d="M0 8.922V0"/>
+        <path data-name="Line 91" transform="translate(221.633 85.909)" style="stroke-width:2px;stroke-linejoin:round;stroke-linecap:round;fill:none;stroke:#fff" d="M0 5.863V0"/>
+        <path data-name="Rectangle 1301" transform="translate(225.533 88.399)" style="stroke-width:2px;stroke-linejoin:round;stroke-linecap:round;fill:none;stroke:#fff" d="M0 0h11.638v17.263H0z"/>
+        <path data-name="Rectangle 1302" transform="translate(228.098 96.782)" style="fill:#fff" d="M0 0h2.047v2.047H0z"/>
+        <path data-name="Rectangle 1303" transform="translate(228.098 92.516)" style="fill:#fff" d="M0 0h5.905v2.047H0z"/>
+        <path data-name="Rectangle 1304" transform="translate(231.784 96.782)" style="fill:#fff" d="M0 0h2.047v2.047H0z"/>
+        <path data-name="Rectangle 1305" transform="translate(228.098 100.371)" style="fill:#fff" d="M0 0h2.047v2.047H0z"/>
+        <path data-name="Rectangle 1306" transform="translate(231.784 100.371)" style="fill:#fff" d="M0 0h2.047v2.047H0z"/>
+        <path data-name="Path 933" d="M368.8 149.153h-10.409v-24.077h18.17v5.712" transform="translate(-146.915 -45.998)" style="stroke-width:2px;fill:none;stroke-miterlimit:10;stroke:#fff"/>
+        <circle data-name="Ellipse 105" cx="2.047" cy="2.047" r="2.047" transform="translate(216.525 95.392)" style="stroke-width:2px;fill:none;stroke-miterlimit:10;stroke:#fff"/>
+        <path data-name="Path 934" d="M557.762 140.233h-11.729v-11.725a11.615 11.615 0 1 0 11.729 11.725z" transform="translate(-222.274 -47.466)" style="stroke-width:2px;stroke-linejoin:round;stroke-linecap:round;fill:none;stroke:#fff"/>
+        <path data-name="Path 935" d="M565.3 122.239v.673a3.9 3.9 0 0 1 1.141.273 2.262 2.262 0 0 1 .83.622 2.637 2.637 0 0 1 .431.653 1.5 1.5 0 0 1 .153.616.736.736 0 0 1-.229.538.751.751 0 0 1-.55.229.774.774 0 0 1-.79-.659 1.408 1.408 0 0 0-.989-1.03v2.586q.771.212 1.228.386a2.56 2.56 0 0 1 .817.5 2.325 2.325 0 0 1 .593.818 2.563 2.563 0 0 1 .209 1.041 2.758 2.758 0 0 1-.333 1.327 2.632 2.632 0 0 1-.979 1.01 3.49 3.49 0 0 1-1.536.466v1.548a1.463 1.463 0 0 1-.072.534.3.3 0 0 1-.314.168.346.346 0 0 1-.313-.137.778.778 0 0 1-.09-.423v-1.679a3.945 3.945 0 0 1-1.272-.343 3.015 3.015 0 0 1-.908-.65 2.717 2.717 0 0 1-.537-.808 2.14 2.14 0 0 1-.172-.824.75.75 0 0 1 .234-.538.775.775 0 0 1 .581-.24.824.824 0 0 1 .473.13.676.676 0 0 1 .267.367 7.874 7.874 0 0 0 .292.78 1.482 1.482 0 0 0 .377.494 1.673 1.673 0 0 0 .668.343v-2.9a7.592 7.592 0 0 1-1.393-.515 2.336 2.336 0 0 1-.907-.805 2.664 2.664 0 0 1 .332-3.1 3.053 3.053 0 0 1 1.968-.8v-.659q0-.522.391-.522t.399.53zm-.79 4.265v-2.381a2.162 2.162 0 0 0-.815.411 1.155 1.155 0 0 0-.019 1.514 2.524 2.524 0 0 0 .832.452zm.79 1.847v2.724a1.71 1.71 0 0 0 .973-.5 1.28 1.28 0 0 0 .343-.883 1.062 1.062 0 0 0-.332-.836 2.718 2.718 0 0 0-.984-.505z" transform="translate(-233.862 -44.564)" style="fill:#fff"/>
+        <path data-name="Path 936" d="M730.313 211.269a6.435 6.435 0 1 1-6.432-6.435 6.435 6.435 0 0 1 6.432 6.435zm4.215 9.093a16.027 16.027 0 0 0-9.084-2.8 1.976 1.976 0 0 0-.247.01.015.015 0 0 0-.021 0 14.227 14.227 0 0 0-1.673.108h-.011a16.112 16.112 0 0 0-13.278 10.725m15.32-2.7h6.809m-3.4-3.346v6.694" transform="translate(-297.437 -80.121)" style="stroke-width:2px;stroke-linecap:round;fill:none;stroke-miterlimit:10;stroke:#fff"/>
+        <path data-name="Path 937" d="M864.941 565.416a2.037 2.037 0 0 0-.937-1.955 1.605 1.605 0 0 0-.452-.225 6.055 6.055 0 0 0 .129-1.244v-7.806a5.837 5.837 0 0 0-.076-.965 1.71 1.71 0 0 0 .376-.172 2.147 2.147 0 1 0-2.124-3.732 1.847 1.847 0 0 0-.332.236 4.824 4.824 0 0 0-.9-.654l-6.757-3.9a5.488 5.488 0 0 0-.954-.45 1.777 1.777 0 0 0 .042-.487 2.069 2.069 0 0 0-1.1-1.8 2.163 2.163 0 0 0-3.186 1.893 1.618 1.618 0 0 0 .043.4 5.492 5.492 0 0 0-.954.45L841 548.9a6.237 6.237 0 0 0-.708.472 2.191 2.191 0 0 0-.354-.268 2.162 2.162 0 0 0-3.255 1.659 2.037 2.037 0 0 0 .936 1.956 1.631 1.631 0 0 0 .453.229 6.038 6.038 0 0 0-.129 1.244V562a5.824 5.824 0 0 0 .075.965 1.689 1.689 0 0 0-.375.172 2.147 2.147 0 1 0 2.123 3.732 1.854 1.854 0 0 0 .332-.236 4.807 4.807 0 0 0 .9.654l6.757 3.9a5.444 5.444 0 0 0 .954.44 2.186 2.186 0 0 0-.033.66 1.928 1.928 0 0 0 .9 1.539 2.174 2.174 0 0 0 3.376-1.791 1.7 1.7 0 0 0-.043-.407 5.439 5.439 0 0 0 .954-.44l6.757-3.9a6.286 6.286 0 0 0 .708-.471 2.184 2.184 0 0 0 .354.268 2.162 2.162 0 0 0 3.256-1.666zm-2.333-3.424a4.9 4.9 0 0 1-.129 1.126 2.105 2.105 0 0 0-1.533 1.019 2.134 2.134 0 0 0-.2 1.759 4.759 4.759 0 0 1-.655.461l-6.757 3.891a4.708 4.708 0 0 1-.89.4 2.126 2.126 0 0 0-3.261 0 4.7 4.7 0 0 1-.89-.4l-6.757-3.891a4.228 4.228 0 0 1-.826-.611 2.146 2.146 0 0 0-1.608-2.853 5.107 5.107 0 0 1-.086-.9v-7.806a4.9 4.9 0 0 1 .129-1.126 2.106 2.106 0 0 0 1.533-1.019 2.134 2.134 0 0 0 .2-1.759 4.832 4.832 0 0 1 .655-.461l6.757-3.891a4.674 4.674 0 0 1 .89-.4 2.126 2.126 0 0 0 3.261 0 4.672 4.672 0 0 1 .89.4l6.757 3.891a4.245 4.245 0 0 1 .826.611 2.144 2.144 0 0 0 1.608 2.853 5.113 5.113 0 0 1 .086.9zm-4.291-6.139H843.3v-3.217h15.015zm-1.072 7.508h-12.87v-6.435h12.87z" transform="translate(-351.49 -224.37)" style="fill:#fff"/>
+        <circle data-name="Ellipse 106" cx="6.435" cy="6.435" r="6.435" transform="translate(483.252 210.831)" style="stroke-width:2px;stroke-linecap:round;fill:none;stroke-miterlimit:10;stroke:#fff"/>
+        <path data-name="Path 938" d="M845.165 380.433a16.032 16.032 0 0 0-9.084-2.8 1.875 1.875 0 0 0-.247.011.014.014 0 0 0-.021 0 14.342 14.342 0 0 0-1.673.107h-.011a16.113 16.113 0 0 0-13.278 10.725" transform="translate(-344.771 -154.05)" style="stroke-width:2px;stroke-linecap:round;fill:none;stroke-miterlimit:10;stroke:#fff"/>
+        <path data-name="Line 92" transform="translate(483.788 233.354)" style="stroke-width:2px;fill:none;stroke-miterlimit:10;stroke:#fff" d="M0 0h10.725"/>
+        <path data-name="Line 93" transform="translate(484.861 237.644)" style="stroke-width:4px;fill:none;stroke-miterlimit:10;stroke:#fff" d="M0 0h8.58"/>
+        <path data-name="Line 94" transform="translate(496.658 233.354)" style="stroke-width:2px;fill:none;stroke-miterlimit:10;stroke:#fff" d="M0 0h9.652"/>
+        <path data-name="Line 95" transform="translate(496.658 237.644)" style="stroke-width:4px;fill:none;stroke-miterlimit:10;stroke:#fff" d="M0 0h9.652"/>
+        <text transform="rotate(-22.59 271.118 -407.423)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">C</tspan></text>
+        <text transform="rotate(-20.38 285.346 -484.91)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">o</tspan></text>
+        <text transform="rotate(-17.7 308.402 -595.26)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">m</tspan></text>
+        <text data-name="m" transform="rotate(-14.53 346.54 -791.527)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">m</tspan></text>
+        <text transform="rotate(-11.94 387.828 -1035.614)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">e</tspan></text>
+        <text transform="rotate(-10.327 420.261 -1249.837)" style="font-size:15px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">r</tspan></text>
+        <text data-name="c" transform="rotate(-8.831 474.749 -1504.627)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">c</tspan></text>
+        <text data-name="e" transform="rotate(-7.012 561.74 -1964.941)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">e</tspan></text>
+        <text transform="rotate(5.922 -355.637 2943.44)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">F</tspan></text>
+        <text transform="rotate(7.259 -264.867 2468.263)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">i</tspan></text>
+        <text transform="rotate(8.734 -194.843 2080.5)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">n</tspan></text>
+        <text transform="rotate(10.699 -132.945 1751.312)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">a</tspan></text>
+        <text data-name="n" transform="rotate(12.664 -89.816 1519.774)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">n</tspan></text>
+        <text data-name="c" transform="rotate(14.542 -60.047 1361.927)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">c</tspan></text>
+        <text data-name="e" transform="rotate(16.341 -37.343 1239.944)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">e</tspan></text>
+        <text transform="rotate(38.74 69.497 670.1)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">H</tspan></text>
+        <text data-name="R" transform="rotate(41.187 75.256 646.703)" style="font-size:15px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">R</tspan></text>
+        <text data-name="M" transform="rotate(59 98.077 521.44)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">M</tspan></text>
+        <text data-name="a" transform="rotate(61.56 98.672 512.293)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">a</tspan></text>
+        <text data-name="n" transform="rotate(63.512 100.444 503.112)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">n</tspan></text>
+        <text transform="rotate(65.613 102.155 494.188)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">u</tspan></text>
+        <text data-name="f" transform="rotate(67.23 102.364 489.298)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">f</tspan></text>
+        <text data-name="a" transform="rotate(68.72 104.095 482.37)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">a</tspan></text>
+        <text data-name="c" transform="rotate(70.511 105.239 476.041)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">c</tspan></text>
+        <text transform="rotate(71.995 105.74 471.441)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">t</tspan></text>
+        <text data-name="u" transform="rotate(73.69 107.793 464.176)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">u</tspan></text>
+        <text data-name="r" transform="rotate(75.35 108.51 460.311)" style="font-size:15px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">r</tspan></text>
+        <text data-name="i" transform="rotate(76.464 108.207 456.97)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">i</tspan></text>
+        <text data-name="n" transform="rotate(77.95 110.4 450.693)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">n</tspan></text>
+        <text transform="rotate(80.1 111.767 444.17)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">g</tspan></text>
+        <text transform="rotate(87.209 115.658 425.64)" style="font-size:15px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">S</tspan></text>
+        <text data-name="u" transform="rotate(89.226 116.21 419.99)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">u</tspan></text>
+        <text transform="rotate(91.344 117.239 414.847)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">p</tspan></text>
+        <text data-name="p" transform="rotate(93.498 118.144 409.908)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">p</tspan></text>
+        <text transform="rotate(95.05 117.451 407.716)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">l</tspan></text>
+        <text transform="rotate(96.37 118.89 403.887)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">y</tspan></text>
+        <text data-name="C" transform="rotate(99.37 120.588 397.17)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">C</tspan></text>
+        <text data-name="h" transform="rotate(101.5 121.123 392.95)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">h</tspan></text>
+        <text data-name="a" transform="rotate(103.48 121.582 389.381)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">a</tspan></text>
+        <text data-name="i" transform="scale(-1) rotate(-75.12 -503.62 157.322)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">i</tspan></text>
+        <text data-name="n" transform="rotate(106.347 122.84 383.724)" style="font-size:16px;font-family:SegoeUI,Segoe UI;fill:#fff"><tspan x="0" y="0">n</tspan></text>
+        <text data-name="-" transform="rotate(-15.2 655.977 -799.396)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(-13.1 741.058 -969.347)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(-10.964 856.128 -1202.636)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(-8.859 1026.946 -1546.413)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(-6.766 1301.864 -2100.207)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(-4.645 1832.904 -3168.54)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(-2.56 3187.172 -5901.752)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="translate(274.92 137.242)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(1.604 -4759.526 10109.059)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(3.676 -1996.545 4544.459)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(5.756 -1223.338 2987.06)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(7.837 -860.257 2255.818)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(9.909 -650.097 1832.572)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(11.986 -512.202 1554.87)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(14.07 -414.743 1358.915)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(16.134 -342.747 1213.612)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(18.2 -286.909 1099.11)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(20.288 -242.148 1010.998)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(22.39 -205.294 936.466)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(24.448 -175.362 876.454)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(26.535 -149.64 824.61)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(28.628 -127.543 780.07)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(30.719 -108.41 741.492)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="E" transform="rotate(33.09 -89.158 702.11)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">E</tspan></text>
+        <text data-name="R" transform="rotate(36.011 -68.873 660.89)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">R</tspan></text>
+        <text data-name="P" transform="rotate(39.04 -51.468 625.964)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">P</tspan></text>
+        <text data-name="-" transform="rotate(41.55 -39.396 602.523)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(43.663 -29.775 582.864)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(45.729 -21.253 565.697)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(47.88 -13.018 548.844)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(49.953 -5.787 534.474)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(52.03 .905 521.197)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(54.12 7.157 508.502)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(56.17 12.826 496.722)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(58.73 20.145 482.133)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(60.277 23.143 476.122)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(62.344 27.881 466.573)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(64.409 32.335 457.595)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(66.48 36.564 449.03)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(68.6 40.704 440.757)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(70.732 44.706 432.73)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(72.78 48.274 425.656)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(74.912 51.826 418.398)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(77.011 55.17 411.676)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(79.113 58.367 405.25)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(81.216 61.423 399.104)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(83.316 64.344 393.228)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(85.412 67.136 387.606)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(87.501 69.806 382.224)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(89.6 72.387 377.013)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="matrix(-.029 1 -1 -.029 448.938 308.153)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(93.784 77.277 367.184)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(95.853 79.534 362.603)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(97.911 81.693 358.204)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <path data-name="Path 939" d="M206.856 606.371a11.838 11.838 0 0 1 3.934 1.6m3.67 16.505a11.856 11.856 0 0 0 1.655-4.154m-18.382 7.657a11.863 11.863 0 0 0 4.208 1.774m-9.207-14.343a11.864 11.864 0 0 1 1.716-3.989m-1.8 8.9a11.866 11.866 0 0 0 1.655 4.154m12.519 5.273a11.857 11.857 0 0 0 4.208-1.774m3.281-16.56a11.875 11.875 0 0 1 1.717 3.989m-18.054-7.438a11.831 11.831 0 0 1 3.934-1.6m0 0 .245-3.608h4.45l.245 3.608m-4.914 23.382.219 3.224h4.45l.219-3.224m-12.379-18.328-2.322-2.661 3.147-3.147 2.705 2.36m16.485 16.509 2.181 2.5-3.147 3.147-2.457-2.144m-18.383-7.656-3.376-.229v-4.45l3.457-.235m23.379 4.914 3.376-.229v-4.45l-3.457-.235m-21.724 9.069-2.181 2.5 3.147 3.147 2.457-2.144m16.585-16.56 2.322-2.661-3.147-3.147-2.7 2.36" transform="translate(-74.563 -250.368)" style="stroke-linejoin:round;stroke-linecap:round;fill:none;stroke:#fff"/>
+        <path data-name="Path 940" d="M213.22 618.55a6.1 6.1 0 0 1 0 11.448m-4.2 0a6.1 6.1 0 0 1 0-11.448m6.679-1.065-3.319.716.58 2.684m-7.008 9.97 3.376-.337-.272-2.732" transform="translate(-81.297 -256.667)" style="stroke-width:2px;stroke-linejoin:round;stroke-linecap:round;fill:none;stroke:#fff"/>
+        <path data-name="Path 941" d="M586.725 776.325v-6.908m4.934 6.908v-10.856m4.934 10.855v-6.908m4.934 6.908V763.1m1.38-7.11-6.471 4.986-3.7-3.321-7.395 6.648" transform="translate(-244.014 -315.925)" style="stroke-width:2px;stroke-linecap:round;fill:none;stroke-miterlimit:10;stroke:#fff"/>
+        <path data-name="Path 942" d="M409.195 773.581a5.921 5.921 0 1 1-5.921-5.921 5.921 5.921 0 0 1 5.921 5.921zm3.878 8.367a14.745 14.745 0 0 0-8.358-2.575 1.676 1.676 0 0 0-.229.01.013.013 0 0 0-.019 0 13.249 13.249 0 0 0-1.54.1h-.01a14.826 14.826 0 0 0-12.217 9.867" transform="translate(-160.738 -320.918)" style="stroke-width:2px;stroke-linecap:round;fill:none;stroke-miterlimit:10;stroke:#fff"/>
+        <path data-name="Path 943" d="m417.151 795.583 1.595-3.184 1.557 3.2 3.521.533-2.564 2.47.581 3.514-3.142-1.676-3.162 1.638.622-3.506-2.535-2.5z" transform="translate(-170.545 -331.502)" style="fill:#fff"/>
+        <path data-name="Path 944" d="M205.823 441.947h-11.064v-10.855h18.75v10.855h-4.984m-14.753 0h-1.194m-2.7 0h-3.01v-6.908l2.96-2.96h4.934m12.413 9.453a2.389 2.389 0 1 0 2.389 2.389 2.389 2.389 0 0 0-2.389-2.389zm-15.945 0a2.389 2.389 0 1 0 2.389 2.389 2.389 2.389 0 0 0-2.389-2.389zm-4.363-5.505h6.908" transform="translate(-73.529 -176.922)" style="stroke-width:2px;stroke-linecap:round;fill:none;stroke-miterlimit:10;stroke:#fff"/>
+        <text data-name="F" transform="rotate(117.26 -24.756 120.734)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">F</tspan></text>
+        <text data-name="i" transform="matrix(-.435 .9 -.9 -.435 67.744 204.885)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">i</tspan></text>
+        <text data-name="e" transform="rotate(114.313 -34.25 125.504)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">e</tspan></text>
+        <text data-name="l" transform="scale(-1) rotate(-67.18 -193.82 -60.761)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">l</tspan></text>
+        <text transform="rotate(111.22 -44.555 130.675)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">d</tspan></text>
+        <text data-name="S" transform="rotate(107.946 -56.324 136.621)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">S</tspan></text>
+        <text data-name="e" transform="rotate(105.87 -63.903 140.44)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">e</tspan></text>
+        <text data-name="r" transform="matrix(-.245 .97 -.97 -.245 51.474 248.261)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">r</tspan></text>
+        <text transform="rotate(102.549 -76.644 146.91)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">v</tspan></text>
+        <text data-name="i" transform="rotate(101.13 -83.088 150.469)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">i</tspan></text>
+        <text data-name="c" transform="rotate(99.782 -87.258 153.01)" style="font-size:14px;fill:#1565c0;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">c</tspan></text>
+        <text data-name="e" transform="rotate(97.871 -95.283 156.272)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">e</tspan></text>
+        <text data-name="P" transform="rotate(84.213 -159.183 188.57)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">P</tspan></text>
+        <text data-name="r" transform="rotate(82.454 -169.435 194.262)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">r</tspan></text>
+        <text data-name="o" transform="rotate(80.62 -178.58 198.213)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">o</tspan></text>
+        <text transform="rotate(79.05 -188.743 204.058)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">j</tspan></text>
+        <text data-name="e" transform="rotate(77.52 -197.076 207.772)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">e</tspan></text>
+        <text data-name="c" transform="rotate(75.589 -208.471 214.459)" style="font-size:14px;fill:#1565c0;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">c</tspan></text>
+        <text data-name="t" transform="rotate(74.03 -219.68 219.73)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">t</tspan></text>
+        <text data-name="M" transform="rotate(70.55 -241.086 228.547)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">M</tspan></text>
+        <text data-name="a" transform="rotate(67.799 -262.762 240.817)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">a</tspan></text>
+        <text data-name="n" transform="rotate(65.699 -278.94 248.726)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">n</tspan></text>
+        <text data-name="a" transform="rotate(63.603 -296.489 257.793)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">a</tspan></text>
+        <text data-name="g" transform="rotate(61.463 -314.96 266.73)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">g</tspan></text>
+        <text data-name="e" transform="rotate(59.331 -335.214 277.312)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">e</tspan></text>
+        <text data-name="m" transform="rotate(56.63 -361.105 288.643)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">m</tspan></text>
+        <text data-name="e" transform="rotate(53.909 -392.27 305.966)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">e</tspan></text>
+        <text data-name="n" transform="rotate(51.83 -417.054 318.379)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">n</tspan></text>
+        <text data-name="t" transform="rotate(50.089 -440.183 331.452)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">t</tspan></text>
+        <text data-name="C" transform="rotate(25.977 -1034.737 629.263)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">C</tspan></text>
+        <text data-name="u" transform="rotate(23.643 -1154.858 690.317)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">u</tspan></text>
+        <text data-name="s" transform="rotate(21.729 -1272.76 752.412)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">s</tspan></text>
+        <text data-name="t" transform="rotate(20.28 -1378.59 808.768)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">t</tspan></text>
+        <text data-name="o" transform="rotate(18.429 -1530.848 879.206)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">o</tspan></text>
+        <text data-name="m" transform="rotate(15.598 -1838.081 1026.4)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">m</tspan></text>
+        <text data-name="e" transform="rotate(12.883 -2261.38 1248.321)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">e</tspan></text>
+        <text data-name="r" transform="rotate(11.19 -2629.266 1440.289)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">r</tspan></text>
+        <text data-name="S" transform="rotate(8.398 -3553.163 1898.602)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">S</tspan></text>
+        <text data-name="e" transform="rotate(6.28 -4735.156 2485.783)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">e</tspan></text>
+        <text data-name="r" transform="rotate(4.685 -6489.686 3396.42)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">r</tspan></text>
+        <text data-name="v" transform="rotate(3.094 -9901.587 5107.663)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">v</tspan></text>
+        <text data-name="i" transform="translate(268.791 542.259)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">i</tspan></text>
+        <text data-name="c" transform="rotate(.929 -33251.06 17081.78)" style="font-size:14px;fill:#1565c0;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">c</tspan></text>
+        <text data-name="e" transform="matrix(1 -.026 .026 1 279.921 542.446)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">e</tspan></text>
+        <text data-name="S" transform="matrix(.882 -.47 .47 .882 384.112 516.975)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">S</tspan></text>
+        <text data-name="a" transform="rotate(-30.079 1150.426 -472.101)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">a</tspan></text>
+        <text data-name="l" transform="rotate(-31.54 1100.559 -451.027)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">l</tspan></text>
+        <text data-name="e" transform="rotate(-33.04 1055.954 -424.067)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">e</tspan></text>
+        <text data-name="s" transform="rotate(-34.87 1003.768 -399.372)" style="fill:#1565c0;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">s</tspan></text>
+        <text data-name="-" transform="rotate(104.426 -20.727 202.76)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(101.101 -30.668 209.335)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(97.788 -41.069 216.214)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(94.498 -51.952 223.418)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(91.238 -63.348 230.97)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(88 -75.394 239.03)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(84.727 -88.163 247.413)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(81.425 -101.913 256.506)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(78.12 -116.582 266.12)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(74.786 -132.53 276.73)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(71.454 -149.691 288.06)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(68.1 -168.408 300.344)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(64.803 -188.507 313.696)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(61.488 -210.625 328.313)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(58.2 -234.84 344.285)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="C" transform="rotate(53.982 -268.904 365.75)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">C</tspan></text>
+        <text data-name="R" transform="rotate(49 -317.348 397.663)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">R</tspan></text>
+        <text data-name="M" transform="rotate(42.844 -390.589 443.775)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">M</tspan></text>
+        <text data-name="-" transform="rotate(37.53 -475.342 503.763)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(34.214 -539.388 545.948)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(30.924 -616.144 596.756)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(27.59 -712.263 660.289)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(24.283 -832.665 739.835)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(20.97 -990.639 844.24)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(17.637 -1209.491 988.876)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(14.3 -1529.33 1200.16)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(10.89 -2046.616 1538.327)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(7.672 -2984.523 2161.953)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(4.359 -5366.141 3736.282)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(1.123 -21247.17 14239.961)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(-2.108 11535.435 -7442.645)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(-5.383 4600.792 -2855.383)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(-8.681 2903.53 -1732.233)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(-11.994 2137.22 -1225.018)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(-15.31 1701.726 -936.662)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(-18.66 1417.73 -748.618)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(-21.972 1221.658 -618.856)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+        <text data-name="-" transform="rotate(-25.283 1076.445 -522.789)" style="fill:#1e88e5;font-size:15px;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">-</tspan></text>
+    </g>
+</svg>

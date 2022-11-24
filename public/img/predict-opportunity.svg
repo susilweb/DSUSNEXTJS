@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#E56E4B;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#EAA743;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#43A6EA;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#8FB93B;}
+	.st6{fill:#FFFFFF;}
+	.st7{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st9{fill:#43A6EA;}
+	.st10{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#E56E4B;stroke:#FFFFFF;stroke-linecap:round;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+	<path id="Base_00000013190809598364175100000002579725478012167328_" class="st5" d="M20.24,0h7.52c6.54,0,9.28,0.75,11.93,2.17   s4.73,3.49,6.14,6.14C47.25,10.96,48,13.7,48,20.24v7.52c0,6.54-0.75,9.28-2.17,11.93c-1.42,2.65-3.49,4.73-6.14,6.14   C37.04,47.25,34.3,48,27.76,48h-7.52c-6.54,0-9.28-0.75-11.93-2.17c-2.65-1.42-4.73-3.49-6.14-6.14S0,34.3,0,27.76v-7.52   c0-6.54,0.75-9.28,2.17-11.93s3.49-4.73,6.14-6.14S13.7,0,20.24,0z"></path>
+	<g>
+		<path class="st6" d="M19.73,27.02c-0.38,0-0.77-0.15-1.06-0.44l-5.12-5.12c-0.59-0.59-0.59-1.54,0-2.12    c0.58-0.59,1.54-0.59,2.12,0l4.06,4.06l12.68-12.68c0.59-0.59,1.54-0.59,2.12,0c0.59,0.59,0.59,1.54,0,2.12L20.79,26.58    C20.5,26.87,20.12,27.02,19.73,27.02z"></path>
+	</g>
+	<line class="st12" x1="14.97" y1="27.52" x2="14.97" y2="36.89"></line>
+	<line class="st12" x1="20.99" y1="30.22" x2="20.99" y2="36.89"></line>
+	<line class="st12" x1="27.01" y1="26.77" x2="27.01" y2="36.89"></line>
+	<line class="st12" x1="33.03" y1="20.79" x2="33.03" y2="36.89"></line>
+</g>
+<g id="Layer_2">
+</g>
+</svg>

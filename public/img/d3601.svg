@@ -1,0 +1,221 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="787" height="487" viewBox="0 0 787 487">
+    <defs>
+        <filter id="awuk9x0bqa" x="0" y="0" width="736" height="487" filterUnits="userSpaceOnUse">
+            <feOffset dy="15"/>
+            <feGaussianBlur stdDeviation="15" result="blur"/>
+            <feFlood flood-color="#165cc4" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="mqxr5s9tnc" x="497" y="157" width="290" height="290" filterUnits="userSpaceOnUse">
+            <feOffset dy="15"/>
+            <feGaussianBlur stdDeviation="15" result="blur-2"/>
+            <feFlood flood-color="#165cc4" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur-2"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <clipPath id="l8sifcym3b">
+            <path data-name="Rectangle 1033" transform="translate(355 3557)" style="stroke:#707070;fill:#fff" d="M0 0h155v70H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 805" transform="translate(-259 -3227)">
+        <g data-name="Group 767">
+            <g style="filter:url(#awuk9x0bqa)">
+                <rect data-name="Rectangle 876" width="646" height="397" rx="20" transform="translate(304 3257)" style="fill:#fff"/>
+            </g>
+            <g data-name="Group 633" style="opacity:.4">
+                <path data-name="Line 28" style="opacity:.59;fill:none;stroke:#707070" d="M604 0H0" transform="translate(325 3279)"/>
+                <path data-name="Line 29" style="fill:transparent;opacity:.5;stroke:#707070" d="M0 0v353" transform="translate(325 3279)"/>
+            </g>
+            <g data-name="Group 695">
+                <path data-name="Line 43" transform="translate(357 3544.545)" style="stroke:#daf1f2;stroke-linecap:round;fill:none" d="m0 0 2.978 2.978"/>
+                <path data-name="Line 44" transform="translate(357 3547.523)" style="stroke:#daf1f2;stroke-linecap:round;fill:none" d="M0 2.978 2.978 0"/>
+            </g>
+        </g>
+        <text data-name="Forecast Daily Selling" transform="translate(348 3315)" style="font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;font-size:14px;fill:#757e8e"><tspan x="0" y="0">Forecast Daily Selling</tspan></text>
+        <text data-name="Pipeline Management" transform="translate(348 3364)" style="font-size:12px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Pipeline Management</tspan></text>
+        <text data-name="Show as Table" transform="translate(744 3364)" style="font-size:10px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Show as Table</tspan></text>
+        <text transform="translate(842 3364)" style="font-size:10px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Collapse</tspan></text>
+        <path data-name="Rectangle 1012" transform="translate(348 3327)" style="fill:#eee0e8" d="M0 0h38v8H0z"/>
+        <path data-name="Rectangle 1013" transform="translate(393 3327)" style="fill:#eee0e8" d="M0 0h38v8H0z"/>
+        <path data-name="Rectangle 1014" transform="translate(438 3327)" style="fill:#eee0e8" d="M0 0h38v8H0z"/>
+        <rect data-name="Rectangle 1015" width="172" height="242" rx="10" transform="translate(348 3385)" style="fill:#f7f9fb"/>
+        <rect data-name="Rectangle 1016" width="172" height="242" rx="10" transform="translate(530 3385)" style="fill:#f7f9fb"/>
+        <rect data-name="Rectangle 1017" width="172" height="242" rx="10" transform="translate(712 3385)" style="fill:#f7f9fb"/>
+        <text transform="translate(356 3411)" style="font-size:12px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Pipeline</tspan></text>
+        <text data-name="Best case" transform="translate(540 3411)" style="font-size:12px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Best case</tspan></text>
+        <text transform="translate(724 3411)" style="font-size:12px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Committed</tspan></text>
+        <path data-name="Rectangle 1018" transform="translate(355 3422)" style="fill:#d1d9ec" d="M0 0h57v8H0z"/>
+        <path data-name="Rectangle 1021" transform="translate(540 3422)" style="fill:#d1d9ec" d="M0 0h57v8H0z"/>
+        <path data-name="Rectangle 1023" transform="translate(724 3422)" style="fill:#d1d9ec" d="M0 0h57v8H0z"/>
+        <path data-name="Rectangle 1019" transform="translate(488 3422)" style="fill:#d1d9ec" d="M0 0h22v8H0z"/>
+        <path data-name="Rectangle 1020" transform="translate(668 3422)" style="fill:#d1d9ec" d="M0 0h22v8H0z"/>
+        <path data-name="Rectangle 1022" transform="translate(852 3422)" style="fill:#d1d9ec" d="M0 0h22v8H0z"/>
+        <g data-name="Group 787">
+            <path data-name="Rectangle 1024" transform="translate(355 3448)" style="fill:#fff" d="M0 0h155v103H0z"/>
+            <circle data-name="Ellipse 53" cx="12.5" cy="12.5" r="12.5" transform="translate(372 3459)" style="fill:#d1d9ec"/>
+            <path data-name="Rectangle 1032" transform="translate(443 3515)" style="fill:#d1d9ec" d="M0 0h41v5H0z"/>
+            <path data-name="Rectangle 1031" transform="translate(443 3532)" style="fill:#d1d9ec" d="M0 0h41v5H0z"/>
+            <g data-name="Group 786" transform="translate(-2 -2)">
+                <circle data-name="Ellipse 54" cx="7" cy="7" r="7" transform="translate(445 3494)" style="fill:#d1d9ec"/>
+                <path data-name="Rectangle 1028" transform="translate(465 3499)" style="fill:#d1d9ec" d="M0 0h27v5H0z"/>
+            </g>
+            <text data-name="Fabrikam Margie" transform="translate(406 3476)" style="font-size:10px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Fabrikam Margie</tspan></text>
+            <text transform="translate(372 3501)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Owner</tspan></text>
+            <text data-name="Est Revenue" transform="translate(372 3518)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Est Revenue</tspan></text>
+            <text data-name="Est Close Da..." transform="translate(372 3535)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Est Close Da...</tspan></text>
+        </g>
+        <g data-name="Group 791" transform="translate(184)">
+            <path data-name="Rectangle 1024" transform="translate(355 3448)" style="fill:#fff" d="M0 0h155v103H0z"/>
+            <circle data-name="Ellipse 53" cx="12.5" cy="12.5" r="12.5" transform="translate(372 3459)" style="fill:#d1d9ec"/>
+            <path data-name="Rectangle 1032" transform="translate(443 3515)" style="fill:#d1d9ec" d="M0 0h41v5H0z"/>
+            <path data-name="Rectangle 1031" transform="translate(443 3532)" style="fill:#d1d9ec" d="M0 0h41v5H0z"/>
+            <g data-name="Group 786" transform="translate(-2 -2)">
+                <circle data-name="Ellipse 54" cx="7" cy="7" r="7" transform="translate(445 3494)" style="fill:#d1d9ec"/>
+                <path data-name="Rectangle 1028" transform="translate(465 3499)" style="fill:#d1d9ec" d="M0 0h27v5H0z"/>
+            </g>
+            <text data-name="Fabrikam Margie" transform="translate(406 3476)" style="font-size:10px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Fabrikam Margie</tspan></text>
+            <text data-name="Owner" transform="translate(372 3501)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Owner</tspan></text>
+            <text data-name="Est Revenue" transform="translate(372 3518)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Est Revenue</tspan></text>
+            <text data-name="Est Close Da..." transform="translate(372 3535)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Est Close Da...</tspan></text>
+        </g>
+        <g data-name="Group 794" transform="translate(366)">
+            <path data-name="Rectangle 1024" transform="translate(355 3448)" style="fill:#fff" d="M0 0h155v103H0z"/>
+            <circle data-name="Ellipse 53" cx="12.5" cy="12.5" r="12.5" transform="translate(372 3459)" style="fill:#d1d9ec"/>
+            <path data-name="Rectangle 1032" transform="translate(443 3515)" style="fill:#d1d9ec" d="M0 0h41v5H0z"/>
+            <path data-name="Rectangle 1031" transform="translate(443 3532)" style="fill:#d1d9ec" d="M0 0h41v5H0z"/>
+            <g data-name="Group 786" transform="translate(-2 -2)">
+                <circle data-name="Ellipse 54" cx="7" cy="7" r="7" transform="translate(445 3494)" style="fill:#d1d9ec"/>
+                <path data-name="Rectangle 1028" transform="translate(465 3499)" style="fill:#d1d9ec" d="M0 0h27v5H0z"/>
+            </g>
+            <text data-name="Fabrikam Margie" transform="translate(406 3476)" style="font-size:10px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Fabrikam Margie</tspan></text>
+            <text data-name="Owner" transform="translate(372 3501)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Owner</tspan></text>
+            <text data-name="Est Revenue" transform="translate(372 3518)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Est Revenue</tspan></text>
+            <text data-name="Est Close Da..." transform="translate(372 3535)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Est Close Da...</tspan></text>
+        </g>
+        <g data-name="Mask Group 9" style="clip-path:url(#l8sifcym3b)">
+            <g data-name="Group 788" transform="translate(0 109)">
+                <path data-name="Rectangle 1024" transform="translate(355 3448)" style="fill:#fff" d="M0 0h155v103H0z"/>
+                <circle data-name="Ellipse 53" cx="12.5" cy="12.5" r="12.5" transform="translate(372 3459)" style="fill:#d1d9ec"/>
+                <path data-name="Rectangle 1032" transform="translate(443 3515)" style="fill:#d1d9ec" d="M0 0h41v5H0z"/>
+                <path data-name="Rectangle 1031" transform="translate(443 3532)" style="fill:#d1d9ec" d="M0 0h41v5H0z"/>
+                <g data-name="Group 786" transform="translate(-2 -2)">
+                    <circle data-name="Ellipse 54" cx="7" cy="7" r="7" transform="translate(445 3494)" style="fill:#d1d9ec"/>
+                    <path data-name="Rectangle 1028" transform="translate(465 3499)" style="fill:#d1d9ec" d="M0 0h27v5H0z"/>
+                </g>
+                <text data-name="Fabrikam Margie" transform="translate(406 3476)" style="font-size:10px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Fabrikam Margie</tspan></text>
+                <text data-name="Owner" transform="translate(372 3501)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Owner</tspan></text>
+                <text data-name="Est Revenue" transform="translate(372 3518)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Est Revenue</tspan></text>
+                <text data-name="Est Close Da..." transform="translate(372 3535)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Est Close Da...</tspan></text>
+            </g>
+        </g>
+        <g data-name="Mask Group 10" transform="translate(184)" style="clip-path:url(#l8sifcym3b)">
+            <g data-name="Group 790" transform="translate(0 109)">
+                <path data-name="Rectangle 1034" transform="translate(355 3448)" style="fill:#fff" d="M0 0h155v103H0z"/>
+                <circle data-name="Ellipse 55" cx="12.5" cy="12.5" r="12.5" transform="translate(372 3459)" style="fill:#d1d9ec"/>
+                <path data-name="Rectangle 1035" transform="translate(443 3515)" style="fill:#d1d9ec" d="M0 0h41v5H0z"/>
+                <path data-name="Rectangle 1036" transform="translate(443 3532)" style="fill:#d1d9ec" d="M0 0h41v5H0z"/>
+                <g data-name="Group 789" transform="translate(-2 -2)">
+                    <circle data-name="Ellipse 56" cx="7" cy="7" r="7" transform="translate(445 3494)" style="fill:#d1d9ec"/>
+                    <path data-name="Rectangle 1037" transform="translate(465 3499)" style="fill:#d1d9ec" d="M0 0h27v5H0z"/>
+                </g>
+                <text data-name="Fabrikam Margie" transform="translate(406 3476)" style="font-size:10px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Fabrikam Margie</tspan></text>
+                <text data-name="Owner" transform="translate(372 3501)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Owner</tspan></text>
+                <text data-name="Est Revenue" transform="translate(372 3518)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Est Revenue</tspan></text>
+                <text data-name="Est Close Da..." transform="translate(372 3535)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Est Close Da...</tspan></text>
+            </g>
+        </g>
+        <g data-name="Mask Group 11" transform="translate(366)" style="clip-path:url(#l8sifcym3b)">
+            <g data-name="Group 793" transform="translate(0 109)">
+                <path data-name="Rectangle 1039" transform="translate(355 3448)" style="fill:#fff" d="M0 0h155v103H0z"/>
+                <circle data-name="Ellipse 57" cx="12.5" cy="12.5" r="12.5" transform="translate(372 3459)" style="fill:#d1d9ec"/>
+                <path data-name="Rectangle 1040" transform="translate(443 3515)" style="fill:#d1d9ec" d="M0 0h41v5H0z"/>
+                <path data-name="Rectangle 1041" transform="translate(443 3532)" style="fill:#d1d9ec" d="M0 0h41v5H0z"/>
+                <g data-name="Group 792" transform="translate(-2 -2)">
+                    <circle data-name="Ellipse 58" cx="7" cy="7" r="7" transform="translate(445 3494)" style="fill:#d1d9ec"/>
+                    <path data-name="Rectangle 1042" transform="translate(465 3499)" style="fill:#d1d9ec" d="M0 0h27v5H0z"/>
+                </g>
+                <text data-name="Fabrikam Margie" transform="translate(406 3476)" style="font-size:10px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Fabrikam Margie</tspan></text>
+                <text data-name="Owner" transform="translate(372 3501)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Owner</tspan></text>
+                <text data-name="Est Revenue" transform="translate(372 3518)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Est Revenue</tspan></text>
+                <text data-name="Est Close Da..." transform="translate(372 3535)" style="font-size:6px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Est Close Da...</tspan></text>
+            </g>
+        </g>
+        <g data-name="Group 804">
+            <g data-name="Group 795">
+                <g style="filter:url(#mqxr5s9tnc)" data-name="Group 728">
+                    <rect data-name="Rectangle 876" width="200" height="200" rx="10" transform="translate(801 3414)" style="fill:#fff"/>
+                </g>
+            </g>
+            <text data-name="Lead Score" transform="translate(816 3441)" style="font-size:10px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Lead Score</tspan></text>
+            <text data-name="Grade C" transform="translate(868 3469)" style="font-size:12px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Grade C</tspan></text>
+            <g data-name="Group 796">
+                <g data-name="Ellipse 59" transform="translate(870 3430)" style="stroke:#707070;fill:#fff">
+                    <circle cx="7" cy="7" r="7" style="stroke:none"/>
+                    <circle cx="7" cy="7" r="6.5" style="fill:none"/>
+                </g>
+                <text transform="translate(876 3441)" style="font-size:10px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">i</tspan></text>
+            </g>
+            <g data-name="Group 800">
+                <g data-name="Ellipse 59" transform="translate(955 3506)" style="stroke:#707070;fill:#fff">
+                    <circle cx="7" cy="7" r="7" style="stroke:none"/>
+                    <circle cx="7" cy="7" r="6.5" style="fill:none"/>
+                </g>
+                <text data-name="i" transform="translate(961 3517)" style="font-size:10px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">i</tspan></text>
+            </g>
+            <g data-name="Group 801">
+                <g data-name="Ellipse 59" transform="translate(948 3528)" style="stroke:#707070;fill:#fff">
+                    <circle cx="7" cy="7" r="7" style="stroke:none"/>
+                    <circle cx="7" cy="7" r="6.5" style="fill:none"/>
+                </g>
+                <text data-name="i" transform="translate(954 3539)" style="font-size:10px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">i</tspan></text>
+            </g>
+            <g data-name="Group 802">
+                <g data-name="Ellipse 59" transform="translate(939 3549)" style="stroke:#707070;fill:#fff">
+                    <circle cx="7" cy="7" r="7" style="stroke:none"/>
+                    <circle cx="7" cy="7" r="6.5" style="fill:none"/>
+                </g>
+                <text data-name="i" transform="translate(945 3560)" style="font-size:10px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">i</tspan></text>
+            </g>
+            <g data-name="Group 803">
+                <g data-name="Ellipse 59" transform="translate(926 3569)" style="stroke:#707070;fill:#fff">
+                    <circle cx="7" cy="7" r="7" style="stroke:none"/>
+                    <circle cx="7" cy="7" r="6.5" style="fill:none"/>
+                </g>
+                <text data-name="i" transform="translate(932 3580)" style="font-size:10px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">i</tspan></text>
+            </g>
+            <text data-name="48" transform="translate(813 3492)" style="font-size:42px;font-family:SegoeUI-Semilight,Segoe UI;font-weight:300;fill:#757e8e"><tspan x="0" y="0">48</tspan></text>
+            <g data-name="Group 799">
+                <g data-name="Group 798" transform="translate(-9395 10867)">
+                    <rect data-name="Rectangle 1044" width="67" height="15" rx="7.5" transform="translate(10263 -7388)" style="fill:#f9e9e9"/>
+                    <text transform="translate(10284 -7378)" style="font-size:8px;fill:#c95858;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600"><tspan x="0" y="0">Declining</tspan></text>
+                    <g data-name="Group 797">
+                        <path data-name="Path 809" d="m10197.894-7382.253 3.563 2.915 1.457-1.3 3.238 3.076" style="stroke:#c95858;fill:none" transform="translate(72)"/>
+                        <path data-name="Path 810" d="M10206.151-7379.906v2.428h-2.468" style="stroke:#c95858;fill:none" transform="translate(72)"/>
+                    </g>
+                </g>
+                <path data-name="Polygon 2" d="M3.5 0 7 6H0z" transform="translate(816 3510)" style="fill:#417a32"/>
+                <path data-name="Polygon 3" d="M3.5 0 7 6H0z" transform="rotate(180 411.5 1768.5)" style="fill:#c95858"/>
+                <path data-name="Polygon 4" d="M3.5 0 7 6H0z" transform="rotate(180 411.5 1779)" style="fill:#c95858"/>
+                <path data-name="Polygon 5" d="M3.5 0 7 6H0z" transform="rotate(180 411.5 1789.5)" style="fill:#c95858"/>
+                <text data-name="Country / Region is United States" transform="translate(829 3516)" style="font-size:8px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Country / Region is United States</tspan></text>
+                <text data-name="Purchase timeframe is unknown" transform="translate(829 3537)" style="font-size:8px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Purchase timeframe is unknown</tspan></text>
+                <text data-name="Purchase process in unknown" transform="translate(829 3558)" style="font-size:8px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Purchase process in unknown</tspan></text>
+                <text data-name="Estimated budget is blank" transform="translate(829 3579)" style="font-size:8px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600;fill:#757e8e"><tspan x="0" y="0">Estimated budget is blank</tspan></text>
+                <text transform="translate(892 3600)" style="fill:#458ad1;font-size:8px;font-family:SegoeUI-Semibold,Segoe UI;font-weight:600"><tspan x="0" y="0">Details</tspan></text>
+                <g data-name="Rectangle 1045" transform="translate(979 3437)" style="stroke:#707070;fill:#fff">
+                    <path style="stroke:none" d="M0 0h1v1H0z"/>
+                    <rect x=".5" y=".5" style="fill:none"/>
+                </g>
+                <g data-name="Rectangle 1046" transform="translate(983 3437)" style="stroke:#707070;fill:#fff">
+                    <path style="stroke:none" d="M0 0h1v1H0z"/>
+                    <rect x=".5" y=".5" style="fill:none"/>
+                </g>
+                <g data-name="Rectangle 1047" transform="translate(987 3437)" style="stroke:#707070;fill:#fff">
+                    <path style="stroke:none" d="M0 0h1v1H0z"/>
+                    <rect x=".5" y=".5" style="fill:none"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

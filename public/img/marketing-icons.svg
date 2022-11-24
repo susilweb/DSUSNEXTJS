@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="94" viewBox="0 0 94 94">
+    <defs>
+        <clipPath id="ksn6p9kwtb">
+            <path data-name="Rectangle 1889" style="fill:none" d="M0 0h30v30.032H0z"/>
+        </clipPath>
+        <filter id="cwyynozuea" x="0" y="0" width="94" height="94" filterUnits="userSpaceOnUse">
+            <feOffset dx="5" dy="5"/>
+            <feGaussianBlur stdDeviation="5" result="blur"/>
+            <feFlood flood-color="#165cc4" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g style="filter:url(#cwyynozuea)">
+        <rect data-name="Rectangle 1888" width="64" height="64" rx="5" transform="translate(10 10)" style="fill:#fff"/>
+    </g>
+    <g data-name="Group 1302">
+        <g data-name="Group 1301" transform="translate(27 27)" style="clip-path:url(#ksn6p9kwtb)">
+            <path data-name="Path 1407" d="M.421 2.441A1.43 1.43 0 0 1 1.433 0H28.57A1.43 1.43 0 0 1 30 1.43V28.6a1.43 1.43 0 0 1-2.442 1.011z" style="fill:#d83b01"/>
+            <path data-name="Path 1408" d="M.422 20.5a1.43 1.43 0 0 1 1.012-2.441h20.7a1.43 1.43 0 0 1 1.43 1.43V40.2a1.43 1.43 0 0 1-2.442 1.011z" transform="translate(0 -11.6)" style="fill:#e46027"/>
+            <path data-name="Path 1409" d="M.421 38.465a1.43 1.43 0 0 1 1.013-2.44h14.247a1.43 1.43 0 0 1 1.43 1.43v14.288a1.43 1.43 0 0 1-2.443 1.01z" transform="translate(0 -23.144)" style="fill:#f9a36d"/>
+        </g>
+    </g>
+</svg>

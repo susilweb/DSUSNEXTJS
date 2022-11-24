@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.476" height="30.965" viewBox="0 0 33.476 30.965">
+    <defs>
+        <clipPath id="4t9ldx5ofa">
+            <path data-name="Path 263" d="M9.182 0a1.623 1.623 0 0 0-1.405.811L.218 13.9a1.623 1.623 0 0 0 0 1.623l5.734 9.936a1.623 1.623 0 0 0 2.811 0l6.573-11.384a1.624 1.624 0 0 1 2.811 0l6.569 11.382a1.623 1.623 0 0 0 2.811 0l5.733-9.936a1.616 1.616 0 0 0 .216-.775v-.072a1.616 1.616 0 0 0-.216-.775L25.706.811A1.624 1.624 0 0 0 24.3 0z" style="fill:none"/>
+        </clipPath>
+        <clipPath id="0rdgq90evc">
+            <path data-name="Path 264" d="M5.994 14.553a10.681 10.681 0 0 0 2.248 6.58l.2.258 7.024 8.958a1.593 1.593 0 0 0 1.238.615h.051A1.593 1.593 0 0 0 18 30.349l6.992-8.912.237-.3a10.737 10.737 0 0 0-7.345-17.266 11.167 11.167 0 0 0-1.149-.059A10.739 10.739 0 0 0 5.994 14.553" style="fill:none"/>
+        </clipPath>
+        <clipPath id="q11gxm2e2e">
+            <path data-name="Rectangle 439" style="fill:none" d="M0 0h33.476v30.964H0z"/>
+        </clipPath>
+        <radialGradient id="p87u839xrb" cx=".501" cy=".495" r=".567" gradientTransform="matrix(.791 0 0 -1 0 2.333)" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#c9800e"/>
+            <stop offset="1" stop-color="#f2ad42"/>
+        </radialGradient>
+        <linearGradient id="k5ksyrpr7d" x1="-.223" y1=".978" x2="-.18" y2=".978" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fbc232"/>
+            <stop offset="1" stop-color="#fccd42"/>
+        </linearGradient>
+    </defs>
+    <g data-name="Group 208">
+        <g data-name="Group 203">
+            <g data-name="Group 202" style="clip-path:url(#4t9ldx5ofa)" transform="translate(0 .001)">
+                <path data-name="Rectangle 437" transform="translate(-.073 -.001)" style="fill:url(#p87u839xrb)" d="M0 0h33.548v26.541H0z"/>
+            </g>
+        </g>
+        <g data-name="Group 205">
+            <g data-name="Group 204" style="clip-path:url(#0rdgq90evc)" transform="translate(0 .001)">
+                <path data-name="Rectangle 438" transform="rotate(-3.62 67.504 -70.633)" style="fill:url(#k5ksyrpr7d)" d="M0 0h23.365v28.406H0z"/>
+            </g>
+        </g>
+        <g data-name="Group 207">
+            <g data-name="Group 206" style="clip-path:url(#q11gxm2e2e)" transform="translate(0 .001)">
+                <path data-name="Path 265" d="M23.132 14.134a6.394 6.394 0 1 1-6.394-6.394 6.394 6.394 0 0 1 6.394 6.394" style="fill:#fde48f"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="78" viewBox="0 0 78 78">
+    <defs>
+        <clipPath id="lovvay532b">
+            <path data-name="Rectangle 2445" style="fill:none;stroke:#f275a0" d="M0 0h29.853v23.547H0z"/>
+        </clipPath>
+        <filter id="fva4v6qrza" x="0" y="0" width="78" height="78" filterUnits="userSpaceOnUse">
+            <feOffset dx="5" dy="5"/>
+            <feGaussianBlur stdDeviation="5" result="blur"/>
+            <feFlood flood-color="#165cc4" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 1587">
+        <g style="filter:url(#fva4v6qrza)">
+            <rect data-name="Rectangle 2453" width="48" height="48" rx="5" transform="translate(10 10)" style="fill:#fff"/>
+        </g>
+        <g data-name="Group 1556" transform="translate(19 22)" style="clip-path:url(#lovvay532b)">
+            <path data-name="Path 1732" d="M28.126 18.431h-26.4A.726.726 0 0 1 1 17.7V1.726A.726.726 0 0 1 1.726 1h26.4a.726.726 0 0 1 .727.726V17.7a.726.726 0 0 1-.727.731zm-16.6-12.577h12.506M5.747 10.231h9m3.4-.016h2.369M5.747 5.854h2.369m2.842 16.693h8.905" style="stroke-linecap:round;stroke-width:2px;fill:none;stroke:#f275a0"/>
+        </g>
+    </g>
+</svg>

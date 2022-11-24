@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="78" viewBox="0 0 78 78">
+    <defs>
+        <filter id="nwz7w015ca" x="0" y="0" width="78" height="78" filterUnits="userSpaceOnUse">
+            <feOffset dx="5" dy="5"/>
+            <feGaussianBlur stdDeviation="5" result="blur"/>
+            <feFlood flood-color="#165cc4" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 1583">
+        <g style="filter:url(#nwz7w015ca)">
+            <rect data-name="Rectangle 2303" width="48" height="48" rx="5" transform="translate(10 10)" style="fill:#fff"/>
+        </g>
+        <path data-name="Path 1715" d="M38 24a14 14 0 1 1-14-14 14 14 0 0 1 14 14zm-7-4.5-9 9m-5-5 4.5 4.5" transform="translate(10.5 10.5)" style="fill:none;stroke:#8fb93b;stroke-linecap:round;stroke-miterlimit:10;stroke-width:2px"/>
+    </g>
+</svg>

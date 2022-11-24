@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="530.977" height="771.331" viewBox="0 0 530.977 771.331">
+    <g data-name="Group 988">
+        <path data-name="Path 945" d="M544.536 39.314v115.141a14.7 14.7 0 0 1-14.7 14.7H28.264a14.7 14.7 0 0 1-14.7-14.7V39.314a14.7 14.7 0 0 1 14.7-14.7h17.447a14.693 14.693 0 0 1 5.344 1.006l64.4 25.12a14.7 14.7 0 0 0 10.68 0l64.42-25.121a14.679 14.679 0 0 1 5.345-1.009h333.924a14.7 14.7 0 0 1 14.713 14.7z" transform="translate(-13.56 -24.61)" style="fill:#fff"/>
+        <path data-name="Path 946" d="M544.536 144.294v115.141a14.7 14.7 0 0 1-14.7 14.7H28.264a14.7 14.7 0 0 1-14.7-14.7V144.294a14.7 14.7 0 0 1 14.7-14.7h20.212v.128l66.982 26.126a14.7 14.7 0 0 0 10.68 0l67-26.126v-.128h336.694a14.7 14.7 0 0 1 14.704 14.7z" transform="translate(-13.56 19.9)" style="fill:#fff"/>
+        <path data-name="Path 947" d="M544.536 249.28v115.141a14.7 14.7 0 0 1-14.7 14.7H28.264a14.7 14.7 0 0 1-14.7-14.71V249.28a14.7 14.7 0 0 1 14.7-14.71h20.212v.256l66.982 26.13a14.7 14.7 0 0 0 10.68 0l67-26.13v-.256h336.694a14.7 14.7 0 0 1 14.704 14.71z" transform="translate(-13.56 64.41)" style="fill:#fff"/>
+        <path data-name="Path 948" d="M544.536 354.254v115.141a14.7 14.7 0 0 1-14.7 14.7H28.264a14.7 14.7 0 0 1-14.7-14.7V354.254a14.7 14.7 0 0 1 14.7-14.7h20.212v.37l66.982 26.126a14.7 14.7 0 0 0 10.68 0l67-26.126v-.37h336.694a14.7 14.7 0 0 1 14.704 14.7z" transform="translate(-13.56 108.92)" style="fill:#fff"/>
+        <path data-name="Path 949" d="M544.536 459.234v115.141a14.7 14.7 0 0 1-14.7 14.7H28.264a14.7 14.7 0 0 1-14.7-14.7V459.234a14.7 14.7 0 0 1 14.7-14.7h20.212v.5l66.982 26.126a14.7 14.7 0 0 0 10.68 0l67-26.126v-.5h336.694a14.7 14.7 0 0 1 14.7 14.7z" transform="translate(-13.56 153.431)" style="fill:#fff"/>
+        <path data-name="Path 950" d="M182.617 444.88v144.663l-72.339 28.209-72.324-28.209V444.88l72.324 28.209z" transform="translate(-3.218 153.579)" style="fill:#ec9f57"/>
+        <path data-name="Path 951" d="M182.617 234.75v144.663l-11.717 4.571-60.619 23.638-60.6-23.638-11.719-4.571V234.75l72.324 28.209z" transform="translate(-3.218 64.486)" style="fill:#5ecb94"/>
+        <path data-name="Path 952" d="M182.617 129.68v144.663l-12.047 4.7-60.292 23.51L50 279.042l-12.047-4.7V129.68l72.324 28.209z" transform="translate(-3.218 19.938)" style="fill:#5dcfdd"/>
+        <path data-name="Path 953" d="M182.617 339.81v144.663L171.2 488.93l-60.922 23.77-60.9-23.766-11.42-4.457V339.81l72.324 28.209z" transform="translate(-3.218 109.03)" style="fill:#f0cf64"/>
+        <path data-name="Path 954" d="M182.617 24.61v144.677l-12.346 4.813-59.993 23.4L50.3 174.1l-12.346-4.813V24.61l72.324 28.209z" transform="translate(-3.218 -24.61)" style="fill:#5e88db"/>
+        <g data-name="Group 987" transform="translate(-303.999 -4199.394)">
+            <path data-name="Path 955" d="m93.709 78.63-7.238 7.238-4.329-4.329-6.812 6.814" transform="translate(316.629 4197.688)" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px"/>
+            <path data-name="Path 956" d="M85.131 78.264h4.9v4.9" transform="translate(320.785 4197.532)" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px"/>
+            <circle data-name="Ellipse 107" cx="16.242" cy="16.242" r="16.242" transform="translate(385.297 4263.523)" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px"/>
+            <rect data-name="Rectangle 1309" width="5.733" height="23.443" rx="2.013" transform="rotate(-45 5401.302 1647.015)" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px"/>
+            <path data-name="Line 96" transform="translate(412.557 4292.56)" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px" d="m0 0 6.985 6.985"/>
+        </g>
+        <text data-name="Analysis Phase" transform="translate(218.722 119.01)" style="fill:#1a1a1a;font-size:22px;font-family:Inter;font-weight:600"><tspan x="0" y="0">Analysis Phase</tspan></text>
+        <text data-name="1" transform="translate(218.722 78.944)" style="font-size:69px;font-family:SegoeUI-Bold,Segoe UI;font-weight:700;fill:#5e88db"><tspan x="0" y="0">01</tspan></text>
+        <g data-name="Group 986">
+            <path data-name="Path 957" d="M99.12 179.682a7.957 7.957 0 1 1-7.956-7.956 7.958 7.958 0 0 1 7.956 7.956z" transform="translate(15.97 37.765)" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px"/>
+            <path data-name="Line 97" transform="translate(89.796 224.117)" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px" d="M0 35.956 11.942 0"/>
+            <path data-name="Line 98" transform="translate(112.532 224.108)" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px" d="M3.751 11.277 0 0"/>
+            <path data-name="Line 99" transform="translate(120.808 249.046)" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px" d="M3.66 11.026 0 0"/>
+            <path data-name="Path 958" d="M73.236 188.489a27.285 27.285 0 0 0 44.172.2" transform="translate(11.743 44.872)" style="stroke-linecap:round;fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px"/>
+            <path data-name="Path 959" d="m79 207.656-5.561 13.3 3.534-13.978 2.026.675z" transform="translate(11.829 52.713)" style="fill:#fff"/>
+            <path data-name="Path 960" d="m102.307 206.993 3.533 13.978-5.559-13.3 2.026-.676z" transform="translate(23.21 52.718)" style="fill:#fff"/>
+        </g>
+        <text data-name="Designing Phase" transform="translate(218.722 270.689)" style="fill:#1a1a1a;font-size:22px;font-family:Inter;font-weight:600"><tspan x="0" y="0">Designing Phase</tspan></text>
+        <text data-name="2" transform="translate(218.722 229.623)" style="font-size:69px;font-family:SegoeUI-Bold,Segoe UI;font-weight:700;fill:#5dcfdd"><tspan x="0" y="0">02</tspan></text>
+        <g data-name="Group 985">
+            <path data-name="Path 961" d="M120.757 330.9H73.708m28.081-37.736-9.042 18.64m-5.169-3.574-5.645-5.63 5.639-5.653m19.38 0 5.653 5.653-5.653 5.639m10.11-24.834H77.41a8.7 8.7 0 0 0-8.686 8.672v19.922a8.712 8.712 0 0 0 8.686 8.686h39.644a8.712 8.712 0 0 0 8.686-8.686v-19.927a8.7 8.7 0 0 0-8.672-8.672zm-8.729 42.492H86.139" transform="translate(9.829 85.113)" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px"/>
+        </g>
+        <text data-name="Development Phase" transform="translate(218.722 420.367)" style="fill:#1a1a1a;font-size:22px;font-family:Inter;font-weight:600"><tspan x="0" y="0">Development Phase</tspan></text>
+        <text data-name="3" transform="translate(218.722 380.301)" style="font-size:69px;font-family:SegoeUI-Bold,Segoe UI;font-weight:700;fill:#5ecb94"><tspan x="0" y="0">03</tspan></text>
+        <g data-name="Group 984">
+            <path data-name="Path 962" d="M93.843 420.694v5.34h-5.212m10.879-19.921v-5.34h5.212m-11.492.7a11.91 11.91 0 0 0-.37 22.983m6.294-22.969a3.424 3.424 0 0 1 .356.114 11.895 11.895 0 0 1-.74 23.026m19.509-15.379a3.975 3.975 0 0 1-1.3-.655 3.926 3.926 0 0 1-.712-5.525 3.933 3.933 0 0 0-4.443-6.095 4.034 4.034 0 0 1-1.424.228 3.927 3.927 0 0 1-3.816-3.944v-.1a3.937 3.937 0 0 0-7.177-2.335 3.9 3.9 0 0 1-1.025 1.025 3.845 3.845 0 0 1-2.207.684 3.92 3.92 0 0 1-3.247-1.709 3.933 3.933 0 0 0-7.177 2.236v.1a4.035 4.035 0 0 1-.228 1.424 3.933 3.933 0 0 1-5.027 2.392 3.932 3.932 0 0 0-5.255 3.7 3.872 3.872 0 0 0 .826 2.392 4.272 4.272 0 0 1 .655 1.3 3.739 3.739 0 0 1 .157 1.111 3.939 3.939 0 0 1-2.819 3.774 3.909 3.909 0 0 0-2.663 2.663 3.739 3.739 0 0 0-.157 1.111 3.935 3.935 0 0 0 2.82 3.774 3.778 3.778 0 0 1 1.281.655 3.9 3.9 0 0 1 1.538 3.119 3.856 3.856 0 0 1-.812 2.392 3.926 3.926 0 0 0 4.429 6.095 4.023 4.023 0 0 1 1.424-.214 3.927 3.927 0 0 1 3.831 3.93v.1a3.921 3.921 0 0 0 7.163 2.335 4.129 4.129 0 0 1 1.025-1.025 3.943 3.943 0 0 1 5.468 1.025 3.933 3.933 0 0 0 7.177-2.236v-.1a3.736 3.736 0 0 1 .228-1.424 3.941 3.941 0 0 1 3.7-2.62 3.79 3.79 0 0 1 1.31.228 3.932 3.932 0 0 0 5.255-3.7 3.856 3.856 0 0 0-.812-2.392 3.934 3.934 0 0 1 2.008-6.166 3.916 3.916 0 0 0 2.649-2.663A3.852 3.852 0 0 0 121.1 413a3.909 3.909 0 0 0-2.819-3.759z" transform="translate(10.897 129.933)" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px"/>
+        </g>
+        <text data-name="Deployment Phase" transform="translate(218.722 571.046)" style="fill:#1a1a1a;font-size:22px;font-family:Inter;font-weight:600"><tspan x="0" y="0">Deployment Phase</tspan></text>
+        <text data-name="4" transform="translate(218.722 530.98)" style="font-size:69px;font-family:SegoeUI-Bold,Segoe UI;font-weight:700;fill:#f0cf64"><tspan x="0" y="0">04</tspan></text>
+        <g data-name="Group 983">
+            <path data-name="Path 963" d="M110.579 495.83H81.757a10.556 10.556 0 0 0-10.523 10.538v13.855A10.55 10.55 0 0 0 81.7 530.746l.057 10.31 13.643-10.31h15.18a10.556 10.556 0 0 0 10.538-10.523v-13.856a10.569 10.569 0 0 0-10.538-10.538z" transform="translate(10.894 175.181)" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px"/>
+            <path data-name="Path 964" d="M89.568 513.927V508.6h-1.125a2.069 2.069 0 0 1 1.125-1.529v-1.952a6.087 6.087 0 0 0-2.512 1.139 4.673 4.673 0 0 0-1.578 2.083 9.011 9.011 0 0 0-.463 3.133v2.444z" transform="translate(16.735 179.12)" style="fill:#fff"/>
+            <path data-name="Path 965" d="M93.836 513.927V508.6h-1.125a2.069 2.069 0 0 1 1.125-1.529v-1.952a6.009 6.009 0 0 0-2.519 1.139 4.7 4.7 0 0 0-1.566 2.083 9.011 9.011 0 0 0-.463 3.133v2.444z" transform="translate(18.546 179.12)" style="fill:#fff"/>
+        </g>
+        <text data-name="Post GO-Live Support" transform="translate(218.722 721.724)" style="fill:#1a1a1a;font-size:22px;font-family:Inter;font-weight:600"><tspan x="0" y="0" style="letter-spacing:-.03em">P</tspan><tspan y="0">ost GO-Live Support</tspan></text>
+        <text data-name="5" transform="translate(218.722 681.658)" style="font-size:69px;font-family:SegoeUI-Bold,Segoe UI;font-weight:700;fill:#ec9f57"><tspan x="0" y="0">05</tspan></text>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <clipPath id="qyeinw6sma">
+            <path data-name="Rectangle 2933" style="fill:none;stroke:#fff" d="M0 0h24.232v24.232H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 1805">
+        <path data-name="Path 1945" d="M223.857 2.58h7.521c6.537 0 9.281.754 11.928 2.17a14.762 14.762 0 0 1 6.141 6.141c1.416 2.648 2.17 5.391 2.17 11.929v7.52c0 6.538-.754 9.281-2.17 11.929a14.762 14.762 0 0 1-6.141 6.141c-2.647 1.416-5.391 2.17-11.928 2.17h-7.521c-6.538 0-9.281-.754-11.929-2.17a14.768 14.768 0 0 1-6.141-6.141c-1.416-2.648-2.17-5.391-2.17-11.929v-7.52c0-6.538.754-9.281 2.17-11.929a14.768 14.768 0 0 1 6.141-6.141c2.648-1.416 5.391-2.17 11.929-2.17" transform="translate(-203.617 -2.58)" style="fill:#f9b65d;fill-rule:evenodd"/>
+        <g data-name="Group 1804">
+            <g data-name="Group 1803" style="clip-path:url(#qyeinw6sma)" transform="translate(12 12)">
+                <path data-name="Path 1955" d="M5.676 11.972h13.332m-6.666 6.666V5.306M12.116 1a11.116 11.116 0 1 0 11.116 11.116A11.116 11.116 0 0 0 12.116 1z" style="stroke-linecap:round;stroke-miterlimit:10;stroke-width:2px;fill:none;stroke:#fff"/>
+            </g>
+        </g>
+    </g>
+</svg>

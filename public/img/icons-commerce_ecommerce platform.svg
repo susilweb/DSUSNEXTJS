@@ -1,0 +1,12 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <path id="Base" d="M20.24,0h7.52C34.3,0,37.041.754,39.689,2.17A14.768,14.768,0,0,1,45.83,8.311C47.246,10.959,48,13.7,48,20.24v7.52c0,6.538-.754,9.281-2.17,11.929a14.768,14.768,0,0,1-6.141,6.141C37.041,47.246,34.3,48,27.76,48H20.24c-6.538,0-9.281-.754-11.929-2.17A14.768,14.768,0,0,1,2.17,39.689C.754,37.041,0,34.3,0,27.76V20.24C0,13.7.754,10.959,2.17,8.311A14.768,14.768,0,0,1,8.311,2.17C10.959.754,13.7,0,20.24,0Z" style="fill: #80bef9;fill-rule: evenodd"/>
+  <g>
+    <g>
+      <polygon points="35.733 14.8 25.518 14.8 29.056 19.48 34.718 19.48 35.733 14.8" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <polyline points="41.17 11.403 39.001 11.974 36.605 22.703 30.213 22.703" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <circle cx="29.453" cy="22.938" r="1.839" style="fill: #fff"/>
+      <circle cx="36.736" cy="22.868" r="1.839" style="fill: #fff"/>
+    </g>
+    <path d="M21.884,36.927h8.905m8.992-10.011v5.17a.734.734,0,0,1-.73.73h-26.4a.726.726,0,0,1-.72-.73V16.106a.726.726,0,0,1,.72-.73h8.76" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-width: 2px"/>
+  </g>
+</svg>

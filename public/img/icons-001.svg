@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93" height="93" viewBox="0 0 93 93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #8fb93b;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        filter: url(#Rectangle_2416);
+      }
+    </style>
+    <filter id="Rectangle_2416" x="0" y="0" width="93" height="93" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#2d7ccb" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1506" data-name="Group 1506" transform="translate(-281.5 -3763.5)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 281.5, 3763.5)">
+      <rect id="Rectangle_2416-2" data-name="Rectangle 2416" class="cls-1" width="48" height="48" rx="10" transform="translate(22.5 17.5)"/>
+    </g>
+    <path id="Icon_feather-star" data-name="Icon feather-star" class="cls-2" d="M15.5,3l3.862,7.825L28,12.087l-6.25,6.087,1.475,8.6L15.5,22.712,7.775,26.775l1.475-8.6L3,12.087l8.637-1.262Z" transform="translate(312.5 3790.5)"/>
+  </g>
+</svg>

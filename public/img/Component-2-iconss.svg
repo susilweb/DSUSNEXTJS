@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="181" height="181" viewBox="0 0 181 181">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ee3442;
+        opacity: 0.91;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        filter: url(#Rectangle_1311);
+      }
+    </style>
+    <filter id="Rectangle_1311" x="0" y="0" width="181" height="181" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-color="#1773ce" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1454" data-name="Group 1454" transform="translate(-106 30)">
+    <g class="cls-5" transform="matrix(1, 0, 0, 1, 106, -30)">
+      <rect id="Rectangle_1311-2" data-name="Rectangle 1311" class="cls-1" width="91" height="91" rx="10" transform="translate(45 30)"/>
+    </g>
+    <g id="Group_981" data-name="Group 981" transform="translate(-18560.555 6877.41)">
+      <path id="Path_968" data-name="Path 968" class="cls-2" d="M99.12,179.682a7.957,7.957,0,1,1-7.956-7.956,7.958,7.958,0,0,1,7.956,7.956Z" transform="translate(18665.959 -7033.734)"/>
+      <line id="Line_101" data-name="Line 101" class="cls-2" y1="35.956" x2="11.942" transform="translate(18739.785 -6847.383)"/>
+      <line id="Line_102" data-name="Line 102" class="cls-2" x1="3.751" y1="11.277" transform="translate(18762.521 -6847.391)"/>
+      <line id="Line_103" data-name="Line 103" class="cls-2" x1="3.66" y1="11.026" transform="translate(18770.797 -6822.453)"/>
+      <path id="Path_969" data-name="Path 969" class="cls-3" d="M73.236,188.489a27.285,27.285,0,0,0,44.172.2" transform="translate(18661.732 -7026.627)"/>
+      <path id="Path_970" data-name="Path 970" class="cls-4" d="M79,207.656l-5.561,13.3,3.534-13.978,2.026.675Z" transform="translate(18661.818 -7018.787)"/>
+      <path id="Path_971" data-name="Path 971" class="cls-4" d="M102.307,206.993l3.533,13.978-5.559-13.3,2.026-.676Z" transform="translate(18673.199 -7018.782)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.5" height="30.893" viewBox="0 0 30.5 30.893">
+    <defs>
+        <clipPath id="8xif7lfxva">
+            <path data-name="Path 284" d="M21.924 0a2.315 2.315 0 0 0-1.369.468L.695 15.393l-.695.57v14.93h30.5V5.683L23.32.448A2.315 2.315 0 0 0 21.97 0z" style="fill:none"/>
+        </clipPath>
+        <clipPath id="gvjcv6zvnc">
+            <path data-name="Path 285" d="M22.61 13.678a1.173 1.173 0 0 1-1.6-.06l-2.68-2.68a1.074 1.074 0 0 0-1.39-.111L.16 22.983l-.16.1v7.805h30.5V6.868z" style="fill:none"/>
+        </clipPath>
+        <clipPath id="vzzq53zo8e">
+            <path data-name="Rectangle 452" style="fill:none" d="M0 0h30.5v30.893H0z"/>
+        </clipPath>
+        <linearGradient id="aa04he6q2b" x1=".149" y1=".85" x2=".172" y2=".85" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#10582c"/>
+            <stop offset="1" stop-color="#106936"/>
+        </linearGradient>
+        <linearGradient id="ohym41sp8d" x1=".107" y1=".82" x2=".133" y2=".82" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#4ab848"/>
+            <stop offset="1" stop-color="#54a042"/>
+        </linearGradient>
+    </defs>
+    <g data-name="Group 235">
+        <g data-name="Group 230">
+            <g data-name="Group 229" style="clip-path:url(#8xif7lfxva)">
+                <path data-name="Rectangle 450" transform="rotate(-45 10.921 26.37)" style="fill:url(#aa04he6q2b)" d="M0 0h43.411v43.411H0z"/>
+            </g>
+        </g>
+        <g data-name="Group 232">
+            <g data-name="Group 231" style="clip-path:url(#gvjcv6zvnc)">
+                <path data-name="Rectangle 451" transform="rotate(-37 17.51 25.056)" style="fill:url(#ohym41sp8d)" d="M0 0h38.815v37.52H0z"/>
+            </g>
+        </g>
+        <g data-name="Group 234">
+            <g data-name="Group 233" style="clip-path:url(#vzzq53zo8e)">
+                <path data-name="Path 286" d="M30.5 18.473v12.42H9.99l.04-.04 17.705-13.075a1.338 1.338 0 0 1 1.49-.07z" style="fill:#9ece5d"/>
+            </g>
+        </g>
+    </g>
+</svg>

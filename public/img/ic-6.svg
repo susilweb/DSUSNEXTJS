@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="78" viewBox="0 0 78 78">
+    <defs>
+        <clipPath id="g6dex1zwjb">
+            <path data-name="Rectangle 2446" style="fill:none;stroke:#f07f53" d="M0 0h29.344v29.578H0z"/>
+        </clipPath>
+        <filter id="tmvzesie1a" x="0" y="0" width="78" height="78" filterUnits="userSpaceOnUse">
+            <feOffset dx="5" dy="5"/>
+            <feGaussianBlur stdDeviation="5" result="blur"/>
+            <feFlood flood-color="#165cc4" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 1588">
+        <g style="filter:url(#tmvzesie1a)">
+            <rect data-name="Rectangle 2454" width="48" height="48" rx="5" transform="translate(10 10)" style="fill:#fff"/>
+        </g>
+        <g data-name="Group 1559" transform="translate(19 19)" style="clip-path:url(#g6dex1zwjb)">
+            <path data-name="Path 1733" d="M6.343 9.816h7.52m3.323 0h.053m-10.9 4.419h4.108m1.814 0h.03M11.791 1a10.792 10.792 0 1 0 10.792 10.791A10.791 10.791 0 0 0 11.791 1zm7.741 18.767 8.811 8.811" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none;stroke:#f07f53"/>
+        </g>
+    </g>
+</svg>

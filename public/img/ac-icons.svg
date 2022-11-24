@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="94" viewBox="0 0 94 94">
+    <defs>
+        <filter id="zwqea31bca" x="0" y="0" width="94" height="94" filterUnits="userSpaceOnUse">
+            <feOffset dx="5" dy="5"/>
+            <feGaussianBlur stdDeviation="5" result="blur"/>
+            <feFlood flood-color="#165cc4" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 1393">
+        <g style="filter:url(#zwqea31bca)">
+            <rect data-name="Rectangle 2301" width="64" height="64" rx="5" transform="translate(10 10)" style="fill:#fff"/>
+        </g>
+        <path data-name="Icon metro-warning" d="m17.995 4.723 12.927 25.764H5.068L17.995 4.723zm0-2.795a2.23 2.23 0 0 0-1.834 1.345L2.994 29.516c-1.009 1.793-.151 3.261 1.907 3.261h26.188c2.058 0 2.916-1.467 1.907-3.261L19.829 3.273a2.23 2.23 0 0 0-1.834-1.345zm1.928 25.064a1.928 1.928 0 1 1-1.928-1.928 1.928 1.928 0 0 1 1.928 1.928zm-1.928-3.856a1.928 1.928 0 0 1-1.928-1.928v-5.784a1.928 1.928 0 1 1 3.856 0v5.784a1.928 1.928 0 0 1-1.928 1.928z" transform="translate(23.429 25.071)" style="fill:#ee3442"/>
+    </g>
+</svg>

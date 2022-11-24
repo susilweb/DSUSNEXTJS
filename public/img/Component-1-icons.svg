@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="181" height="181" viewBox="0 0 181 181">
+    <defs>
+        <filter id="45t2lu75ja" x="0" y="0" width="181" height="181" filterUnits="userSpaceOnUse">
+            <feOffset dy="15"/>
+            <feGaussianBlur stdDeviation="15" result="blur"/>
+            <feFlood flood-color="#1773ce" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Component 37 – 1">
+        <g style="filter:url(#45t2lu75ja)">
+            <rect data-name="Rectangle 1310" width="91" height="91" rx="10" transform="translate(45 30)" style="fill:#fff"/>
+        </g>
+        <g data-name="Group 979" transform="translate(-895.277 -4381.125)">
+            <path data-name="Path 966" d="m93.709 78.63-7.238 7.238-4.329-4.329-6.812 6.814" transform="translate(893.609 4365.289)" style="fill:none;stroke:#5e88db;stroke-miterlimit:10;stroke-width:3px"/>
+            <path data-name="Path 967" d="M85.131 78.264h4.9v4.9" transform="translate(897.766 4365.134)" style="fill:none;stroke:#5e88db;stroke-miterlimit:10;stroke-width:3px"/>
+            <circle data-name="Ellipse 108" cx="16.242" cy="16.242" r="16.242" transform="translate(962.277 4431.125)" style="fill:none;stroke:#5e88db;stroke-miterlimit:10;stroke-width:3px"/>
+            <rect data-name="Rectangle 1315" width="5.733" height="23.443" rx="2.013" transform="rotate(-45 5892.106 1034.34)" style="fill:none;stroke:#5e88db;stroke-miterlimit:10;stroke-width:3px"/>
+            <path data-name="Line 100" transform="translate(989.537 4460.161)" style="fill:none;stroke:#5e88db;stroke-miterlimit:10;stroke-width:3px" d="m0 0 6.985 6.985"/>
+        </g>
+    </g>
+</svg>

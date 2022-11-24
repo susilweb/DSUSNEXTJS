@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="93" height="93" viewBox="0 0 93 93">
+    <defs>
+        <filter id="3hl385juia" x="0" y="0" width="93" height="93" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"/>
+            <feGaussianBlur stdDeviation="7.5" result="blur"/>
+            <feFlood flood-color="#2d7ccb" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 1507">
+        <g style="filter:url(#3hl385juia)">
+            <rect data-name="Rectangle 2418" width="48" height="48" rx="10" transform="translate(22.5 17.5)" style="fill:#fff"/>
+        </g>
+        <path data-name="Icon awesome-list" d="M3.906 19H.781a.781.781 0 0 0-.781.781v3.125a.781.781 0 0 0 .781.781h3.125a.781.781 0 0 0 .781-.781v-3.125A.781.781 0 0 0 3.906 19zm0-15.625H.781A.781.781 0 0 0 0 4.156v3.125a.781.781 0 0 0 .781.781h3.125a.781.781 0 0 0 .781-.781V4.156a.781.781 0 0 0-.781-.781zm0 7.813H.781a.781.781 0 0 0-.781.781v3.125a.781.781 0 0 0 .781.781h3.125a.781.781 0 0 0 .781-.781v-3.125a.781.781 0 0 0-.781-.781zm20.313 8.594H8.594a.781.781 0 0 0-.781.781v1.563a.781.781 0 0 0 .781.781h15.625a.781.781 0 0 0 .781-.782v-1.562a.781.781 0 0 0-.781-.782zm0-15.625H8.594a.781.781 0 0 0-.781.781V6.5a.781.781 0 0 0 .781.781h15.625A.781.781 0 0 0 25 6.5V4.938a.781.781 0 0 0-.781-.782zm0 7.813H8.594a.781.781 0 0 0-.781.781v1.562a.781.781 0 0 0 .781.781h15.625a.781.781 0 0 0 .781-.782V12.75a.781.781 0 0 0-.781-.781z" transform="translate(34.5 28.125)" style="fill:#7897f7"/>
+    </g>
+</svg>

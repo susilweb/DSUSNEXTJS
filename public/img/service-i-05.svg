@@ -1,0 +1,12 @@
+<svg data-name="Group 1190" xmlns="http://www.w3.org/2000/svg" width="29.554" height="40" viewBox="0 0 29.554 40">
+    <defs>
+        <clipPath id="2yfxfftuxa">
+            <path data-name="Rectangle 1400" style="fill:#ea5e68" d="M0 0h29.554v40H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 1189" style="clip-path:url(#2yfxfftuxa)">
+        <path data-name="Path 1039" d="M29.554 17.242a1.7 1.7 0 0 1-1.695 1.695H10.286v.61a1.695 1.695 0 0 1-3.389 0v-.61h-5.2a1.695 1.695 0 0 1 0-3.389H6.9V14.6a1.695 1.695 0 1 1 3.389 0v.949H27.86a1.689 1.689 0 0 1 1.695 1.695" transform="translate(0 8.963)" style="fill:#ea5e68"/>
+        <path data-name="Path 1040" d="M27.86 21.09h-5.525v-.712a1.695 1.695 0 1 0-3.389 0v.712H1.695a1.695 1.695 0 1 0 0 3.389h17.251v.847a1.695 1.695 0 1 0 3.389 0v-.846h5.525a1.695 1.695 0 1 0 0-3.389" transform="translate(0 12.978)" style="fill:#ea5e68"/>
+        <path data-name="Path 1041" d="m.748 13.688 7.429-7.43a2.053 2.053 0 0 1 2.9 0l2.63 2.63a2.053 2.053 0 0 0 2.9 0L24.9.605a2.053 2.053 0 0 1 3.5 1.452v12.776a2.055 2.055 0 0 1-2.027 2.054l-24.148.305a2.053 2.053 0 0 1-1.478-3.5" transform="translate(.099 -.001)" style="fill:#ea5e68"/>
+    </g>
+</svg>

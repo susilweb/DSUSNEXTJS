@@ -1,0 +1,346 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="665" height="617" viewBox="0 0 665 617">
+    <defs>
+        <clipPath id="em0rwtlxsb">
+            <path data-name="Rectangle 501" style="fill:none" d="M0 0h337.405v148.716H0z"/>
+        </clipPath>
+        <clipPath id="7xb7pd8skc">
+            <path data-name="Rectangle 490" style="fill:none" d="M0 0h50.768v16.068H0z"/>
+        </clipPath>
+        <clipPath id="8ag8xmd38d">
+            <path data-name="Rectangle 491" style="fill:none" d="M0 0h6.867v16.068H0z"/>
+        </clipPath>
+        <clipPath id="nye4bcht9e">
+            <path data-name="Rectangle 492" style="fill:none" d="M0 0h13.735v16.068H0z"/>
+        </clipPath>
+        <clipPath id="pz5hrqh09f">
+            <path data-name="Rectangle 493" style="fill:none" d="M0 0h20.604v16.068H0z"/>
+        </clipPath>
+        <clipPath id="etuunezzlg">
+            <path data-name="Rectangle 494" style="fill:none" d="M0 0h49.2v16.068H0z"/>
+        </clipPath>
+        <clipPath id="h8fynizjoh">
+            <path data-name="Rectangle 495" style="fill:none" d="M0 0h51.098v16.068H0z"/>
+        </clipPath>
+        <clipPath id="zh92kz9j3i">
+            <path data-name="Rectangle 496" style="fill:none" d="M0 0h45.802v16.068H0z"/>
+        </clipPath>
+        <clipPath id="kvsq4zqbyj">
+            <path data-name="Rectangle 497" style="fill:none" d="M0 0h307.511v98.344H0z"/>
+        </clipPath>
+        <clipPath id="3ngij9wwcl">
+            <path data-name="Rectangle 524" style="fill:none" d="M0 0h349.89v237.945H0z"/>
+        </clipPath>
+        <clipPath id="pbz9f4enem">
+            <path data-name="Rectangle 505" style="fill:none" d="M0 0h304.782v198.04H0z"/>
+        </clipPath>
+        <clipPath id="wr0y2j31in">
+            <path data-name="Rectangle 509" style="fill:none" d="M0 0h307.754v190.348H0z"/>
+        </clipPath>
+        <clipPath id="zfryd472po">
+            <path data-name="Rectangle 507" style="fill:none" d="M0 0h301.345v183.171H0z"/>
+        </clipPath>
+        <clipPath id="ficr238jap">
+            <path data-name="Rectangle 508" style="fill:none" d="M0 0h301.345v207.06H0z"/>
+        </clipPath>
+        <clipPath id="z1elpsdl3q">
+            <path data-name="Rectangle 510" style="fill:none" d="M0 0h12.781v14.96H0z"/>
+        </clipPath>
+        <clipPath id="9jq7ei6edr">
+            <path data-name="Rectangle 511" style="fill:none" d="M0 0h14.277v14.96H0z"/>
+        </clipPath>
+        <clipPath id="3ej9u9mijs">
+            <path data-name="Rectangle 512" style="fill:none" d="M0 0h15.663v14.96H0z"/>
+        </clipPath>
+        <clipPath id="jhuagqtyqt">
+            <path data-name="Rectangle 513" style="fill:none" d="M0 0h14.111v14.96H0z"/>
+        </clipPath>
+        <clipPath id="59lga4ntpu">
+            <path data-name="Rectangle 514" style="fill:none" d="M0 0h16.88v14.96H0z"/>
+        </clipPath>
+        <clipPath id="z5jlcko6sv">
+            <path data-name="Rectangle 515" style="fill:none" d="M0 0h13.292v14.96H0z"/>
+        </clipPath>
+        <clipPath id="5tn81b0h6w">
+            <path data-name="Rectangle 516" style="fill:none" d="M0 0h10.401v14.96H0z"/>
+        </clipPath>
+        <clipPath id="tai2so5a6x">
+            <path data-name="Rectangle 517" style="fill:none" d="M0 0h16.069v14.96H0z"/>
+        </clipPath>
+        <clipPath id="ghbidqq6ty">
+            <path data-name="Rectangle 518" style="fill:none" d="M0 0h29.282v14.96H0z"/>
+        </clipPath>
+        <clipPath id="6keigsg0kz">
+            <path data-name="Rectangle 520" style="fill:none" d="M0 0h29.282v14.959H0z"/>
+        </clipPath>
+        <clipPath id="v4i0z1565A">
+            <path data-name="Rectangle 521" style="fill:none" d="M0 0h29.282v14.961H0z"/>
+        </clipPath>
+        <clipPath id="7tqblkebkC">
+            <path data-name="Rectangle 502" style="fill:none" d="M0 0h141.754v134.372H0z"/>
+        </clipPath>
+        <clipPath id="lw8mbpls0D">
+            <path data-name="Path 314" d="M1.786 100.106h14.97a54.56 54.56 0 0 1 54.5-54.5 53.42 53.42 0 0 1 10.4 1 7.424 7.424 0 0 0 2.284.089 7.478 7.478 0 0 0 3.045-13.826 7.681 7.681 0 0 0-2.465-.961 68.587 68.587 0 0 0-13.266-1.269 69.535 69.535 0 0 0-69.468 69.467" transform="translate(-1.786 -30.639)" style="fill:none"/>
+        </clipPath>
+        <filter id="390ma7t85a" x="123" y="285" width="498" height="332" filterUnits="userSpaceOnUse">
+            <feOffset dy="10"/>
+            <feGaussianBlur stdDeviation="12.5" result="blur"/>
+            <feFlood flood-color="#07306d" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="es70xcd3lk" x="0" y="0" width="489" height="400" filterUnits="userSpaceOnUse">
+            <feOffset dy="10"/>
+            <feGaussianBlur stdDeviation="12.5" result="blur-2"/>
+            <feFlood flood-color="#07306d" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur-2"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="0y3ctrfthB" x="366" y="134" width="299" height="299" filterUnits="userSpaceOnUse">
+            <feOffset dy="10"/>
+            <feGaussianBlur stdDeviation="12.5" result="blur-3"/>
+            <feFlood flood-color="#07306d" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur-3"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <linearGradient id="k62xk7thlE" x1="-.036" y1="1.135" x2="-.016" y2="1.135" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#286bed"/>
+            <stop offset="1" stop-color="#6fa6ff"/>
+        </linearGradient>
+    </defs>
+    <g data-name="Group 682">
+        <g data-name="Group 381">
+            <g style="filter:url(#390ma7t85a)">
+                <rect data-name="Rectangle 489" width="423" height="257" rx="10" transform="translate(160.5 312.5)" style="fill:#fff"/>
+            </g>
+            <g data-name="Group 315">
+                <g data-name="Group 314" style="clip-path:url(#em0rwtlxsb)" transform="translate(198.056 385.642)">
+                    <g data-name="Group 309">
+                        <g data-name="Group 308" style="clip-path:url(#em0rwtlxsb)">
+                            <g data-name="Group 286" style="opacity:.5">
+                                <g data-name="Group 285">
+                                    <g data-name="Group 284" style="clip-path:url(#7xb7pd8skc)" transform="translate(13.065 132.648)">
+                                        <text data-name="Oct 2019" transform="translate(0 9.561)" style="font-family:SegoeUI,Segoe UI;font-size:12px;fill:#808384"><tspan x="0" y="0">Oct 2019</tspan></text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g data-name="Group 289" style="opacity:.5">
+                                <g data-name="Group 288">
+                                    <g data-name="Group 287" style="clip-path:url(#8ag8xmd38d)" transform="translate(13.736 93.731)">
+                                        <text data-name="0" transform="translate(0 10.561)" style="font-size:13px;font-family:SegoeUI,Segoe UI;fill:#808384"><tspan x="0" y="0">0</tspan></text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g data-name="Group 292" style="opacity:.5">
+                                <g data-name="Group 291">
+                                    <g data-name="Group 290" style="clip-path:url(#nye4bcht9e)" transform="translate(6.869 46.865)">
+                                        <text data-name="50" transform="translate(0 10.561)" style="font-size:13px;font-family:SegoeUI,Segoe UI;fill:#808384"><tspan x="0" y="0">50</tspan></text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g data-name="Group 295" style="opacity:.5">
+                                <g data-name="Group 294">
+                                    <g data-name="Group 293" style="clip-path:url(#pz5hrqh09f)">
+                                        <text data-name="100" transform="translate(0 9.56)" style="font-family:SegoeUI,Segoe UI;font-size:12px;fill:#808384"><tspan x="0" y="0">100</tspan></text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g data-name="Group 298" style="opacity:.5">
+                                <g data-name="Group 297">
+                                    <g data-name="Group 296" style="clip-path:url(#etuunezzlg)" transform="translate(99.429 132.648)">
+                                        <text data-name="Jan 2020" transform="translate(0 9.561)" style="font-family:SegoeUI,Segoe UI;font-size:12px;fill:#808384"><tspan x="0" y="0">Jan 2020</tspan></text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g data-name="Group 301" style="opacity:.5">
+                                <g data-name="Group 300">
+                                    <g data-name="Group 299" style="clip-path:url(#h8fynizjoh)" transform="translate(184.06 132.648)">
+                                        <text data-name="Apr 2020" transform="translate(-.001 9.561)" style="font-family:SegoeUI,Segoe UI;font-size:12px;fill:#808384"><tspan x="0" y="0">Apr 2020</tspan></text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g data-name="Group 304" style="opacity:.5">
+                                <g data-name="Group 303">
+                                    <g data-name="Group 302" style="clip-path:url(#zh92kz9j3i)" transform="translate(272.287 132.648)">
+                                        <text data-name="Jul 2020" transform="translate(-.001 9.561)" style="font-family:SegoeUI,Segoe UI;font-size:12px;fill:#808384"><tspan x="0" y="0">Jul 2020</tspan></text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g data-name="Group 307" style="opacity:.5">
+                                <g data-name="Group 306">
+                                    <g data-name="Group 305" style="clip-path:url(#kvsq4zqbyj)" transform="translate(29.538 3.967)">
+                                        <path data-name="Line 9" transform="translate(0 .178)" style="stroke-width:.25px;stroke-miterlimit:10;stroke:#3963b7;fill:none" d="M0 0h307.511"/>
+                                        <path data-name="Line 10" transform="translate(0 49.172)" style="stroke-width:.25px;stroke-miterlimit:10;stroke:#3963b7;fill:none" d="M0 0h307.511"/>
+                                        <path data-name="Line 11" transform="translate(0 98.166)" style="stroke-width:.25px;stroke-miterlimit:10;stroke:#3963b7;fill:none" d="M0 0h307.511"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <path data-name="Line 12" transform="translate(33.411 91.968)" style="stroke-width:.75px;stroke-miterlimit:10;stroke:#3963b7;fill:none" d="M0 .118 2.138 0"/>
+                    <path data-name="Line 13" transform="translate(39.765 75.564)" style="stroke-dasharray:2.959 2.959;stroke-width:.75px;stroke-miterlimit:10;stroke:#3963b7;fill:none" d="M0 16.172 293.038 0"/>
+                    <g data-name="Group 311">
+                        <g data-name="Group 310" style="clip-path:url(#em0rwtlxsb)">
+                            <path data-name="Line 14" transform="translate(334.911 75.329)" style="stroke-width:.75px;stroke-miterlimit:10;stroke:#3963b7;fill:none" d="M0 .118 2.138 0"/>
+                        </g>
+                    </g>
+                    <path data-name="Line 15" transform="translate(33.076 71.587)" style="stroke:#56b1c2;stroke-width:.75px;stroke-miterlimit:10;fill:none" d="m0 0 2.139.083"/>
+                    <path data-name="Line 16" transform="translate(39.44 71.835)" style="stroke-dasharray:2.964 2.964;stroke:#56b1c2;stroke-width:.75px;stroke-miterlimit:10;fill:none" d="m0 0 293.692 11.45"/>
+                    <g data-name="Group 313">
+                        <g data-name="Group 312" style="clip-path:url(#em0rwtlxsb)">
+                            <path data-name="Line 17" transform="translate(335.245 83.368)" style="stroke:#56b1c2;stroke-width:.75px;stroke-miterlimit:10;fill:none" d="m0 0 2.139.083"/>
+                        </g>
+                    </g>
+                    <path data-name="Path 311" d="m23.414 82.211 39.027.257 36.05 10.727 18.024-32.805 30.644 48.31 40.016-5.377 33.525 12.945 17.486-15.376H265.4L281.987 2.9l20.549 97.988h18.026" transform="translate(9.998 1.24)" style="stroke:#2b3446;stroke-miterlimit:10;fill:none"/>
+                    <path data-name="Path 312" d="M23.414 52.579h77.241l14.781-15.34L148.6 86.233l40.052-4.454 32.048 19.829" transform="translate(9.998 15.901)" style="stroke:#56b1c2;stroke-miterlimit:10;fill:none"/>
+                </g>
+            </g>
+        </g>
+        <g data-name="Group 611">
+            <g style="filter:url(#es70xcd3lk)">
+                <rect data-name="Rectangle 480" width="414" height="325" rx="10" transform="translate(37.5 27.5)" style="fill:#fff"/>
+            </g>
+            <g data-name="Group 378">
+                <g data-name="Group 377" style="clip-path:url(#3ngij9wwcl)" transform="translate(69.555 71.027)">
+                    <g data-name="Group 327">
+                        <g data-name="Group 326" style="clip-path:url(#3ngij9wwcl)">
+                            <g data-name="Group 325" style="opacity:.5">
+                                <g data-name="Group 324">
+                                    <g data-name="Group 323" style="clip-path:url(#pbz9f4enem)" transform="translate(37.781 9.429)">
+                                        <path data-name="Line 18" transform="translate(0 .166)" style="stroke-width:.25px;stroke-miterlimit:10;stroke:#3963b7;fill:none" d="M0 0h304.782"/>
+                                        <path data-name="Line 19" transform="translate(0 39.708)" style="stroke-width:.25px;stroke-miterlimit:10;stroke:#3963b7;fill:none" d="M0 0h304.782"/>
+                                        <path data-name="Line 20" transform="translate(0 79.249)" style="stroke-width:.25px;stroke-miterlimit:10;stroke:#3963b7;fill:none" d="M0 0h304.782"/>
+                                        <path data-name="Line 21" transform="translate(0 118.791)" style="stroke-width:.25px;stroke-miterlimit:10;stroke:#3963b7;fill:none" d="M0 0h304.782"/>
+                                        <path data-name="Line 22" transform="translate(0 158.333)" style="stroke-width:.25px;stroke-miterlimit:10;stroke:#3963b7;fill:none" d="M0 0h304.782"/>
+                                        <path data-name="Line 23" transform="translate(0 197.874)" style="stroke-width:.25px;stroke-miterlimit:10;stroke:#3963b7;fill:none" d="M0 0h304.782"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-name="Group 335">
+                        <g data-name="Group 334" style="clip-path:url(#wr0y2j31in)" transform="translate(34.809 16.955)">
+                            <g data-name="Group 330" style="opacity:.5">
+                                <g data-name="Group 329">
+                                    <g data-name="Group 328" style="clip-path:url(#zfryd472po)" transform="translate(5.306 37.819)">
+                                        <path data-name="Path 315" d="m40.115 142.371 48.317-33.711 37.509-15.733 41.324-43.449 44.5 59.182 84.555-49.39 45.138-18.042V224.4H40.115z" transform="translate(-40.115 -41.228)" style="fill:#808384"/>
+                                    </g>
+                                </g>
+                            </g>
+                            <path data-name="Path 316" d="m40.115 185.735 43.231-71.917 40.647-28.637 42 22.644 41.078-3.333 46.655-29.215 43.867 61.764 43.867-65.468" transform="translate(-34.809 -9.317)" style="stroke:#01b8aa;stroke-miterlimit:10;fill:none"/>
+                            <path data-name="Path 317" d="m40.115 142.371 48.317-33.711 37.509-15.733 41.324-43.449 44.5 59.182 84.555-49.39 45.138-18.042" transform="translate(-34.809 -3.409)" style="stroke:#778183;stroke-miterlimit:10;fill:none"/>
+                            <g data-name="Group 333" style="opacity:.5">
+                                <g data-name="Group 332">
+                                    <g data-name="Group 331" style="clip-path:url(#ficr238jap)" transform="translate(5.306 13.93)">
+                                        <path data-name="Path 318" d="m40.115 185.735 43.231-71.917L125.2 85.181l40.8 22.644 41.078-3.333 46.655-29.215 43.867 61.764 43.867-65.468v158.734H40.115z" transform="translate(-40.115 -23.247)" style="fill:#99e3dd"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-name="Group 376">
+                        <g data-name="Group 375" style="clip-path:url(#3ngij9wwcl)">
+                            <g data-name="Group 338" style="opacity:.5">
+                                <g style="clip-path:url(#z1elpsdl3q)" transform="translate(34.809 212.135)" data-name="Group 337">
+                                    <text transform="translate(0 6.798)" style="font-size:9px;font-family:SegoeUI,Segoe UI;fill:#808384" data-name="Group 336"><tspan x="0" y="0">Jan</tspan></text>
+                                </g>
+                            </g>
+                            <g data-name="Group 341" style="opacity:.5">
+                                <g style="clip-path:url(#9jq7ei6edr)" transform="translate(77.012 212.135)" data-name="Group 340">
+                                    <text transform="translate(0 6.798)" style="font-size:9px;font-family:SegoeUI,Segoe UI;fill:#808384" data-name="Group 339"><tspan x="0" y="0">Feb</tspan></text>
+                                </g>
+                            </g>
+                            <g data-name="Group 344" style="opacity:.5">
+                                <g style="clip-path:url(#3ej9u9mijs)" transform="translate(119.27 212.135)" data-name="Group 343">
+                                    <text transform="translate(0 6.798)" style="font-size:9px;font-family:SegoeUI,Segoe UI;fill:#808384" data-name="Group 342"><tspan x="0" y="0">Mar</tspan></text>
+                                </g>
+                            </g>
+                            <g data-name="Group 347" style="opacity:.5">
+                                <g style="clip-path:url(#jhuagqtyqt)" transform="translate(162.996 212.135)" data-name="Group 346">
+                                    <text transform="translate(0 6.798)" style="font-size:9px;font-family:SegoeUI,Segoe UI;fill:#808384" data-name="Group 345"><tspan x="0" y="0">Apr</tspan></text>
+                                </g>
+                            </g>
+                            <g data-name="Group 350" style="opacity:.5">
+                                <g style="clip-path:url(#59lga4ntpu)" transform="translate(204.562 212.135)" data-name="Group 349">
+                                    <text transform="translate(.001 6.798)" style="font-size:9px;font-family:SegoeUI,Segoe UI;fill:#808384" data-name="Group 348"><tspan x="0" y="0">May</tspan></text>
+                                </g>
+                            </g>
+                            <g data-name="Group 353" style="opacity:.5">
+                                <g style="clip-path:url(#z5jlcko6sv)" transform="translate(249.308 212.135)" data-name="Group 352">
+                                    <text transform="translate(0 6.798)" style="font-size:9px;font-family:SegoeUI,Segoe UI;fill:#808384" data-name="Group 351"><tspan x="0" y="0">Jun</tspan></text>
+                                </g>
+                            </g>
+                            <g data-name="Group 356" style="opacity:.5">
+                                <g style="clip-path:url(#5tn81b0h6w)" transform="translate(293.704 212.135)" data-name="Group 355">
+                                    <text transform="translate(0 6.798)" style="font-size:9px;font-family:SegoeUI,Segoe UI;fill:#808384" data-name="Group 354"><tspan x="0" y="0">Jul</tspan></text>
+                                </g>
+                            </g>
+                            <g data-name="Group 359" style="opacity:.5">
+                                <g style="clip-path:url(#tai2so5a6x)" transform="translate(333.821 212.135)" data-name="Group 358">
+                                    <text transform="translate(0 6.798)" style="font-size:9px;font-family:SegoeUI,Segoe UI;fill:#808384" data-name="Group 357"><tspan x="0" y="0">Aug</tspan></text>
+                                </g>
+                            </g>
+                            <g data-name="Group 362" style="opacity:.5">
+                                <g data-name="Group 361">
+                                    <g data-name="Group 360" style="clip-path:url(#ghbidqq6ty)" transform="translate(0 158.168)">
+                                        <text data-name="$ 2.0 M" transform="translate(0 5.798)" style="font-size:8px;font-family:SegoeUI,Segoe UI;fill:#808384"><tspan x="0" y="0">$ 2.0 M</tspan></text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g data-name="Group 365" style="opacity:.5">
+                                <g data-name="Group 364">
+                                    <g data-name="Group 363" style="clip-path:url(#ghbidqq6ty)" transform="translate(0 118.626)">
+                                        <text data-name="$ 2.5 M" transform="translate(0 5.798)" style="font-size:8px;font-family:SegoeUI,Segoe UI;fill:#808384"><tspan x="0" y="0">$ 2.5 M</tspan></text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g data-name="Group 368" style="opacity:.5">
+                                <g data-name="Group 367">
+                                    <g data-name="Group 366" style="clip-path:url(#6keigsg0kz)" transform="translate(0 79.085)">
+                                        <text data-name="$ 3.0 M" transform="translate(0 5.798)" style="font-size:8px;font-family:SegoeUI,Segoe UI;fill:#808384"><tspan x="0" y="0">$ 3.0 M</tspan></text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g data-name="Group 371" style="opacity:.5">
+                                <g data-name="Group 370">
+                                    <g data-name="Group 369" style="clip-path:url(#v4i0z1565A)" transform="translate(0 39.542)">
+                                        <text data-name="$ 3.5 M" transform="translate(0 5.799)" style="font-size:8px;font-family:SegoeUI,Segoe UI;fill:#808384"><tspan x="0" y="0">$ 3.5 M</tspan></text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g data-name="Group 374" style="opacity:.5">
+                                <g data-name="Group 373">
+                                    <g data-name="Group 372" style="clip-path:url(#v4i0z1565A)">
+                                        <text data-name="$ 4.0 M" transform="translate(0 5.799)" style="font-size:8px;font-family:SegoeUI,Segoe UI;fill:#808384"><tspan x="0" y="0">$ 4.0 M</tspan></text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g data-name="Group 610">
+            <g style="filter:url(#0y3ctrfthB)" data-name="Group 382">
+                <rect data-name="Rectangle 481" width="224" height="224" rx="10" transform="translate(403.5 161.5)" style="fill:#fff"/>
+            </g>
+            <g data-name="Group 322">
+                <g data-name="Group 317">
+                    <g data-name="Group 316" style="clip-path:url(#7tqblkebkC)" transform="translate(444.623 206.328)">
+                        <text data-name="Gross Sales" transform="translate(0 11.742)" style="font-size:15px;fill:#606060;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">Gross Sales</tspan></text>
+                        <path data-name="Path 313" d="M140.116 99.919H125.98A54.957 54.957 0 0 0 83.753 46.51a53.314 53.314 0 0 0-12.686-1.5 54.97 54.97 0 0 0-54.915 54.909H2.016a69.125 69.125 0 0 1 69.05-69.05A68.306 68.306 0 0 1 86.8 32.681a69.144 69.144 0 0 1 53.319 67.238" transform="translate(1.638 25.076)" style="fill:#e0e9f8"/>
+                    </g>
+                </g>
+                <g data-name="Group 319">
+                    <g data-name="Group 318" style="clip-path:url(#lw8mbpls0D)" transform="translate(447.86 261.856)">
+                        <path data-name="Rectangle 503" style="fill:url(#k62xk7thlE)" d="M0 0h89.276v69.467H0z"/>
+                    </g>
+                </g>
+                <g data-name="Group 321">
+                    <g data-name="Group 320" style="clip-path:url(#7tqblkebkC)" transform="translate(444.623 206.328)">
+                        <text data-name="$1.3 bn" transform="translate(37.461 123.618)" style="font-size:22px;fill:#606060;font-family:SegoeUI,Segoe UI"><tspan x="0" y="0">$1.3 bn</tspan></text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

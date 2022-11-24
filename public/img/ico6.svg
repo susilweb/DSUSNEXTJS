@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="240" viewBox="0 0 240 240">
+    <defs>
+        <clipPath id="5gm7q5l2pd">
+            <path data-name="Rectangle 351" style="fill:none" d="M0 0h83.778v83.778H0z"/>
+        </clipPath>
+        <clipPath id="geg68qrw5e">
+            <path data-name="Path 201" d="M5.206 34.117A28.912 28.912 0 1 0 34.119 5.206 28.916 28.916 0 0 0 5.206 34.117" transform="translate(-5.206 -5.206)" style="fill:none"/>
+        </clipPath>
+        <clipPath id="zpstg5uaig">
+            <path data-name="Rectangle 354" style="fill:none" d="M0 0h5.492v47.392H0z"/>
+        </clipPath>
+        <clipPath id="ljgqcl9l8h">
+            <path data-name="Path 202" d="M9.585 27.582a18 18 0 1 0 18-18 18 18 0 0 0-18 18" transform="translate(-9.585 -9.584)" style="fill:none"/>
+        </clipPath>
+        <clipPath id="2w1b3ofmtj">
+            <path data-name="Path 203" d="M14.307 9.7a6.223 6.223 0 0 0 6.224 6.227A6.226 6.226 0 1 0 14.307 9.7" transform="translate(-14.307 -3.477)" style="fill:none"/>
+        </clipPath>
+        <clipPath id="qab5or2cfl">
+            <path data-name="Path 204" d="M14.307 31.357a6.222 6.222 0 0 0 6.224 6.227 6.226 6.226 0 1 0-6.227-6.227" transform="translate(-14.307 -25.133)" style="fill:none"/>
+        </clipPath>
+        <clipPath id="3g0cy9xg8n">
+            <path data-name="Path 205" d="M25.137 20.531a6.227 6.227 0 0 0 6.224 6.227 6.226 6.226 0 1 0-6.227-6.227" transform="translate(-25.137 -14.307)" style="fill:none"/>
+        </clipPath>
+        <clipPath id="msux5uirdo">
+            <path data-name="Path 207" d="M13.475 21.775a8.3 8.3 0 1 0 8.3-8.3 8.3 8.3 0 0 0-8.3 8.3" transform="translate(-13.475 -13.474)" style="fill:none"/>
+        </clipPath>
+        <clipPath id="btjex7ln0q">
+            <path data-name="Rectangle 364" style="fill:none" d="M0 0h22.477v5.484H0z"/>
+        </clipPath>
+        <linearGradient id="9gt4dt0m1f" x1="-.02" y1="1.02" x2=".011" y2="1.02" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#019aa6"/>
+            <stop offset=".339" stop-color="#019aa6"/>
+            <stop offset=".641" stop-color="#01727a"/>
+            <stop offset="1" stop-color="#01727a"/>
+        </linearGradient>
+        <linearGradient id="dpwasr889a" x1="-3.756" y1="1.371" x2="-3.502" y2="1.371" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#94edf3"/>
+            <stop offset="1" stop-color="#82ebf1"/>
+        </linearGradient>
+        <linearGradient id="nn6mykt24i" x1="-.332" y1="1.332" x2="-.283" y2="1.332" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#32dfea"/>
+            <stop offset="1" stop-color="#0dbdca"/>
+        </linearGradient>
+        <linearGradient id="ly99kf3zck" x1="-2.593" y1="5.588" x2="-2.409" y2="5.588" xlink:href="#dpwasr889a"/>
+        <linearGradient id="s91df3od4m" x1="-2.593" y1="1.601" x2="-2.409" y2="1.601" xlink:href="#dpwasr889a"/>
+        <linearGradient id="06v8u9g6ib" x1="-3.806" y1="3.119" x2="-3.651" y2="3.119" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#94edf3"/>
+            <stop offset="1" stop-color="#32dfea"/>
+        </linearGradient>
+        <linearGradient id="jd8lewt8ep" x1="-1.464" y1="2.464" x2="-1.347" y2="2.464" xlink:href="#06v8u9g6ib"/>
+        <linearGradient id="c7d9593h7r" x1="-3.668" y1="2.326" x2="-3.476" y2="2.326" xlink:href="#06v8u9g6ib"/>
+        <filter id="j1o6g2w9gc" x="0" y="0" width="240" height="240" filterUnits="userSpaceOnUse">
+            <feOffset dy="15"/>
+            <feGaussianBlur stdDeviation="15" result="blur"/>
+            <feFlood flood-color="#165cc4" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 661">
+        <g style="filter:url(#j1o6g2w9gc)">
+            <rect data-name="Rectangle 876" width="150" height="150" rx="20" transform="translate(45 30)" style="fill:#fff"/>
+        </g>
+        <g data-name="Group 660">
+            <g data-name="Group 173">
+                <g data-name="Group 172" style="clip-path:url(#5gm7q5l2pd)" transform="translate(78 63)">
+                    <path data-name="Path 199" d="M41.88 83.751a41.872 41.872 0 1 1 41.873-41.873A41.871 41.871 0 0 1 41.88 83.751" transform="translate(.01 .009)" style="fill:#5ccbd3"/>
+                    <path data-name="Path 200" d="M80.436 41.89A38.545 38.545 0 1 1 41.89 3.345 38.541 38.541 0 0 1 80.436 41.89M41.89 0A41.89 41.89 0 1 1 0 41.89 41.894 41.894 0 0 1 41.89 0" transform="translate(0 -.001)" style="fill:#1d8e96;fill-rule:evenodd"/>
+                </g>
+            </g>
+            <g data-name="Group 175">
+                <g data-name="Group 174" style="clip-path:url(#geg68qrw5e)" transform="translate(90.977 75.976)">
+                    <path data-name="Rectangle 352" transform="rotate(-54.69 23.593 45.625)" style="fill:url(#9gt4dt0m1f)" d="M0 0h80.609v80.609H0z"/>
+                </g>
+            </g>
+            <g data-name="Group 177">
+                <g data-name="Group 176" style="clip-path:url(#zpstg5uaig)" transform="translate(117.009 81.541)">
+                    <path data-name="Rectangle 353" transform="rotate(-5.256 2.174 47.302)" style="fill:url(#dpwasr889a)" d="M0 0h9.81v47.696H0z"/>
+                </g>
+            </g>
+            <g data-name="Group 179">
+                <g data-name="Group 178" style="clip-path:url(#5gm7q5l2pd)" transform="translate(78 63)">
+                    <path data-name="Rectangle 355" transform="translate(17.776 39.071)" style="fill:#99edf3" d="M0 0h21.575v5.492H0z"/>
+                </g>
+            </g>
+            <g data-name="Group 181">
+                <g data-name="Group 180" style="clip-path:url(#ljgqcl9l8h)" transform="translate(101.893 86.89)">
+                    <path data-name="Rectangle 357" transform="rotate(-53.576 14.483 28.684)" style="fill:url(#nn6mykt24i)" d="M0 0h50.336v50.336H0z"/>
+                </g>
+            </g>
+            <g data-name="Group 183">
+                <g data-name="Group 182" style="clip-path:url(#2w1b3ofmtj)" transform="translate(113.664 71.667)">
+                    <path data-name="Rectangle 358" transform="rotate(-5.13 .613 12.396)" style="fill:url(#ly99kf3zck)" d="M0 0h13.542v13.54H0z"/>
+                </g>
+            </g>
+            <g data-name="Group 185">
+                <g data-name="Group 184" style="clip-path:url(#qab5or2cfl)" transform="translate(113.664 125.649)">
+                    <path data-name="Rectangle 359" transform="rotate(-5.256 .586 12.45)" style="fill:url(#s91df3od4m)" d="M0 0h13.542v13.54H0z"/>
+                </g>
+            </g>
+            <g data-name="Group 187">
+                <g data-name="Group 186" style="clip-path:url(#3g0cy9xg8n)" transform="translate(140.66 98.663)">
+                    <path data-name="Rectangle 360" transform="rotate(-69.7 5.843 8.384)" style="fill:url(#06v8u9g6ib)" d="M0 0h15.996v15.996H0z"/>
+                </g>
+            </g>
+            <g data-name="Group 189">
+                <g data-name="Group 188" style="clip-path:url(#5gm7q5l2pd)" transform="translate(78 63)">
+                    <path data-name="Path 206" d="M9.7 26.758a6.226 6.226 0 1 0-6.227-6.227A6.227 6.227 0 0 0 9.7 26.758z" transform="translate(5.19 21.355)" style="fill:#9df3f9"/>
+                </g>
+            </g>
+            <g data-name="Group 191">
+                <g data-name="Group 190" style="clip-path:url(#msux5uirdo)" transform="translate(111.59 96.586)">
+                    <path data-name="Rectangle 362" transform="rotate(-69.714 7.787 11.18)" style="fill:url(#jd8lewt8ep)" d="M0 0h21.328v21.328H0z"/>
+                </g>
+            </g>
+            <g data-name="Group 193">
+                <g data-name="Group 192" style="clip-path:url(#btjex7ln0q)" transform="translate(120.686 102.079)">
+                    <path data-name="Rectangle 363" transform="rotate(-69.714 2.572 3.692)" style="fill:url(#c7d9593h7r)" d="M0 0h12.937v22.984H0z"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

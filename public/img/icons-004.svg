@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="93" height="93" viewBox="0 0 93 93">
+    <defs>
+        <filter id="spprs75vha" x="0" y="0" width="93" height="93" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"/>
+            <feGaussianBlur stdDeviation="7.5" result="blur"/>
+            <feFlood flood-color="#2d7ccb" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 1509">
+        <g style="filter:url(#spprs75vha)">
+            <rect data-name="Rectangle 2419" width="48" height="48" rx="10" transform="translate(22.5 17.5)" style="fill:#fff"/>
+        </g>
+        <g data-name="Icon feather-folder-plus">
+            <path data-name="Path 1696" d="M28 24.5a2.5 2.5 0 0 1-2.5 2.5h-20A2.5 2.5 0 0 1 3 24.5V7a2.5 2.5 0 0 1 2.5-2.5h6.25l2.5 3.75H25.5a2.5 2.5 0 0 1 2.5 2.5z" style="fill:none;stroke:#f8b227;stroke-linecap:round;stroke-linejoin:round;stroke-width:3px" transform="translate(31.5 26)"/>
+            <path data-name="Path 1697" d="M18 16.5v9" transform="translate(29 23)" style="fill:none;stroke:#f8b227;stroke-linecap:round;stroke-linejoin:round;stroke-width:3px"/>
+            <path data-name="Path 1698" d="M13.5 21h9" transform="translate(29 23.25)" style="fill:none;stroke:#f8b227;stroke-linecap:round;stroke-linejoin:round;stroke-width:3px"/>
+        </g>
+    </g>
+</svg>

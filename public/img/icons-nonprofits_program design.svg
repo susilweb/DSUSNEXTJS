@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <path id="Base" d="M20.429,0H27.95c6.537,0,9.281.754,11.928,2.17A14.765,14.765,0,0,1,46.02,8.311c1.415,2.648,2.169,5.391,2.169,11.929v7.52c0,6.538-.754,9.281-2.169,11.929a14.765,14.765,0,0,1-6.142,6.141C37.231,47.246,34.487,48,27.95,48H20.429c-6.537,0-9.281-.754-11.928-2.17a14.765,14.765,0,0,1-6.142-6.141C.944,37.041.189,34.3.189,27.76V20.24c0-6.538.755-9.281,2.17-11.929A14.765,14.765,0,0,1,8.5,2.17C11.148.754,13.892,0,20.429,0Z" style="fill: #f6c378;fill-rule: evenodd"/>
+  <g>
+    <path d="M27.948,13.905a3.5,3.5,0,1,1-3.5-3.5A3.5,3.5,0,0,1,27.948,13.905Z" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <g>
+      <line x1="16.822" y1="32.655" x2="22.075" y2="16.839" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <line x1="28.473" y1="21.795" x2="26.823" y2="16.835" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <line x1="32.073" y1="32.655" x2="30.463" y2="27.805" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+    </g>
+    <path d="M14.7,20.905a12,12,0,0,0,19.43.09" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <polygon points="17.779 32.953 14.831 38.637 15.882 32.321 17.779 32.953 17.779 32.953" style="fill: #fff"/>
+    <polygon points="33.037 32.329 34.088 38.645 31.14 32.961 33.037 32.329 33.037 32.329" style="fill: #fff"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="94" viewBox="0 0 94 94">
+    <defs>
+        <clipPath id="frimmlyaob">
+            <path data-name="Rectangle 1887" transform="translate(0 -.095)" style="fill:none" d="M0 0h31v27H0z"/>
+        </clipPath>
+        <filter id="vvocbrn5oa" x="0" y="0" width="94" height="94" filterUnits="userSpaceOnUse">
+            <feOffset dx="5" dy="5"/>
+            <feGaussianBlur stdDeviation="5" result="blur"/>
+            <feFlood flood-color="#165cc4" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="supply chain">
+        <g style="filter:url(#vvocbrn5oa)">
+            <rect data-name="Rectangle 1898" width="64" height="64" rx="5" transform="translate(10 10)" style="fill:#fff"/>
+        </g>
+        <g data-name="Group 1307">
+            <g data-name="Group 1299">
+                <g data-name="Group 1298" style="clip-path:url(#frimmlyaob)" transform="translate(27 29.095)">
+                    <path data-name="Path 1404" d="M20.484 21.14V4.8A4.8 4.8 0 0 0 16 .011C16.106 0 16.213 0 16.32 0h9.929a5.765 5.765 0 0 1 5.765 5.765V22.1a4.8 4.8 0 0 0 4.486 4.8q-.158.01-.317.01H26.25a5.765 5.765 0 0 1-5.765-5.765" transform="translate(-10.875)" style="fill:#17a6eb;fill-rule:evenodd"/>
+                    <path data-name="Path 1405" d="M70.8 39.14a4.8 4.8 0 0 0 4.8-4.8V23.765A5.765 5.765 0 0 0 69.843 18H66v16.335a4.8 4.8 0 0 0 4.8 4.8" transform="translate(-44.859 -12.235)" style="fill:#8febff"/>
+                    <path data-name="Path 1406" d="M9.609 21.14V4.8A4.8 4.8 0 0 0 0 4.8v10.57a5.765 5.765 0 0 0 5.765 5.77z" style="fill:#245999"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

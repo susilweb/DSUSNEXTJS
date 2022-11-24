@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="94" viewBox="0 0 94 94">
+    <defs>
+        <clipPath id="r3t4t5dxtb">
+            <path data-name="Rectangle 1900" style="fill:none" d="M0 0h30.451v28.442H0z"/>
+        </clipPath>
+        <filter id="1gizvw56fa" x="0" y="0" width="94" height="94" filterUnits="userSpaceOnUse">
+            <feOffset dx="5" dy="5"/>
+            <feGaussianBlur stdDeviation="5" result="blur"/>
+            <feFlood flood-color="#165cc4" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Field Service">
+        <g style="filter:url(#1gizvw56fa)">
+            <rect data-name="Rectangle 1890" width="64" height="64" rx="5" transform="translate(10 10)" style="fill:#fff"/>
+        </g>
+        <g data-name="Group 1309">
+            <g data-name="Group 1308" style="clip-path:url(#r3t4t5dxtb)" transform="translate(27 28)">
+                <path data-name="Path 1413" d="M6.741.66A1.27 1.27 0 0 1 7.855 0H22.2a1.271 1.271 0 0 1 1.1.633l6.98 12.045a1.271 1.271 0 0 1 .01 1.256l-5.642 10.1a1.27 1.27 0 0 1-2.164.088l-6.206-9.253a1.27 1.27 0 0 0-2.11 0l-6.212 9.254a1.27 1.27 0 0 1-2.165-.09L.16 13.917a1.27 1.27 0 0 1 0-1.228z" style="fill:#eb8605"/>
+                <path data-name="Path 1414" d="M20.756 15.766a9.393 9.393 0 0 1 14.586 11.8l-6.558 8.974a1.27 1.27 0 0 1-2.051 0l-6.558-8.974a9.393 9.393 0 0 1 .581-11.8" transform="translate(-12.533 -8.621)" style="fill:#fbbd1a"/>
+                <path data-name="Path 1415" d="M35.657 25.253a5.716 5.716 0 1 1-5.716 5.716 5.717 5.717 0 0 1 5.716-5.716" transform="translate(-20.432 -17.233)" style="fill:#fee780"/>
+            </g>
+        </g>
+    </g>
+</svg>

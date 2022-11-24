@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="78" viewBox="0 0 78 78">
+    <defs>
+        <filter id="2jxeasvsqa" x="0" y="0" width="78" height="78" filterUnits="userSpaceOnUse">
+            <feOffset dx="5" dy="5"/>
+            <feGaussianBlur stdDeviation="5" result="blur"/>
+            <feFlood flood-color="#165cc4" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 1582">
+        <g style="filter:url(#2jxeasvsqa)">
+            <rect data-name="Rectangle 2459" width="48" height="48" rx="5" transform="translate(10 10)" style="fill:#fff"/>
+        </g>
+        <path data-name="Path 1734" d="M17.13 4.31a10.856 10.856 0 0 1 3.61 1.472m3.369 15.147a10.9 10.9 0 0 0 1.519-3.812m-16.87 7.026a10.89 10.89 0 0 0 3.862 1.625M4.172 12.606a10.921 10.921 0 0 1 1.575-3.66M4.1 17.117a10.866 10.866 0 0 0 1.519 3.812m11.488 4.839a10.882 10.882 0 0 0 3.862-1.625m3.011-15.2a10.9 10.9 0 0 1 1.575 3.66M8.986 5.782A10.865 10.865 0 0 1 12.6 4.31m0 0L12.821 1h4.084l.225 3.31m-4.51 21.458.2 2.959h4.084l.2-2.959M5.747 8.946 3.617 6.5 6.5 3.616l2.486 2.166m15.123 15.147 2 2.293-2.886 2.888-2.255-1.967M4.1 17.117 1 16.906v-4.084l3.172-.216m21.456 4.511 3.1-.211v-4.084l-3.172-.216M5.618 20.929l-2 2.293L6.5 26.11l2.254-1.967m15.221-15.2L26.11 6.5l-2.887-2.884-2.483 2.166" transform="translate(19.5 19.5)" style="fill:none;stroke:#4bbfeb;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:2px"/>
+        <path data-name="Path 1735" d="m11.143 16.057 1.737 1.707 5.7-5.8" transform="translate(19.357 19.539)" style="fill:none;stroke:#4bbfeb;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:2px"/>
+    </g>
+</svg>

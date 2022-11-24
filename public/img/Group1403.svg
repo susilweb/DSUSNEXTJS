@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151" height="151" viewBox="0 0 151 151">
+    <defs>
+        <clipPath id="n8bc0i9bbb">
+            <path data-name="Rectangle 1393" style="fill:none" d="M0 0h40v34.94H0z"/>
+        </clipPath>
+        <filter id="lvkopqfwfa" x="0" y="0" width="151" height="151" filterUnits="userSpaceOnUse">
+            <feOffset dy="10"/>
+            <feGaussianBlur stdDeviation="10" result="blur"/>
+            <feFlood flood-color="#2c5ec2" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 1403">
+        <g style="filter:url(#lvkopqfwfa)">
+            <rect data-name="Rectangle 1390" width="91" height="91" rx="10" transform="translate(30 20)" style="fill:#fff"/>
+        </g>
+        <g data-name="Group 1169">
+            <g data-name="Group 1165">
+                <g data-name="Group 1164" transform="translate(56 49)" style="clip-path:url(#n8bc0i9bbb)">
+                    <path data-name="Path 1010" d="M13.207 17.334a1.162 1.162 0 0 1-1.162-1.162V6.389a1.162 1.162 0 1 1 2.324 0v9.783a1.162 1.162 0 0 1-1.162 1.162" transform="translate(6.616 2.871)" style="fill:#1d3557"/>
+                    <path data-name="Path 1011" d="M18.847 13.866H13.27a1.162 1.162 0 1 1 0-2.324h5.577a1.162 1.162 0 1 1 0 2.324" transform="translate(6.65 6.34)" style="fill:#1d3557"/>
+                    <path data-name="Path 1012" d="m4.534 15.119-2.311-.245a16.65 16.65 0 0 1 33.11 0l-2.311.242a14.326 14.326 0 0 0-28.488 0" transform="translate(1.221)" style="fill:#e63946"/>
+                    <path data-name="Path 1013" d="m16.854 25-.305-2.3c6.693-.886 6.77-6.535 6.77-6.775h2.324c0 2.738-1.837 8.16-8.789 9.077" transform="translate(9.089 8.745)" style="fill:#e63946"/>
+                    <path data-name="Path 1014" d="M17.309 24.27H14.08a2.421 2.421 0 1 1 0-4.843h3.229a2.421 2.421 0 1 1 0 4.843" transform="translate(6.404 10.671)" style="fill:#e63946"/>
+                    <path data-name="Path 1015" d="M24.48 22.382a4.6 4.6 0 0 1-4.6-4.6v-5.7a4.6 4.6 0 0 1 9.2 0v5.7a4.6 4.6 0 0 1-4.6 4.6" transform="translate(10.919 4.11)" style="fill:#e63946"/>
+                    <path data-name="Path 1016" d="M4.6 22.382a4.6 4.6 0 0 1-4.6-4.6v-5.7a4.6 4.6 0 1 1 9.2 0v5.7a4.6 4.6 0 0 1-4.6 4.6" transform="translate(0 4.11)" style="fill:#e63946"/>
+                </g>
+            </g>
+            <path data-name="Rectangle 1396" transform="translate(52 42)" style="fill:none" d="M0 0h48v48H0z"/>
+        </g>
+    </g>
+</svg>

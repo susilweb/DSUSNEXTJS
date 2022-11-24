@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="188" viewBox="0 0 188 188">
+    <defs>
+        <clipPath id="qj7qrg4gxb">
+            <path data-name="Rectangle 1407" style="fill:none" d="M0 0h49.332v51.319H0z"/>
+        </clipPath>
+        <filter id="40k5s0y19a" x="0" y="0" width="188" height="188" filterUnits="userSpaceOnUse">
+            <feOffset dy="15"/>
+            <feGaussianBlur stdDeviation="15" result="blur"/>
+            <feFlood flood-color="#165cc4" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 1199">
+        <g style="filter:url(#40k5s0y19a)">
+            <rect data-name="Rectangle 1408" width="98" height="98" rx="10" transform="translate(45 30)" style="fill:#fff"/>
+        </g>
+        <g data-name="Group 1197">
+            <g data-name="Group 1196" style="clip-path:url(#qj7qrg4gxb)" transform="translate(69 53)">
+                <path data-name="Path 1042" d="M24.655 28.089a1.5 1.5 0 0 1-1.5-1.5V0h20.087l-6.976 6.976 8.26 8.26H28.648a1.5 1.5 0 0 1 0-3h8.636l-5.26-5.26L36 3h-9.845v23.589a1.5 1.5 0 0 1-1.5 1.5" style="fill:#1d3557"/>
+                <path data-name="Path 1043" d="M47.832 51.319a1.492 1.492 0 0 1-1.061-.439L24.6 28.71 2.561 50.751A1.5 1.5 0 0 1 .44 48.63L24.6 24.467l24.292 24.291a1.5 1.5 0 0 1-1.06 2.561" style="fill:#e63946"/>
+                <path data-name="Path 1044" d="M29.672 43.745 26.1 40.177l-3.49 3.49-5.361-5.367a1.5 1.5 0 1 1 2.121-2.121l3.244 3.244 3.49-3.491 3.568 3.568 3.921-3.922a1.5 1.5 0 0 1 2.121 2.122z" style="fill:#e63946"/>
+            </g>
+        </g>
+    </g>
+</svg>

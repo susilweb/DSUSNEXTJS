@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="181" height="181" viewBox="0 0 181 181">
+    <defs>
+        <filter id="xzp1pip96a" x="0" y="0" width="181" height="181" filterUnits="userSpaceOnUse">
+            <feOffset dy="15"/>
+            <feGaussianBlur stdDeviation="15" result="blur"/>
+            <feFlood flood-color="#1773ce" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Component 39 – 1">
+        <g style="filter:url(#xzp1pip96a)">
+            <rect data-name="Rectangle 1312" width="91" height="91" rx="10" transform="translate(45 30)" style="fill:#fff"/>
+        </g>
+        <path data-name="Path 972" d="M120.757 330.9H73.708m28.081-37.736-9.042 18.64m-5.169-3.574-5.645-5.63 5.639-5.653m19.38 0 5.653 5.653-5.653 5.639m10.11-24.834H77.41a8.7 8.7 0 0 0-8.686 8.672v19.922a8.712 8.712 0 0 0 8.686 8.686h39.644a8.712 8.712 0 0 0 8.686-8.686v-19.927a8.7 8.7 0 0 0-8.672-8.672zm-8.729 42.492H86.139" transform="translate(-7.225 -231.9)" style="fill:none;stroke:#5ecb94;stroke-linecap:round;stroke-miterlimit:10;stroke-width:3px"/>
+    </g>
+</svg>

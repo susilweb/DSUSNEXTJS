@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="181" height="181" viewBox="0 0 181 181">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ee3442;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        filter: url(#Rectangle_1310);
+      }
+    </style>
+    <filter id="Rectangle_1310" x="0" y="0" width="181" height="181" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-color="#1773ce" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_37_1" data-name="Component 37 – 1" transform="translate(45 30)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, -45, -30)">
+      <rect id="Rectangle_1310-2" data-name="Rectangle 1310" class="cls-1" width="91" height="91" rx="10" transform="translate(45 30)"/>
+    </g>
+    <g id="Group_979" data-name="Group 979" transform="translate(22 20)">
+      <path id="Path_966" data-name="Path 966" class="cls-2" d="M93.709,78.63l-7.238,7.238-4.329-4.329L75.33,88.353" transform="translate(-68.668 -65.836)"/>
+      <path id="Path_967" data-name="Path 967" class="cls-2" d="M85.131,78.264h4.9v4.9" transform="translate(-64.512 -65.991)"/>
+      <circle id="Ellipse_108" data-name="Ellipse 108" class="cls-2" cx="16.242" cy="16.242" r="16.242"/>
+      <rect id="Rectangle_1315" data-name="Rectangle 1315" class="cls-2" width="5.733" height="23.443" rx="2.013" transform="translate(32.092 38.174) rotate(-45)"/>
+      <line id="Line_100" data-name="Line 100" class="cls-2" x2="6.985" y2="6.985" transform="translate(27.26 29.036)"/>
+    </g>
+  </g>
+</svg>
