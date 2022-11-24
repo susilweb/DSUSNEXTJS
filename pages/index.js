@@ -878,15 +878,19 @@ export default function Home() {
                       <div className="swiper-slide">
                         <div className="testimonial-item">
                           <div className="profile">
-                            <img
+                            <Image
                               src="/img/JVEquip_logo.png"
                               className="testimonial-img"
                               alt=""
+                              width={200}
+                                height={80}
                             />
                             <div className="imginner">
-                              <img
+                              <Image
                                 src="/img/Icon metro-quote.png"
                                 alt=""
+                                width={200}
+                                height={80}
                               />
                             </div>
                             <p>
@@ -908,15 +912,19 @@ export default function Home() {
                       <div className="swiper-slide">
                         <div className="testimonial-item">
                           <div className="profile">
-                            <img
+                            <Image
                               src="/img/Spectra-Aluminum-logo-new.png"
                               className="testimonial-img"
                               alt="Spectra-Aluminum-logo-new"
+                              width={200}
+                              height={80}
                             />
                             <div className="imginner">
-                              <img
+                              <Image
                                 src="/img/Icon metro-quote.png"
-                                alt=""
+                                alt="metro"
+                                width={200}
+                                height={80}
                               />
                             </div>
                             <p>
@@ -934,15 +942,19 @@ export default function Home() {
                       <div className="swiper-slide">
                         <div className="testimonial-item">
                           <div className="profile">
-                            <img
+                            <Image
                               src="/img/MexiLand_logos.png"
                               className="testimonial-img"
                               alt="MexiLand_logos"
+                              width={200}
+                              height={80}
                             />
                             <div className="imginner">
-                              <img
+                              <Image
                                 src="/img/Icon metro-quote.png"
                                 alt="metro-quote"
+                                width={200}
+                                height={80}
                               />
                             </div>
                             <p>
