@@ -656,10 +656,12 @@ export default function Home() {
 
           <div className="row">
             <div className="col-lg-6 aos-init align-self-center">
-              <img
+              <Image
                 src="/img/system-health-check.png"
                 className="system-health-check"
                 alt="Dynamics 365 System Health Check"
+                width={553}
+                height={531}
               />
             </div>
             <div className="col-lg-6 pt-4 pt-lg-0 content align-self-center">
@@ -961,10 +963,12 @@ export default function Home() {
             <div className="col-lg-6 align-self-center">
               <div className="testimonials-bg">
                 <div className="testimonials-rigt-iner">
-                  <img
+                  <Image
                     src="/img/testmonial-side-pic.png"
                     className="testmonial-side-pic"
-                    alt=""
+                    alt="images"
+                    width={802}
+                    height={764}
                   />
                 </div>
               </div>
@@ -1067,9 +1071,12 @@ export default function Home() {
         <div className="container" data-aos="fade-up">
           <div className="row  gy-4">
             <div className="col-lg-5 align-self-center">
-              <img
+              <Image
                 src="/img/case-study-side-banner.png"
                 alt="case-study-side-banner"
+                width={640}
+                height={592}
+
               />
             </div>
             <div className="col-lg-1 align-self-center"></div>

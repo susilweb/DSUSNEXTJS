@@ -20,7 +20,8 @@ class MyDocument extends Document {
             />
             <script src="https://www.googleoptimize.com/optimize.js?id=OPT-M9Z4742"></script>
             <meta name="google-site-verification" content="xFgE4PTaJv9p6KEkLb3yvhTbsewZhPo7xg8VbUXi_ME" />
-            <Script async
+            <meta name="robots" content="noindex,nofollow" />
+            {/* <Script async
             src="https://www.googletagmanager.com/gtag/js?id=UA-243571673-1"
             strategy="beforeInteractive"
             />
@@ -44,7 +45,7 @@ class MyDocument extends Document {
                   m.parentNode.insertBefore(w, m), w = null}
                   )(window, document, "script", "https://68645155.adoric-om.com/adoric.js", "Adoric_Script", "adoric","5d7b8ed8217b2eb2098e9eaca5386d15", "data-key");
                 `}
-            </Script>
+            </Script> */}
             
         </Head>
         <body>
