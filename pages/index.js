@@ -1,10 +1,12 @@
 import Head from 'next/head';
 import Image from 'next/image';
 import Script from 'next/script';
+import a from 'next/link';
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
 import { Pagination,Autoplay,FreeMode } from "swiper";
+import Link from 'next/link';
 
 export default function Home() {
   // const addJsonLd = () => {
@@ -58,6 +60,7 @@ export default function Home() {
         <meta name="twitter:image" content="https://www.dynamicssquare.com/img/about.jpg" />
 
       </Head>
+         
       <section id="hero" className="hero hero-1">
         <div className="container">
           <div className="row">
@@ -71,23 +74,22 @@ export default function Home() {
               </p>
               <div>
                 <div className="text-center text-lg-start btn-welcome">
+                  <Link href="#exampleModal">
                   <a
                     data-bs-toggle="modal"
-                    href="#exampleModal"
+                 
                     className="btn-get-started scrollto"
                   >
                     <span>Talk to an Expert </span>
                   </a>
+                  </Link>
                 </div>
                 <div className="bnner_inline_images">
                   <ul>
                     <li>
-                    
-                     <Image
+                      <img
                         src="/img/Microsoft-Partner-black.png"
-                        alt="Microsoft Partner logo"
-                        width={206}
-                        height={67}
+                        alt="Microsoft Partner black.png"
                       />
                     </li>
                   </ul>
@@ -103,36 +105,39 @@ export default function Home() {
                 <ul className="list-n fist-m">
                   <li>
                     <div className="list-n-wrp">
-                      <a href="/products/dynamics-365-business-central/">
+                      <Link href="/products/dynamics-365-business-central/">
+                      <a>
                         <img
                           src="/img/business-center-logo.svg"
                           alt="business-center-logo"
-                          width={45}
-                          height={45}
                         />
                         <span>
                           Business <br />
                           Central
                         </span>
                       </a>
+                      </Link>
                     </div>
                   </li>
                   <li>
                     <div className="list-n-wrp">
-                      <a href="/products/microsoft-azure/">
+                      <Link href="/products/microsoft-azure/">
+                      <a>
                         <img
                           src="/img/azur-icons.svg"
                           alt="azur-icons"
                         />
                         <span>Azure</span>
                       </a>
+                      </Link>
                     </div>
                   </li>
                 </ul>
                 <ul className="list-n fist-m-2">
                   <li>
                     <div className="list-n-wrp">
-                      <a href="/products/microsoft-power-apps/">
+                    <Link href="/products/microsoft-power-apps/">
+                    <a>
                         <img
                           src="/img/Powerapps_power-apps.svg"
                           alt="Powerapps_power-apps"
@@ -142,22 +147,26 @@ export default function Home() {
                           <br /> Apps
                         </span>
                       </a>
+                    </Link>
                     </div>
                   </li>
                   <li>
                     <div className="list-n-wrp">
-                      <a href="/products/microsoft-dynamics-365-finance/">
+                    <Link href="/products/microsoft-dynamics-365-finance/">
+                    <a>
                         <img
                           src="/img/finace-icons.svg"
                           alt="finace-icons"
                         />
                         <span>Finance</span>
                       </a>
+                    </Link>
                     </div>
                   </li>
                   <li>
                     <div className="list-n-wrp">
-                      <a href="/products/microsoft-dynamics-365-customer-service/">
+                    <Link href="/products/microsoft-dynamics-365-customer-service/">
+                    <a>
                         <img
                           src="/img/customer-service-icons.svg"
                           alt="customer-service-icons"
@@ -167,13 +176,15 @@ export default function Home() {
                           <br /> Service
                         </span>
                       </a>
+                    </Link>
                     </div>
                   </li>
                 </ul>
                 <ul className="list-n  fist-m-3">
                   <li>
                     <div className="list-n-wrp">
-                      <a href="/products/dynamics-365-supply-chain-management/">
+                    <Link href="/products/dynamics-365-supply-chain-management/">
+                    <a>
                         <img
                           src="/img/supplychain-logo.svg"
                           alt="supplychain-logo"
@@ -184,21 +195,25 @@ export default function Home() {
                           Chain
                         </span>
                       </a>
+                    </Link>
                     </div>
                   </li>
                   <li className="list-n-wrp-size">
                     <div className="list-n-wrp">
-                      <a href="/products/microsoft-dynamics-365/">
+                    <Link href="/products/microsoft-dynamics-365/">
+                    <a>
                         <img
                           src="/img/ds-365.png"
                           alt="Microsoft Dynamics 365 Partner"
                         />
                       </a>
+                    </Link>
                     </div>
                   </li>
                   <li>
                     <div className="list-n-wrp">
-                      <a href="/products/microsoft-dynamics-365-field-service/">
+                    <Link  href="/products/microsoft-dynamics-365-field-service/">
+                    <a>
                         <img
                           src="/img/feald-service-logo.svg"
                           alt="feald-service-logo"
@@ -207,45 +222,53 @@ export default function Home() {
                           Field <br /> Service
                         </span>
                       </a>
+                    </Link>
                     </div>
                   </li>
                 </ul>
                 <ul className="list-n  fist-m-2">
                   <li>
                     <div className="list-n-wrp">
-                      <a href="/products/microsoft-power-bi/">
+                    <Link href="/products/microsoft-power-bi/">
+                    <a>
                         <img
                           src="/img/powerbilogo.png"
                           alt="powerbilogo"
                         />
                         <span>Power BI</span>
                       </a>
+                    </Link>
                     </div>
                   </li>
                   <li>
                     <div className="list-n-wrp">
-                      <a href="/products/microsoft-dynamics-365-marketing/">
+                    <Link href="/products/microsoft-dynamics-365-marketing/">
+                      <a>
                         <img src="/img/marketing.svg" alt="marketing" />
                         <span>Marketing</span>
                       </a>
+                    </Link>
                     </div>
                   </li>
                   <li>
                     <div className="list-n-wrp">
-                      <a href="/products/microsoft-dynamics-365-sales/">
+                    <Link href="/products/microsoft-dynamics-365-sales/">
+                    <a>
                         <img
                           src="/img/Sales_scalable.svg"
                           alt="Sales_scalable"
                         />
                         <span>Sales</span>
                       </a>
+                    </Link>
                     </div>
                   </li>
                 </ul>
                 <ul className="list-n fist-m">
                   <li>
                     <div className="list-n-wrp">
-                      <a href="/products/dynamics-365-human-resources/">
+                    <Link href="/products/dynamics-365-human-resources/">
+                    <a>
                         <img
                           src="/img/human-resource.svg"
                           alt="human-resource"
@@ -254,6 +277,7 @@ export default function Home() {
                           Human <br /> Resources
                         </span>
                       </a>
+                    </Link>
                     </div>
                   </li>
                 </ul>
@@ -281,12 +305,10 @@ export default function Home() {
             <div className="col-lg-4 col-md-6">
               <div className="service-box  service-box-blue">
                 <div className="top">
-                  <Image
+                  <img
                     src="/img/business-center-logo.svg"
                     alt="business-center-logo"
                     className="icon"
-                    width={45}
-                    height={45}
                   />
                   <h3>
                     Dynamics 365 <br /> Business Central
@@ -298,23 +320,24 @@ export default function Home() {
                   practices, and drive effective customer engagement with
                   Business Central.
                 </p>
+                <Link  href="/products/dynamics-365-business-central/">
                 <a
-                  href="/products/dynamics-365-business-central/"
-                  className="read-more"
-                >
-                  <span>Learn More...</span>
-                </a>
+                 
+                 className="read-more"
+               >
+                 <span>Learn More...</span>
+               </a>
+                </Link>
+               
               </div>
             </div>
             <div className="col-lg-4 col-md-6">
               <div className="service-box service-box-blue">
                 <div className="top">
-                  <Image
+                  <img
                     src="/img/finace-icons.svg"
                     alt="finace-icons"
                     className="icon"
-                    width={45}
-                    height={45}
                   />
                   <h3>
                     Dynamics 365 <br />
@@ -327,23 +350,23 @@ export default function Home() {
                   financial practices while minimizing investment costs and
                   global financial complexity.
                 </p>
-                <a
-                  href="/products/microsoft-dynamics-365-finance/"
+                <Link href="/products/microsoft-dynamics-365-finance/">
+                <a             
                   className="read-more"
                 >
                   <span>Learn More...</span>
                 </a>
+                </Link>
+               
               </div>
             </div>
             <div className="col-lg-4 col-md-6">
               <div className="service-box service-box-blue">
                 <div className="top">
-                  <Image
+                  <img
                     src="/img/supplychain-logo.svg"
                     alt="supplychain-logo"
                     className="icon"
-                    width={45}
-                    height={45}
                   />
                   <h3>
                     Dynamics 365 <br />
@@ -356,12 +379,13 @@ export default function Home() {
                   through highly customized and integrated Dynamics 365 Supply
                   Chain Solutions.
                 </p>
-                <a
-                  href="/products/dynamics-365-supply-chain-management/"
-                  className="read-more"
-                >
-                  <span>Learn More...</span>
-                </a>
+                <Link  href="/products/dynamics-365-supply-chain-management/">
+                <a 
+                 className="read-more"
+               >
+                 <span>Learn More...</span>
+               </a>
+                </Link>
               </div>
             </div>
             <div
@@ -371,12 +395,10 @@ export default function Home() {
             >
               <div className="service-box service-box-blue">
                 <div className="top">
-                  <Image
+                  <img
                     src="/img/Sales_scalable.svg"
                     alt="Sales_scalable"
                     className="icon"
-                    width={45}
-                    height={45}
                   />
                   <h3>
                     Dynamics 365 <br />
@@ -389,12 +411,14 @@ export default function Home() {
                   Predict & manage your sales pipeline with real-time AI
                   insights and close deals faster.
                 </p>
+                <Link  href="/products/microsoft-dynamics-365-sales/">
                 <a
-                  href="/products/microsoft-dynamics-365-sales/"
-                  className="read-more"
-                >
-                  <span>Learn More...</span>
-                </a>
+                 
+                 className="read-more"
+               >
+                 <span>Learn More...</span>
+               </a>
+                </Link>
               </div>
             </div>
             <div
@@ -404,12 +428,10 @@ export default function Home() {
             >
               <div className="service-box service-box-blue">
                 <div className="top">
-                  <Image
+                  <img
                     src="/img/powerbilogo.png"
                     alt="Powerapps_power-apps"
                     className="icon"
-                    width={45}
-                    height={45}
                   />
                   <h3>
                     Microsoft <br />
@@ -422,9 +444,11 @@ export default function Home() {
                   make improved decisions supporting your sales strategies and
                   impacting productivity.
                 </p>
-                <a href="/products/microsoft-power-bi/" className="read-more">
+                <Link href="/products/microsoft-power-bi/">
+                <a  className="read-more">
                   <span>Learn More...</span>
                 </a>
+                </Link>
               </div>
             </div>
             <div
@@ -434,12 +458,10 @@ export default function Home() {
             >
               <div className="service-box service-box-blue">
                 <div className="top">
-                  <Image
+                  <img
                     src="/img/Azure-IoT.svg"
                     alt="Azure-IoT"
                     className="icon"
-                    width={45}
-                    height={45}
                   />
                   <h3>
                     Internet Of <br />
@@ -451,12 +473,14 @@ export default function Home() {
                   data-exchanging practices over a secured network. Seamlessly
                   connect your devices to ensure smoother data transformation.
                 </p>
+                <Link  href="/products/azure-iot-internet-of-things/">
                 <a
-                  href="/products/azure-iot-internet-of-things/"
-                  className="read-more"
-                >
-                  <span>Learn More...</span>
-                </a>
+                 
+                 className="read-more"
+               >
+                 <span>Learn More...</span>
+               </a>
+                </Link>
               </div>
             </div>
           </div>
@@ -495,12 +519,14 @@ export default function Home() {
                     business toward a productive and efficient route through
                     Microsoft Dynamics solutions.
                   </p>
+                  <Link   href="/industries/startups/">
                   <a
-                    href="/industries/startups/"
-                    className="boxshadow kallyas-button kallyas-button-nn"
-                  >
-                    Learn More
-                  </a>
+                  
+                  className="boxshadow kallyas-button kallyas-button-nn"
+                >
+                  Learn More
+                </a>
+                </Link>
                 </div>
               </div>
             </div>
@@ -524,12 +550,14 @@ export default function Home() {
                     highly configured solution to support your non-profit
                     practices across your non-profit hub.
                   </p>
+                  <Link href="/industries/microsoft-cloud-for-nonprofit/">
                   <a
-                    href="/industries/microsoft-cloud-for-nonprofit/"
+                    
                     className="boxshadow kallyas-button kallyas-button-nn"
                   >
                     Learn More
                   </a>
+                </Link>
                 </div>
               </div>
             </div>
@@ -553,12 +581,15 @@ export default function Home() {
                     to ensure seamless customer fulfillment, enable secure
                     transactions, and meet demands.
                   </p>
+                  <Link  href="/industries/ecommerce/">
                   <a
-                    href="/industries/ecommerce/"
-                    className="boxshadow kallyas-button kallyas-button-nn"
-                  >
-                    Learn More
-                  </a>
+                   
+                   className="boxshadow kallyas-button kallyas-button-nn"
+                 >
+                   Learn More
+                 </a>
+                </Link>
+                 
                 </div>
               </div>
             </div>
@@ -582,12 +613,14 @@ export default function Home() {
                     throughout your enterprise by implementing MS Dynamics
                     solutions for your industry.
                   </p>
+                  <Link  href="/industries/microsoft-cloud-for-manufacturing/">
                   <a
-                    href="/industries/microsoft-cloud-for-manufacturing/"
-                    className="boxshadow kallyas-button kallyas-button-nn"
-                  >
-                    Learn More
-                  </a>
+                   
+                   className="boxshadow kallyas-button kallyas-button-nn"
+                 >
+                   Learn More
+                 </a>
+                </Link>
                 </div>
               </div>
             </div>
@@ -611,12 +644,15 @@ export default function Home() {
                     Dynamics solutions configured to your specific business
                     context to maximize outcomes.
                   </p>
+                  <Link href="/industries/professional-services/">
                   <a
-                    href="/industries/professional-services/"
+                    
                     className="boxshadow kallyas-button kallyas-button-nn"
                   >
                     Learn More
                   </a>
+                </Link>
+                  
                 </div>
               </div>
             </div>
@@ -640,12 +676,11 @@ export default function Home() {
                     can develop a growth-hacking MS Dynamics solution for your
                     food & beverages industry.
                   </p>
-                  <a
-                    href="/industries/food-and-beverages/"
-                    className="boxshadow kallyas-button kallyas-button-nn"
-                  >
+                  <Link href="/industries/food-and-beverages/">
+                  <a className="boxshadow kallyas-button kallyas-button-nn">
                     Learn More
                   </a>
+                </Link>
                 </div>
               </div>
             </div>
@@ -670,12 +705,10 @@ export default function Home() {
 
           <div className="row">
             <div className="col-lg-6 aos-init align-self-center">
-              <Image
+              <img
                 src="/img/system-health-check.png"
                 className="system-health-check"
                 alt="Dynamics 365 System Health Check"
-                width={553}
-                height={531}
               />
             </div>
             <div className="col-lg-6 pt-4 pt-lg-0 content align-self-center">
@@ -748,7 +781,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-      {/* <section id="counts" className="counts counts-bg">
+      <section id="counts" className="counts counts-bg">
         <div className="container" data-aos="fade-up">
           <div className="row gy-4">
             <div className="col-lg-3 col-md-6">
@@ -762,18 +795,7 @@ export default function Home() {
                   />
                 </div>
                 <div className="count-box-info">
-                  <span>
-                    <AnimatedNumber
-                      component="text"
-                      value={135}
-                      style={{
-                        transition: "0.8s ease-out",
-                        transitionProperty: "background-color, color, opacity",
-                      }}
-                      duration={300}
-                    />
-                  </span>
-                  <span className="inner">+</span>
+                  <span className="inner">135+</span>
                   <p>Microsoft Consultants</p>
                 </div>
               </div>
@@ -789,18 +811,7 @@ export default function Home() {
                   />
                 </div>
                 <div className="count-box-info">
-                  <span>
-                    <AnimatedNumber
-                      component="text"
-                      value={11}
-                      style={{
-                        transition: "0.8s ease-out",
-                        transitionProperty: "background-color, color, opacity",
-                      }}
-                      duration={300}
-                    />
-                  </span>
-                  <span className="inner">+</span>
+                  <span className="inner">11+</span>
                   <p>Years of Expertise</p>
                 </div>
               </div>
@@ -816,18 +827,7 @@ export default function Home() {
                   />
                 </div>
                 <div className="count-box-info">
-                  <span>
-                    <AnimatedNumber
-                      component="text"
-                      value={6}
-                      style={{
-                        transition: "0.8s ease-out",
-                        transitionProperty: "background-color, color, opacity",
-                      }}
-                      duration={300}
-                    />
-                  </span>
-                  <span className="inner">+</span>
+                  <span className="inner">6+</span>
                   <p>Global Presence</p>
                 </div>
               </div>
@@ -843,25 +843,14 @@ export default function Home() {
                   />
                 </div>
                 <div className="count-box-info">
-                  <span>
-                    <AnimatedNumber
-                      component="text"
-                      value={99}
-                      style={{
-                        transition: "0.8s ease-out",
-                        transitionProperty: "background-color, color, opacity",
-                      }}
-                      duration={300}
-                    />
-                  </span>
-                  <span className="inner">%</span>
+                  <span className="inner">99%</span>
                   <p>Customer Satisfaction</p>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section> */}
+      </section>
 
       <section id="testimonials" className="testimonials">
         <div className="container" data-aos="fade-up">
@@ -892,19 +881,15 @@ export default function Home() {
                       <div className="swiper-slide">
                         <div className="testimonial-item">
                           <div className="profile">
-                            <Image
+                            <img
                               src="/img/JVEquip_logo.png"
                               className="testimonial-img"
                               alt=""
-                              width={200}
-                                height={80}
                             />
                             <div className="imginner">
-                              <Image
+                              <img
                                 src="/img/Icon metro-quote.png"
                                 alt=""
-                                width={200}
-                                height={80}
                               />
                             </div>
                             <p>
@@ -926,19 +911,15 @@ export default function Home() {
                       <div className="swiper-slide">
                         <div className="testimonial-item">
                           <div className="profile">
-                            <Image
+                            <img
                               src="/img/Spectra-Aluminum-logo-new.png"
                               className="testimonial-img"
                               alt="Spectra-Aluminum-logo-new"
-                              width={200}
-                              height={80}
                             />
                             <div className="imginner">
-                              <Image
+                              <img
                                 src="/img/Icon metro-quote.png"
-                                alt="metro"
-                                width={200}
-                                height={80}
+                                alt=""
                               />
                             </div>
                             <p>
@@ -956,19 +937,15 @@ export default function Home() {
                       <div className="swiper-slide">
                         <div className="testimonial-item">
                           <div className="profile">
-                            <Image
+                            <img
                               src="/img/MexiLand_logos.png"
                               className="testimonial-img"
                               alt="MexiLand_logos"
-                              width={200}
-                              height={80}
                             />
                             <div className="imginner">
-                              <Image
+                              <img
                                 src="/img/Icon metro-quote.png"
                                 alt="metro-quote"
-                                width={200}
-                                height={80}
                               />
                             </div>
                             <p>
@@ -989,12 +966,10 @@ export default function Home() {
             <div className="col-lg-6 align-self-center">
               <div className="testimonials-bg">
                 <div className="testimonials-rigt-iner">
-                  <Image
+                  <img
                     src="/img/testmonial-side-pic.png"
                     className="testmonial-side-pic"
-                    alt="images"
-                    width={802}
-                    height={764}
+                    alt=""
                   />
                 </div>
               </div>
@@ -1033,69 +1008,57 @@ export default function Home() {
               >
                 <SwiperSlide>
                   <div className="swiper-slide">
-                    <Image
+                    <img
                       src="/img/clients/JVEquip_logo.png"
                       className="img-fluid"
                       alt="JVEquip_logo"
-                      width={200}
-                        height={80}
                     />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   {" "}
                   <div className="swiper-slide">
-                    <Image
+                    <img
                       src="/img/clients/Spectra-Aluminum-logo-new.png"
                       className="img-fluid"
                       alt="Spectra-Aluminum-logo"
-                      width={200}
-                        height={80}
                     />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="swiper-slide">
-                    <Image
+                    <img
                       src="/img/clients/MexiLand_logos.png"
                       className="img-fluid"
                       alt="MexiLand_logos"
-                      width={200}
-                        height={80}
                     />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   {" "}
                   <div className="swiper-slide">
-                    <Image
+                    <img
                       src="/img/clients/VidPro_logo.png"
                       className="img-fluid"
                       alt="VidPro_logo"
-                      width={200}
-                        height={80}
                     />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="swiper-slide">
-                    <Image
+                    <img
                       src="/img/clients/PLASP-LOGO.png"
                       className="img-fluid"
                       alt="PLASP-LOGO"
-                      width={200}
-                        height={80}
                     />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="swiper-slide">
-                    <Image
+                    <img
                       src="/img/clients/SOS-MANUFACTURING-LOGO.png"
                       className="img-fluid"
                       alt="SOS-MANUFACTURING-LOGO"
-                      width={200}
-                        height={80}
                     />
                   </div>
                 </SwiperSlide>
@@ -1109,12 +1072,9 @@ export default function Home() {
         <div className="container" data-aos="fade-up">
           <div className="row  gy-4">
             <div className="col-lg-5 align-self-center">
-              <Image
+              <img
                 src="/img/case-study-side-banner.png"
                 alt="case-study-side-banner"
-                width={640}
-                height={592}
-
               />
             </div>
             <div className="col-lg-1 align-self-center"></div>
@@ -1140,12 +1100,10 @@ export default function Home() {
                 <SwiperSlide>
                   <div className="casestudys-slider-item">
                     <div className="profile mt-auto">
-                      <Image
+                      <img
                         src="/img/cs-DMIC-logo.png"
                         className="cs-DMIC-logo"
-                        alt="cs-DMIC-logo"
-                        width={200}
-                        height={80}
+                        alt=""
                       />
                       <p>
                         Streamline Manufacturing & Accounting with D365 Business
@@ -1175,12 +1133,10 @@ export default function Home() {
                 <SwiperSlide>
                   <div className="casestudys-slider-item">
                     <div className="profile mt-auto">
-                      <Image
+                      <img
                         src="/img/cs-spectra-logo.png"
                         className="cs-spectra-logo"
                         alt="crm-trading"
-                        width={200}
-                        height={80}
                       />
                       <p>
                         Implemented Custom EFT Module to improvise Payment
@@ -1210,12 +1166,10 @@ export default function Home() {
                 <SwiperSlide>
                   <div className="casestudys-slider-item">
                     <div className="profile mt-auto">
-                      <Image
+                      <img
                         src="/img/cs-shimco-logo-csg.png"
                         className="casestudys-slider-item-img"
                         alt="cs-shimco-logo-csg"
-                        width={200}
-                        height={80}
                       />
                       <p>
                         Implementation of Microsoft Dynamics Business Central

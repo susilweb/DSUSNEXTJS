@@ -19,6 +19,7 @@ const AboutUs = () => {
   return (
     <>
       <Head>
+        <meta charSet="utf-8" />
         <title>
           About Dynamics Square | Dynamics 365 Business Central Partner
         </title>
@@ -28,7 +29,7 @@ const AboutUs = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.com/about-us/"
+          href="https://www.dynamicssquare.ca/about-us/"
         />
         <meta property="og:locale" content="en_US" />
        
