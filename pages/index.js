@@ -1,7 +1,6 @@
 import Head from 'next/head';
 import Image from 'next/image';
 import Script from 'next/script';
-import Link from 'next/link'
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
@@ -299,12 +298,12 @@ export default function Home() {
                   practices, and drive effective customer engagement with
                   Business Central.
                 </p>
-                <Link href="/products/dynamics-365-business-central/"><a
+                <a
+                  href="/products/dynamics-365-business-central/"
                   className="read-more"
                 >
                   <span>Learn More...</span>
-                </a></Link>
-                
+                </a>
               </div>
             </div>
             <div className="col-lg-4 col-md-6">
