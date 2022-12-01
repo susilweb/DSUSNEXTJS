@@ -11,7 +11,7 @@ const AzureIoTEdge = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/azure-iot-edge/"
+          href="https://www.dynamicssquare.com/products/azure-iot-edge/"
         />
        <meta name="robots" content="noindex,nofollow" />
         

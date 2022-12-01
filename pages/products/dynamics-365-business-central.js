@@ -24,7 +24,7 @@ const BusinessCentral = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/dynamics-365-business-central/"
+          href="https://www.dynamicssquare.com/products/dynamics-365-business-central/"
         />
         </Head>
          <ModalVideo

@@ -14,7 +14,7 @@ const Marketing = () => {
            <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/microsoft-dynamics-365-marketing/"
+          href="https://www.dynamicssquare.com/products/microsoft-dynamics-365-marketing/"
         />
         
       </Head>

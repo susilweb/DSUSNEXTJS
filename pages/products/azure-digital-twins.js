@@ -11,7 +11,7 @@ const AzureDigitalTwins = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/azure-digital-twins/"
+          href="https://www.dynamicssquare.com/products/azure-digital-twins/"
         />
         <meta name="robots" content="noindex,nofollow" />
         

@@ -12,7 +12,7 @@ const AzureMachineLearning = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/azure-machine-learning/"
+          href="https://www.dynamicssquare.com/products/azure-machine-learning/"
         />
         <meta name="robots" content="noindex,nofollow" />
         

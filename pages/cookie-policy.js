@@ -5,7 +5,7 @@ const CookiePolicy = () => {
       <Head>
       <title>Cookie Policy | Dynamics Square</title>
 <meta name="description" content="Read Dynamics Square Cookie Policy - Our cookie policy page explains why and how cookies are used to serve the optimal website experience to our readers."/>
-<link rel="canonical" href="https://www.dynamicssquare.ca/cookie-policy/" />
+<link rel="canonical" href="https://www.dynamicssquare.com/cookie-policy/" />
       </Head>
       <section className="Solution-banner hero-1 hero custom-pd-4">
         <div className="container">

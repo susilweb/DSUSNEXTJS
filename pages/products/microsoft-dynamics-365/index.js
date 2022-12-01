@@ -14,7 +14,7 @@ const D360 = () => {
            <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/microsoft-dynamics-365/"
+          href="https://www.dynamicssquare.com/products/microsoft-dynamics-365/"
         />
       </Head>
       <section className="Solution-banner hero-1 hero">

@@ -11,7 +11,7 @@ export default function SubscriberThank() {
       />
       <link
         rel="canonical"
-        href="https://www.dynamicssquare.ca/thank-you/"
+        href="https://www.dynamicssquare.com/thank-you/"
       />
       <meta property="og:locale" content="en_GB" />
     </Head>

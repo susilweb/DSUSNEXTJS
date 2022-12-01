@@ -18,9 +18,8 @@ const ThankYou = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/thank-you/"
+          href="https://www.dynamicssquare.com/thank-you/"
         />
-        <meta property="og:locale" content="en_GB" />
       </Head>
       <section className="Solution-banner hero-1 custom-pd-4">
         <div className="container">

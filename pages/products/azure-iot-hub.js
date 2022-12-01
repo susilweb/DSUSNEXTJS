@@ -11,7 +11,7 @@ const AzureIoTHub = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/azure-iot-hub/"
+          href="https://www.dynamicssquare.com/products/azure-iot-hub/"
         />
          <meta name="robots" content="noindex,nofollow" />
       </Head>

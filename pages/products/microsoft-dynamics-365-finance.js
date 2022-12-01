@@ -16,7 +16,7 @@ const Finance = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/microsoft-dynamics-365-finance/"
+          href="https://www.dynamicssquare.com/products/microsoft-dynamics-365-finance/"
         />
       </Head>
 

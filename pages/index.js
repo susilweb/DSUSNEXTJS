@@ -22,15 +22,15 @@ export default function Home() {
   //             streetAddress: "N. Whitworth"
   //           },
   //           colleague: [
-  //             "http://www.dynamicssquare.ca/",
-  //             "http://www.dynamicssquare.ca/"
+  //             "http://www.dynamicssquare.com/",
+  //             "http://www.dynamicssquare.com/"
   //           ],
   //           email: "mailto:jane-doe@xyz.edu",
   //           image: "janedoe.jpg",
   //           jobTitle: "Professor",
   //           name: "Jane Doe",
   //           telephone: "(425) 123-4567",
-  //           url: "http://www.dynamicssquare.ca/"
+  //           url: "http://www.dynamicssquare.com/"
   //     `
   //   }
   // }

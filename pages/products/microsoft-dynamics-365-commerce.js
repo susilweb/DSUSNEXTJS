@@ -15,7 +15,7 @@ const Commerce = () => {
            <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/microsoft-dynamics-365-commerce/"
+          href="https://www.dynamicssquare.com/products/microsoft-dynamics-365-commerce/"
         />
         
       </Head>

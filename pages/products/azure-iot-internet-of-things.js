@@ -16,7 +16,7 @@ const AzureIoT = () => {
            <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/azure-iot-internet-of-things/"
+          href="https://www.dynamicssquare.com/products/azure-iot-internet-of-things/"
         />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="article" />

@@ -8,7 +8,7 @@ const Partner = () => {
           <meta name="description" content="Learn about the collaborative work we do with our partners. We create limitless impact in collaboration with industry leaders and innovators. " />
           <link
             rel="canonical"
-            href="https://www.dynamicssquare.ca/partner/"
+            href="https://www.dynamicssquare.com/partner/"
           />
         </Head>
         <section className="Solution-banner hero partener-di">

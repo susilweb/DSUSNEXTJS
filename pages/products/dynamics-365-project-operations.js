@@ -15,7 +15,7 @@ const ProjectOperations = () => {
            <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/dynamics-365-project-operations/"
+          href="https://www.dynamicssquare.com/products/dynamics-365-project-operations/"
         />
       </Head>
       <ModalVideo

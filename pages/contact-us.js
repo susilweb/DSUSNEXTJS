@@ -12,7 +12,7 @@ const ContactUs = () => {
           />
           <link
             rel="canonical"
-            href="https://www.dynamicssquare.ca/contact-us/"
+            href="https://www.dynamicssquare.com/contact-us/"
           />
         </Head>
         <main>

@@ -11,7 +11,7 @@ const MicrosoftAzure = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/microsoft-azure/"
+          href="https://www.dynamicssquare.com/products/microsoft-azure/"
         />
                 <meta name="robots" content="noindex,nofollow" />
       </Head>

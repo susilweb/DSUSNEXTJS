@@ -15,7 +15,7 @@ const SupplyChainManagement = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/dynamics-365-supply-chain-management/"
+          href="https://www.dynamicssquare.com/products/dynamics-365-supply-chain-management/"
         />
   
       </Head>

@@ -15,7 +15,7 @@ const Sales = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/microsoft-dynamics-365-sales/"
+          href="https://www.dynamicssquare.com/products/microsoft-dynamics-365-sales/"
         />
         
       </Head>

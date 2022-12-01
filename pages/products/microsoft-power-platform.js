@@ -11,7 +11,7 @@ const PowerPlatform = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/microsoft-power-platform/"
+          href="https://www.dynamicssquare.com/products/microsoft-power-platform/"
         />
        <meta name="robots" content="noindex,nofollow" />
       </Head>

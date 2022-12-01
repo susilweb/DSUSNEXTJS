@@ -15,7 +15,7 @@ const PowerApps = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/microsoft-power-apps/"
+          href="https://www.dynamicssquare.com/products/microsoft-power-apps/"
         />
      <meta name="robots" content="noindex,nofollow" />
       </Head>

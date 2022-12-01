@@ -16,7 +16,7 @@ const PowerVirtualAgents = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/microsoft-power-virtual-agents/"
+          href="https://www.dynamicssquare.com/products/microsoft-power-virtual-agents/"
         />
       <meta name="robots" content="noindex,nofollow" />
        

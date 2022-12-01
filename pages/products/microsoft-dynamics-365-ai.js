@@ -11,7 +11,7 @@ const MicrosoftDynamics365Ai = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/microsoft-dynamics-365-ai/"
+          href="https://www.dynamicssquare.com/products/microsoft-dynamics-365-ai/"
         />
         <meta name="robots" content="noindex,nofollow" />
         

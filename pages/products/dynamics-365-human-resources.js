@@ -14,7 +14,7 @@ const HumanResource = () => {
           <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/dynamics-365-human-resources/"
+          href="https://www.dynamicssquare.com/products/dynamics-365-human-resources/"
         />
         
       </Head>

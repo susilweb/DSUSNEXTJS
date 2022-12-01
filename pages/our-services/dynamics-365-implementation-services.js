@@ -20,7 +20,7 @@ const ImplementationServices = () => {
            <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/our-services/dynamics-365-implementation-services/"
+          href="https://www.dynamicssquare.com/our-services/dynamics-365-implementation-services/"
         />
         </Head>
       <section className="Solution-banner hero-1 hero">

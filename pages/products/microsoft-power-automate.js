@@ -14,7 +14,7 @@ const PowerAutomate = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/microsoft-power-automate/"
+          href="https://www.dynamicssquare.com/products/microsoft-power-automate/"
         />
         <meta name="robots" content="noindex,nofollow" />
         

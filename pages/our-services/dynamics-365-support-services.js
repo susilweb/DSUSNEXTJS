@@ -14,7 +14,7 @@ const SupportServices = () => {
            <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/our-services/dynamics-365-support-services/"
+          href="https://www.dynamicssquare.com/our-services/dynamics-365-support-services/"
         />
       </Head>
       <section className="Solution-banner hero-1 hero">

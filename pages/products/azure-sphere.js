@@ -11,7 +11,7 @@ const AzureSphere = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/azure-sphere/"
+          href="https://www.dynamicssquare.com/products/azure-sphere/"
         />
       <meta name="robots" content="noindex,nofollow" />
         

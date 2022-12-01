@@ -29,7 +29,7 @@ const AboutUs = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/about-us/"
+          href="https://www.dynamicssquare.com/about-us/"
         />
         <meta property="og:locale" content="en_US" />
        

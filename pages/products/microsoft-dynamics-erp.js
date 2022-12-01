@@ -11,7 +11,7 @@ const Erp = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/products/microsoft-dynamics-erp/"
+          href="https://www.dynamicssquare.com/products/microsoft-dynamics-erp/"
         /> 
         <meta name="robots" content="noindex,nofollow" />
       </Head>
