@@ -19,7 +19,7 @@ const Form = () => {
       setTimeout(function() {
         e.target.reset();
         router.push("/thank-you/");
-      }, 1000);
+      }, 500);
       
   };
 

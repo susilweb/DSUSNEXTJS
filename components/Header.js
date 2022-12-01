@@ -26,11 +26,9 @@ return(
           <nav id="navbar" className="navbar">
             <div className="left-logo">
               <a href="/" className="logo">
-                <Image
+                <img
                   src="/img/dynamicssqure-logo.svg"
                   alt="Dynamics Square logo"
-                  width={550}
-                  height={90}
                 />
               </a>
             </div>

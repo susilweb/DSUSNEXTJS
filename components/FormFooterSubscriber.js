@@ -23,7 +23,7 @@ const FormFooterSubscriber = () => {
       setTimeout(function() {
         e.target.reset();
         router.push("/subscriber-thank-you/");
-      }, 1000);
+      }, 500);
       
   };
 

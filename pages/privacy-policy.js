@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Link from 'next/link';
 const PrivacyPolicy = () => {
   return (
     <>
@@ -26,7 +27,7 @@ const PrivacyPolicy = () => {
                 <div className="col-md-12 custom00004">
                     <h2>Dynamics Square Privacy Policy</h2>
                   <p>Our cookie policy page will explain all about why and how cookies are used. What is the actual need for cookies and what sort of information does it contain? How to prevent cookies from being stored and what happens when you allow or disallow cookies. So, we are going to uncover all such things through our cookies page.</p>
-                  <p>This Privacy Policy belongs to the Terms of Service of <a href="/">Dynamics Square</a> and should be followed as a part of it. Your Privacy is our priority and responsibility what we always remain committed to. This Privacy Policy comprises how we protect your data and what sort of measuring tools we adopt just to ensure confidentiality and integrity for all the personal or non-personal data that you entrust to us. This Privacy Policy consists of how we collect, use, and distribute your data that imbibes your identity or personal information as well as how we manage the security and protection part of your confidential data.</p>
+                  <p>This Privacy Policy belongs to the Terms of Service of <Link href="/"><a>Dynamics Square</a></Link> and should be followed as a part of it. Your Privacy is our priority and responsibility what we always remain committed to. This Privacy Policy comprises how we protect your data and what sort of measuring tools we adopt just to ensure confidentiality and integrity for all the personal or non-personal data that you entrust to us. This Privacy Policy consists of how we collect, use, and distribute your data that imbibes your identity or personal information as well as how we manage the security and protection part of your confidential data.</p>
                   <p><strong>The Privacy Act of 1974, as amended to present (5 U.S.C. 552a)</strong>, protects records about individuals retrieved by personal identifiers such as a name, social security number, or other identifying number or symbol. Adhering to the USA's privacy policy act, we are highly committed to protecting your data privacy. Thereby, we remain careful and transparent about what certain data we collect, process, and distribute.</p>
                     <h3>Information That We Collect & Process</h3>
                     <p>The only purpose of collecting data from you is just to serve an improved experience to you every time when you visit our website. Initially, we collect information including your name, email, contact number, and your postal address. All such information we receive from you when you create your employer account with us, when you register for any event/webinar we organize, you communicate through contact, query, feedback form, etc., or subscribe to our newsletters.</p>
