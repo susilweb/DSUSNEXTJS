@@ -14,7 +14,6 @@ const AzureIotCentralWebinar = () => {
           name="description"
           content="Need Microsoft Dynamics 365 CRM and ERP services? Scale-up your business productivity by implementing Dynamics 365 apps from D365 partner Dynamics Square."
         />
-      <meta name="robots" content="noindex,nofollow" />
       </Head>
       <section className="hero-1 hero webinar-banner-top">
         <div className="container">
