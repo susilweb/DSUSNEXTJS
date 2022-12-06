@@ -12,7 +12,6 @@ const Commerce = () => {
           name="description"
           content="Drive agile and integrated experience in your eCommerce and retail store by Microsoft Dynamics 365 Commerce; a unified, intelligent platform."
         />
-           <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
           href="https://www.dynamicssquare.com/products/microsoft-dynamics-365-commerce/"

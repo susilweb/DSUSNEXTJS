@@ -13,7 +13,6 @@ export default function SubscriberThank() {
         rel="canonical"
         href="https://www.dynamicssquare.com/thank-you/"
       />
-      <meta property="og:locale" content="en_GB" />
     </Head>
     <section className="Solution-banner hero-1 custom-pd-4">
       <div className="container">

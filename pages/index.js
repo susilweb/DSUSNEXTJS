@@ -43,17 +43,12 @@ export default function Home() {
           name="description"
           content="Dynamics Square is USA's leading Gold Microsoft Dynamics Partner helping businesses to leverage Dynamics 365 support, implementation, training and consulting services."
         />
-        <meta
-          name="robots"
-          content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-        />
         <link rel="canonical" href="https://www.dynamicssquare.com/" />
         <meta property="og:title" content="Dynamics Square is" />
         <meta name="og:description" content="Dynamics Square is" />
         <meta property="og:url" content="https://www.dynamicssquare.com/img/about.jpg" />
         <meta property="og:image" content="https://www.dynamicssquare.com/img/about.jpg" />
         <meta name="twitter:card" content="summary_large_image" />
-
         <meta name="twitter:title" content="Microsoft Dynamics 365 Partner Canada| Dynamics Square" />
         <meta name="twitter:description" content="Dynamics Square is CA&#039;s leading Gold Microsoft Dynamics 365 Partner helping businesses to achieve desired results with Dynamics 365 apps and services." />
         <meta name="twitter:image" content="https://www.dynamicssquare.com/img/about.jpg" />

@@ -20,7 +20,6 @@ const Startup = () => {
           name="description"
           content="Dynamics 365 For Startups is the perfect cloud solution for business of any size. Find out all the features and how you can use it to grow a successful small business."
         />
-        <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
           href="https://www.dynamicssquare.ca/industries/startups/"

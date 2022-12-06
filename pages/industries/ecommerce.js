@@ -18,7 +18,6 @@ const Ecommerce = () => {
           name="description"
           content="Dynamics 365 for eCommerce is a powerful platform that helps businesses centralize their data, personalize their customers&#039; and partners&#039; experience, and maximize their growth potentials."
         />
-        <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
           href="https://www.dynamicssquare.ca/industries/ecommerce/"

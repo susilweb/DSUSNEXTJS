@@ -18,7 +18,6 @@ const Startup = () => {
           name="description"
           content="Enable quick adaption, simplify processes, and drive continuity throughout your organization with Dynamics 365 for Food and Beverages Industry Solutions."
         />
-        <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
           href="https://www.dynamicssquare.ca/industries/food-and-beverages/"

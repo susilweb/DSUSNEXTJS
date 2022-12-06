@@ -11,7 +11,6 @@ const SupportServices = () => {
           name="description"
           content="Looking for Microsoft Dynamics 365 Support &amp; Service partner? Get Dynamics 365 CRM &amp; ERP support service plans at Dynamics Square. Do call us Today!"
         />
-           <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
           href="https://www.dynamicssquare.com/our-services/dynamics-365-support-services/"

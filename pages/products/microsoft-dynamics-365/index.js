@@ -11,7 +11,6 @@ const D360 = () => {
           name="description"
           content="At Dynamics Square, we simplify your business processes by implementing Microsoft Dynamics 365 Applications. Get exclusive Dynamics 365 Implementation plans."
         />
-           <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
           href="https://www.dynamicssquare.com/products/microsoft-dynamics-365/"

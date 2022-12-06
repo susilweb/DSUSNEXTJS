@@ -22,7 +22,6 @@ const Startup = () => {
           rel="canonical"
           href="https://www.dynamicssquare.cam/industries/professional-services/"
         />
-    <meta name="robots" content="noindex,nofollow" />
       </Head>
       {/* <ModalVideo
         channel="youtube"

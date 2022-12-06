@@ -9,7 +9,6 @@ const IndustriesList = () => {
           name="description"
           content="Power the growth of your industry by implementing Dynamics 365 Business applications. Our Dynamics 365 experts have the expertise to assist you..."
         />
-        <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
           href="https://www.dynamicssquare.ca/industries/"

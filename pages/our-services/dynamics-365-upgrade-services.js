@@ -11,7 +11,6 @@ const UpgradeServices = () => {
           name="description"
           content="Keep your business up to date with our Dynamics 365 Upgrade services. Improve your system with new functionalities and transform overall business flow."
         />
-           <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
           href="https://www.dynamicssquare.com/our-services/dynamics-365-upgrade-services/"

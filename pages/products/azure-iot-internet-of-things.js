@@ -13,7 +13,7 @@ const AzureIoT = () => {
           name="description"
           content="Build and Deploy Highly Secured Azure IoT Solutions to Drive Growth, Sustainability, and Scalability. Get Azure IoT solutions today with Dynamics Square."
         />
-           <meta name="robots" content="noindex,nofollow" />
+
         <link
           rel="canonical"
           href="https://www.dynamicssquare.com/products/azure-iot-internet-of-things/"

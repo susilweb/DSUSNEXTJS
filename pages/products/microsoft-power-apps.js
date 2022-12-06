@@ -17,7 +17,6 @@ const PowerApps = () => {
           rel="canonical"
           href="https://www.dynamicssquare.com/products/microsoft-power-apps/"
         />
-     <meta name="robots" content="noindex,nofollow" />
       </Head>
       <ModalVideo
         channel="youtube"

@@ -7,7 +7,6 @@ const SystemHealth = () => {
       <Head>
       <title>Dynamics 365 System Health Check - AT NO COST</title>
 <meta name="description" content="Our Microsoft Dynamics 365 System Health Check will help you to identify your current system performance and upgrading needs. Avail it at no cost."/>
-<meta name="robots" content="noindex,nofollow" />
 <link rel="canonical" href="https://www.dynamicssquare.com/free-dynamics-365-system-health-check/" />
       </Head>
       <section className="Solution-banner hero-1 hero">

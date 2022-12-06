@@ -17,7 +17,6 @@ const ImplementationServices = () => {
           name="description"
           content="Optimize your operations, bring transparency in your process flow, drive a resilient approach, enable a 360-degree view into your Supply Chain practices with..."
         />
-           <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
           href="https://www.dynamicssquare.com/our-services/dynamics-365-implementation-services/"

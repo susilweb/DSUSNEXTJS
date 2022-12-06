@@ -12,7 +12,6 @@ const ProjectOperations = () => {
           name="description"
           content="Automate &amp; Simplify Your Project Operations with Agility and Transparency with Dynamics 365 Project Operations."
         />
-           <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
           href="https://www.dynamicssquare.com/products/dynamics-365-project-operations/"

@@ -11,7 +11,6 @@ const Marketing = () => {
           name="description"
           content="Microsoft Dynamics 365 Marketing is a marketing automation application that allows you to transform leads into fruitful relationships in a more efficient and profitable way."
         />
-           <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
           href="https://www.dynamicssquare.com/products/microsoft-dynamics-365-marketing/"

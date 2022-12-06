@@ -7,7 +7,6 @@ const Inedex = () => {
         <title>Dynamics 365 Services &amp; Consulting | Dynamics Square</title>
         <meta name="description"
           content="We deliver comprehensive Dynamics 365 services including consulting, training, upgrade and implementation of Microsoft Business Applications to grow your business fast." />
-          <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
           href="https://www.dynamicssquare.ca/our-services/"

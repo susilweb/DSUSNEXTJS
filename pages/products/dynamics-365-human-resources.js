@@ -11,7 +11,6 @@ const HumanResource = () => {
         <meta
           name="description"
           content="Dynamics 365 Human Resources: helps to hire the right talent, onboard the right resources, and retain the dedicated people in your organization to impact your organizational growth and scalability." />
-          <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
           href="https://www.dynamicssquare.com/products/dynamics-365-human-resources/"

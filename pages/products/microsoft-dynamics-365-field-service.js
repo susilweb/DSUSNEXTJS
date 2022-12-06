@@ -12,7 +12,6 @@ const FieldService = () => {
           name="description"
           content="Streamline Your Field Operations and Optimize Your Resources By Leveraging Our Unique Microsoft Dynamics 365 Field service Plans."
         />
-           <meta name="robots" content="noindex,nofollow" />
         <link
           rel="canonical"
           href="https://www.dynamicssquare.com/products/microsoft-dynamics-365-field-service/"

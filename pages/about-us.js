@@ -31,8 +31,6 @@ const AboutUs = () => {
           rel="canonical"
           href="https://www.dynamicssquare.com/about-us/"
         />
-        <meta property="og:locale" content="en_US" />
-       
       </Head>
       <main>
         <section className="Solution-banner hero-1 hero about-banner">
