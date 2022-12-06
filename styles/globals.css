@@ -5601,6 +5601,13 @@ section {
   font-weight: 700;
   margin-bottom: 30px;
 }
+.content-icons-modil-1 h2 {
+  font-weight: 700;
+  margin: 0;
+  color: var(--color-blue);
+  text-transform: capitalize;
+  padding-bottom: 40px;
+}
 .custom00004 h3,
 .custom00004 h4 {
   margin-top: 30px;
@@ -6939,7 +6946,7 @@ color:var(--color-red)
   .side-heding-new h2,
   .side-heding-new h3,
   .title-header h3,
-  .wy-sultion-left-head h2 {
+  .wy-sultion-left-head h2,.content-icons-modil-1 h2 {
     font-size: 36px;
   }
   .commen-rit-info h3 {
@@ -7005,7 +7012,7 @@ color:var(--color-red)
   .side-heding-new h2,
   .side-heding-new h3,
   .title-header h3,
-  .wy-sultion-left-head h2 {
+  .wy-sultion-left-head h2,.content-icons-modil-1 h2 {
     font-size: 32px;
   }
   .commen-rit-info h3 {
@@ -7079,7 +7086,7 @@ color:var(--color-red)
   .side-heding-new h2,
   .side-heding-new h3,
   .title-header h3,
-  .wy-sultion-left-head h2 {
+  .wy-sultion-left-head h2,.content-icons-modil-1 h2 {
     font-size: 30px;
   }
   .commen-rit-info h3 {
