@@ -1,6 +1,8 @@
 import React, { useRef, useEffect, useState } from "react";
-import Link from "next/link";
-import Head from "next/head";
+import Head from 'next/head';
+import Image from 'next/image';
+import Script from 'next/script';
+import Link from 'next/link';
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
@@ -56,9 +58,11 @@ const BusinessCentral = () => {
               </div>
             </div>
             <div className="col-lg-6 align-self-center">
-              <img
+              <Image
                 src="/img/Dynamics-365-Business-Central.png"
                 alt="Dynamics 365 Business Central"
+                width={1024}
+                height={597}
               />
             </div>
           </div>
@@ -2596,11 +2600,10 @@ const BusinessCentral = () => {
                 </h3>
               </div>
               <div className="m-o-t m-o-t-b">
-                <Link
-                  href="/dynamics-365-business-central-features/"
-                  className="btn-get-started scrollto"
-                >
-                  <span>Read More Features </span>
+                <Link href="/dynamics-365-business-central-features/">
+                  <a className="btn-get-started scrollto">
+                    <span>Read More Features </span>
+                  </a>
                 </Link>
               </div>
             </div>
@@ -2742,18 +2745,22 @@ const BusinessCentral = () => {
             <div className="col-lg-6 align-self-center">
               <div className="busine_service_bottom-left">
                 <div className="busine_service_bottom-right">
-                  <img
+                  <Image
                     src="/img/bisin_leftimg.jpg"
                     className="fix-im"
                     alt="Business Central Services"
+                    width={514}
+                    height={531}
                   />
                   <div className="video-ytube video-ytubes">
                     <div className="popup-btn popup-btns">
                       <Link href="#javascript:void(0)">
                         <a onClick={() => setOpen(true)}>
-                          <img
+                          <Image
                             src="/img/Video-Business Central.png"
                             alt="Video Business Central"
+                            width={390}
+                            height={259}
                           />
                           <span className="cente-icns">
                             <img src="/img/play_icons.svg" alt="play_icons" />
@@ -2946,18 +2953,16 @@ const BusinessCentral = () => {
 
             <div className="col-lg-12 col-md-12">
               <div className="price-btn d-flex justify-content-center">
-                <Link
-               
-                  href="#exampleModal"
-                 
-                >
-                <a    data-bs-toggle="modal"  className="btn-get-red">  <span>Get Started Now</span></a>
+                <Link href="#exampleModal">
+                  <a data-bs-toggle="modal" className="btn-get-red">
+                    {" "}
+                    <span>Get Started Now</span>
+                  </a>
                 </Link>
-                <Link
-                  href="/pdf/Dynamics-365-Licensing-Guide-June-2022.pdf"
-                 
-                >
-                  <a  className="btn-get-whit"><span>See Licensing Guide</span></a>
+                <Link href="/pdf/Dynamics-365-Licensing-Guide-June-2022.pdf">
+                  <a className="btn-get-whit">
+                    <span>See Licensing Guide</span>
+                  </a>
                 </Link>
               </div>
             </div>
@@ -3329,7 +3334,6 @@ const BusinessCentral = () => {
                   <li>
                     <Link href="/pdf/Four-Technology-Trends-Helping-Businesses-Thrive-in-a-Digital-World.pdf">
                       <a>
-                        {" "}
                         <i className="bi bi-file-earmark-pdf"></i> Technology
                         Trends Helping Businesses Thrive in a Digital World
                       </a>
@@ -3338,7 +3342,6 @@ const BusinessCentral = () => {
                   <li>
                     <Link href="/pdf/Reinvent-productivity-with-Dynamics-365-and-Microsoft-365.pdf">
                       <a>
-                        {" "}
                         <i className="bi bi-file-earmark-pdf"></i> Reinvent
                         productivity with Dynamics 365 and Microsoft 365
                       </a>
@@ -3347,7 +3350,6 @@ const BusinessCentral = () => {
                   <li>
                     <Link href="/pdf/The-Total-Economic-Impact-of-Microsoft-Dynamics-365-Business-Central.pdf">
                       <a>
-                        {" "}
                         <i className="bi bi-file-earmark-pdf"></i> The Total
                         Economic Impact of Dynamics 365 Business Central
                       </a>
@@ -3363,14 +3365,13 @@ const BusinessCentral = () => {
                   <li>
                     <Link href="/why-choose-microsoft-dynamics-365-business-central/">
                       <a>
-                        {" "}
                         <i className="bi bi-box-arrow-up-right"></i> Why Choose
                         Microsoft Dynamics 365 Business Central?
                       </a>
                     </Link>
                   </li>
                   <li>
-                    <Link href="/advantages-capabilities/">
+                    <Link href="/products/dynamics-365-business-central/advantages-capabilities/">
                       <a>
                         <i className="bi bi-box-arrow-up-right"></i> Advantages
                         and Capabilities
@@ -3380,7 +3381,6 @@ const BusinessCentral = () => {
                   <li>
                     <Link href="https://www.dynamicssquare.com/upgrade-dynamics-nav-to-dynamics-365-business-central/">
                       <a>
-                        {" "}
                         <i className="bi bi-box-arrow-up-right"></i> Why to
                         Upgrade Dynamics NAV to Business Central
                       </a>

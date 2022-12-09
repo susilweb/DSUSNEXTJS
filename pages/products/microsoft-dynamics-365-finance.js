@@ -1,7 +1,9 @@
 import React, { useState } from "react";
-import Head from "next/head";
+import Head from 'next/head';
+import Image from 'next/image';
+import Script from 'next/script';
+import Link from 'next/link';
 import ModalVideo from "react-modal-video";
-import Link from "next/link";
 import Blog from "../../components/Blog";
 const Finance = () => {
   const [isOpen, setOpen] = useState(false);
@@ -55,9 +57,11 @@ const Finance = () => {
               </div>
             </div>
             <div className="col-lg-6 align-self-center">
-              <img
+              <Image
                 src="/img/Dynamics-365-Finance-Banner.svg"
                 alt="Microsoft Dynamics 365 Finance"
+                width={868}
+                height={487}
               />
             </div>
           </div>
@@ -340,10 +344,12 @@ const Finance = () => {
             <div className="col-lg-6 align-self-center">
               <div className="busine_service_bottom-left">
                 <div className="busine_service_bottom-right">
-                  <img
+                  <Image
                     src="/img/finace-video-banner.png"
                     className="fix-im"
                     alt="Dynamics 365 Finance Service"
+                    width={570}
+                    height={531}
                   />
                   {/* <img
                     src="/img/ico6.svg"
@@ -354,9 +360,11 @@ const Finance = () => {
                     <div className="popup-btn popup-btns">
                       <Link href="#javascript:void(0)">
                         <a onClick={() => setOpen(true)}>
-                          <img
+                          <Image
                             src="/img/video-Finance.png"
                             alt="video-Finance"
+                            width={390}
+                            height={259}
                           />
                           <span className="cente-icns">
                             <img src="/img/play_icons.svg" alt="play_icons" />
