@@ -21,7 +21,10 @@ import Header from '../components/Header';
 function MyApp({ Component, pageProps }) {
   const router = useRouter();
   if(router.asPath =='/contact-us/' ||
-      router.asPath =='/subscriber-thank-you/'
+      router.asPath =='/subscriber-thank-you/' ||
+      router.asPath =='/email-dynamics365-crm/' ||
+      router.asPath =='/emailer-power-bi/' ||
+      router.asPath =='/not-for-profit-fundrasing-engagenment/'
 
   )  {
     return (

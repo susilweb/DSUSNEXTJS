@@ -810,7 +810,7 @@ return(
                     </li>
                   </ul>
                 </li>
-                {/* <li className="dropdown">
+                <li className="dropdown">
                   <a href="#">
                     <span>Resources</span>{" "}
                     <i className="bi bi-chevron-down"></i>
@@ -836,7 +836,7 @@ return(
                       <a href="/webinars/">Webinars</a>
                     </li> 
                   </ul>
-                </li> */}
+                </li>
                 <li>
                   <a className="nav-link" href="/contact-us/">
                     Contact Us
@@ -1262,7 +1262,7 @@ return(
                         </div>
                       </div>
                     </div>
-                    {/* <div className="accordion-item">
+                    <div className="accordion-item">
                       <div className="accordion-header" id="list-5">
                         <button
                           className="accordion-button collapsed"
@@ -1311,7 +1311,7 @@ return(
                           </div>
                         </div>
                       </div>
-                    </div> */}
+                    </div>
                     <div className="accordion-item">
                       <a className="nav-link" href="/contact-us/">
                         Contact Us
