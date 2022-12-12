@@ -24,8 +24,10 @@ function MyApp({ Component, pageProps }) {
       router.asPath =='/subscriber-thank-you/' ||
       router.asPath =='/email-dynamics365-crm/' ||
       router.asPath =='/emailer-power-bi/' ||
-      router.asPath =='/not-for-profit-fundrasing-engagenment/'
-
+      router.asPath =='/not-for-profit-fundrasing-engagenment/' ||
+      router.asPath =='/email-ax-to-finance/' ||
+      router.asPath =='/email-gp-to-bc/' ||
+      router.asPath =='/email-wms/' 
   )  {
     return (
       <>

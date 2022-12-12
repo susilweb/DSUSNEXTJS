@@ -1,10 +1,13 @@
-import Head from 'next/head'
+import Head from 'next/head';
+import Image from 'next/image';
+import Script from 'next/script';
+import Link from 'next/link';
 
 const Erp = () => {
   return (
     <>
       <Head>
-        <title>Microsoft Dynamics ERP Solutions | Dynamics Square</title>
+      <title>Microsoft Dynamics ERP Solutions | Dynamics Square</title>
         <meta
           name="description"
           content="Accelerate Your Business Efficiency with Microsoft Dynamics ERP Solutions. Streamline your process and automate your data with Microsoft Dynamics ERP."
@@ -12,7 +15,7 @@ const Erp = () => {
         <link
           rel="canonical"
           href="https://www.dynamicssquare.com/products/microsoft-dynamics-erp/"
-        /> 
+        />
       </Head>
       <section className="Solution-banner hero-1 hero">
         <div className="container">
@@ -26,18 +29,18 @@ const Erp = () => {
               </p>
               <div>
                 <div className="text-center text-lg-start">
-                  <a
+                  <Link  href="#exampleModal"><a
                     data-bs-toggle="modal"
-                    href="#exampleModal"
+                   
                     className="btn-get-started scrollto"
                   >
-                    <span>Schedule a Demo</span>
-                  </a>
+                    <span>Schedule a Demo</span></a>
+                  </Link>
                 </div>
               </div>
             </div>
             <div className="col-lg-6 align-self-center">
-              <img src="/img/ERP-banner.png" alt="ERP-banner" />
+              <Image src="/img/ERP-banner.png" alt="ERP-banner" width={618} height={417}/>
             </div>
           </div>
         </div>
@@ -56,7 +59,7 @@ const Erp = () => {
                  </div>
                  <div className="col-lg-10 col-md-9 section-header">
                  <p><b>Connect your workforce and processes across your workspace and gain real-time efficiency to drive process optimization and plan smoother production flow with improved scalability and growth.</b></p>
-                          <p>With Microsoft Dynamics ERP, take advantage of actionable reports and key analytics and enable your workforce to stay independent when it comes to making decisions to support the growth hacking process flow across your organization. Being an authorized Microsoft ERP implementation partner, we can help you to develop highly specific ERP solutions to impact and level up your regular processes as well as support your growing practices. Since Microsoft ERP comes with a vast scope of configuration to be customized supporting your specific practices and to work parallel leveraging your existing system too while facilitating your user to understand and adapt the newly configured system faster. </p>
+                          <p>With <Link href="/products/erp/">Microsoft Dynamics ERP</Link>, take advantage of actionable reports and key analytics and enable your workforce to stay independent when it comes to making decisions to support the growth hacking process flow across your organization. Being an authorized Microsoft ERP implementation partner, we can help you to develop highly specific ERP solutions to impact and level up your regular processes as well as support your growing practices. Since Microsoft ERP comes with a vast scope of configuration to be customized supporting your specific practices and to work parallel leveraging your existing system too while facilitating your user to understand and adapt the newly configured system faster. </p>
                  </div>
             </div>
 
@@ -282,13 +285,13 @@ const Erp = () => {
                   Microsoft Dynamics ERP
                 </p>
                 <div className="text-center m-o-t new-btn-nn">
-                  <a
+                  <Link  href="#exampleModal"><a
                     data-bs-toggle="modal"
-                    href="#exampleModal"
+                   
                     className="btn-get-started scrollto"
                   >
-                    <span>Schedule demo</span>
-                  </a>
+                    <span>Schedule demo</span></a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -301,24 +304,19 @@ const Erp = () => {
           <div className="row pad9x rever-1">
             <div className="col-lg-7 align-self-center">
               <div className="commen-lef-pic">
-                <img src="/img/Dynamics-NAV.png" alt="Dynamics-NAV" />
+                <Image src="/img/Dynamics-NAV.png" alt="Dynamics-NAV" width={1024} height={576}/>
               </div>
             </div>
             <div className="col-lg-5 align-self-center">
               <div className="commen-rit-info">
                 <h2>Dynamics NAV</h2>
                 <p>
-                  Designed for small to mid-sized organizations embedded with
-                  proven domain-specific functionality and seamless navigation
-                  to effectively drive finance, supply chain, manufacturing, and
-                  operations. Microsoft Dynamics NAV (Navision) enables brands
-                  to make early and productive decisions based on recent
-                  AI-enabled historical data, events, or business flow.
+                Microsoft Dynamics NAV is a former version of Business Central that can be implemented whether on-premises or on-cloud depending on your data-driven requirement. With NAV, enterprises can control and manage their finance, supply chain, manufacturing, and operations seamlessly and effortlessly. They can keep their eyes in real-time when configured on the cloud and can support their decision-making.
                 </p>
                 <div className="cltt-actt">
-                  <a href="/products/microsoft-dynamics-nav/">
+                  <Link href="/products/microsoft-dynamics-nav/">
                     Learn More
-                  </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -328,25 +326,17 @@ const Erp = () => {
             <div className="col-lg-5 align-self-center">
               <div className="commen-rit-info">
                 <h2>Dynamics AX</h2>
-                <p>
-                  Optimize your finance & operations with Microsoft Dynamics AX
-                  (Axapta) to bring transparency across your financial flow. It
-                  helps enterprises to globally manage, automate, and roll out
-                  processes whether on-premises or on-cloud embedded with
-                  AI-based data-driven insights that help to accelerate
-                  processes and support to make informed and productive
-                  decisions.
-                </p>
+                <p>Microsoft Dynamics AX is designed to automate, streamline, and optimize operations with improved visibility and transparency into your financial processes. When you implement Dynamics AX, it takes responsibility to globally manage your data, operations, and people involved in your financial practices. AI intelligence helps to prepare reports and key analytics to make instant productive decisions.</p>
                 <div className="cltt-actt">
-                  <a href="/products/microsoft-dynamics-ax/">
+                  <Link href="/products/microsoft-dynamics-ax/">
                     Learn More
-                  </a>
+                  </Link>
                 </div>
               </div>
             </div>
             <div className="col-lg-7 align-self-center">
               <div className="commen-lef-pic">
-                <img src="/img/ax.png" alt="ax" />
+                <Image src="/img/ax.png" alt="ax" width={1024} height={576}/>
               </div>
             </div>
           </div>
@@ -354,26 +344,17 @@ const Erp = () => {
           <div className="row pad9x rever-1">
             <div className="col-lg-7 align-self-center">
               <div className="commen-lef-pic">
-                <img src="/img/gp.png" alt="gp" />
+                <Image src="/img/gp.png" alt="gp" width={1024} height={576}/>
               </div>
             </div>
             <div className="col-lg-5 align-self-center">
               <div className="commen-rit-info">
                 <h2>Dynamics GP</h2>
-                <p>
-                  Microsoft Dynamics GP (Great Plains) is an efficient
-                  accounting and ERP package wrapped with artificial
-                  intelligence techniques to gain depth financial insights
-                  leveraging the recent historical data combined with the
-                  current financial flow and involved strategies. Designed for
-                  small to mid-sized organizations, Dynamics GP helps
-                  enterprises to streamline their finance and accounting to
-                  impact overall business growth.
-                </p>
+                <p>To manage your entire accounting and ERP part, Microsoft Dynamics GP can be leveraged. Its AI data capabilities can help you to acquire improved financial visibility to seamlessly manage the process flow and streamline the enterprise data. With Dynamics GP, enterprises can manage their day-to-day practices, monitor & control the flow, and drive effective strategies to maximize the returns.</p>
                 <div className="cltt-actt">
-                  <a href="/products/microsoft-dynamics-gp/">
+                  <Link href="/products/microsoft-dynamics-gp/">
                     Learn More
-                  </a>
+                  </Link>
                 </div>
               </div>
             </div>

@@ -59,9 +59,10 @@ const Ecommerce = () => {
                 </div>
               </div>
               <div className="col-lg-6 align-self-center">
-                <img
+                <Image
                   src="/img/ecommerce banner.png"
                   alt="Microsoft Dynamics 365 For Ecommerce"
+                  width={723} height={473}
                 />
               </div>
             </div>
@@ -394,22 +395,23 @@ const Ecommerce = () => {
               <div className="col-lg-6 align-self-center">
                 <div className="busine_service_bottom-left">
                   <div className="busine_service_bottom-right">
-                    <img
+                    <Image
                       src="/img/Ecommerce side.png"
                       className="fix-im"
                       alt="Ecommerce side"
+                      width={553} height={532}
                     />
 
                     <div className="video-ytube video-ytubes">
                       <div className="popup-btn popup-btns">
                         <Link href="#javascript:void(0)">
                           <a
-                            data-bs-toggle="modal"
                             onClick={() => setOpen(true)}
                           >
-                            <img
+                            <Image
                               src="/img/video-Ecommerce.png"
                               alt="video-Ecommerce"
+                              width={390} height={259}
                             />
                             <span className="cente-icns">
                               <img src="/img/play_icons.svg" alt="play_icons" />
@@ -606,7 +608,7 @@ const Ecommerce = () => {
                         <div className="swiper-slide">
                           <div className="swiper-slide">
                             <div className="industries-list-more">
-                              <Link href="/industries/startup/">
+                              <Link href="/industries/startups/">
                                 <a>
                                   <div className="img-wrp">
                                     <img

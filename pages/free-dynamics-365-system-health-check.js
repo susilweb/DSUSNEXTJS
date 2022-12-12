@@ -1,5 +1,7 @@
 
 import Head from 'next/head'
+import Link from 'next/link';
+import Image from 'next/image';
 import Form from "../components/Form";
 const SystemHealth = () => {
   return (
@@ -22,20 +24,21 @@ const SystemHealth = () => {
               </p>
               <div>
                 <div className="text-center text-lg-start">
-                  <a
+                  <Link   href="#exampleModal"><a
                     data-bs-toggle="modal"
-                    href="#exampleModal"
+                  
                     className="btn-get-started scrollto"
                   >
                     <span>Schedule Free Health Check</span>
-                  </a>
+                  </a></Link>
                 </div>
               </div>
             </div>
             <div className="col-lg-6 align-self-center">
-              <img
+              <Image
                 src="/img/why-Free-Health-Check-1024x-576.png"
                 alt="why-Free-Health-Check-1024x-576"
+                width={1024} height={576}
               />
             </div>
           </div>
@@ -49,7 +52,7 @@ const SystemHealth = () => {
             <h2>
             Strategic Need of  Dynamics ERP/CRM Health Check</h2>
             <p>
-            Availing of advanced <a href="/products/erp/">ERP/CRM implementation</a> or functional configuration may not always help enterprises to support their ongoing workflow. Defining your customized business processes and current operational flow, you require your domain-specific solution to strategically operate, drive, and grow high.<br /><br />At Dynamics Square, we provide free system health check wherein we understand your actual process flow and reveal not just your current system upgrading needs even supporting your continuously changing operational flow. Here is what we serve in terms of System Health Check.</p>
+            Availing of advanced <Link href="/products/erp/">ERP/CRM implementation</Link> or functional configuration may not always help enterprises to support their ongoing workflow. Defining your customized business processes and current operational flow, you require your domain-specific solution to strategically operate, drive, and grow high.<br /><br />At Dynamics Square, we provide free system health check wherein we understand your actual process flow and reveal not just your current system upgrading needs even supporting your continuously changing operational flow. Here is what we serve in terms of System Health Check.</p>
           </header>
             </div>
           </div>
@@ -111,9 +114,10 @@ const SystemHealth = () => {
           <div className="row p-433">
             <div className="col-lg-5 align-self-center">
               <div className="left-pic-nn">
-                <img
+                <Image
                   src="/img/feature-review.png"
                   alt="feature-review"
+                  width={1024} height={576}
                 />
               </div>
             </div>
@@ -147,13 +151,13 @@ const SystemHealth = () => {
                   with Dynamics 365 System Health Check.
                 </p>
                 <div className="text-center m-o-t new-btn-nn">
-                  <a
+                  <Link   href="#exampleModal"><a
                     data-bs-toggle="modal"
-                    href="#exampleModal"
+                  
                     className="btn-get-started scrollto"
                   >
-                    <span>Book a Free Health Check</span>
-                  </a>
+                    <span>Book a Free Health Check</span></a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -166,7 +170,7 @@ const SystemHealth = () => {
           <div className="row pad9x rever-1">
             <div className="col-lg-5 align-self-center">
               <div className="commen-lef-pic">
-                <img src="/img/code-auditing.png" alt="code-auditing" />
+                <Image src="/img/code-auditing.png" alt="code-auditing" width={1024} height={576} />
               </div>
             </div>
             <div className="col-lg-7 align-self-center">
@@ -222,9 +226,10 @@ const SystemHealth = () => {
             </div>
             <div className="col-lg-5 align-self-center">
               <div className="commen-lef-pic">
-                <img
+                <Image
                   src="/img/Upgrading-Analysis.png"
                   alt="Upgrading-Analysis"
+                  width={1024} height={576}
                 />
               </div>
             </div>
@@ -233,9 +238,10 @@ const SystemHealth = () => {
           <div className="row pad9x rever-1">
             <div className="col-lg-7 align-self-center">
               <div className="commen-lef-pic">
-                <img
+                <Image
                   src="/img/data-health-check.png"
                   alt="data-health-check"
+                  width={1024} height={576}
                 />
               </div>
             </div>
@@ -249,7 +255,7 @@ const SystemHealth = () => {
                 System Health Check experts at Dynamics Square can suggest the possible ways to remove unreliable data and to enable your system to create, process and share the quality reports & key analytics within your organization that serve the purpose and enable everyone in your enterprise to accurately create, analyze, and make informed decisions in real-time.
                 </p>
                 <div className="cltt-actt">
-                  <a href="/products/field-service/">Get Started</a>
+                  <Link href="/products/field-service/">Get Started</Link>
                 </div>
               </div>
             </div>
@@ -260,13 +266,13 @@ const SystemHealth = () => {
               <div className="commen-rit-info">
                 <h3>Analyzing Licensing Needs</h3>
                 <p>
-                Your licensing need may vary depending on your customized processes, operational consistency, data sets you involve, and more. There could be a possibility that you need a different functional facilitation than your competitors are leveraging. To reveal your licensing need, our team can evaluate based on your number of processes, resources involved in every practice area, market to target, and more. When you avail of our <a href="/products/microsoft-dynamics-365/">Dynamics 365</a> free health check for your system, we diagnose and let you know your ongoing as well as futuristic needs and come up with the actual yet cost-effective licensing need for your enterprise.
+                Your licensing need may vary depending on your customized processes, operational consistency, data sets you involve, and more. There could be a possibility that you need a different functional facilitation than your competitors are leveraging. To reveal your licensing need, our team can evaluate based on your number of processes, resources involved in every practice area, market to target, and more. When you avail of our <Link href="/products/microsoft-dynamics-365/">Dynamics 365</Link> free health check for your system, we diagnose and let you know your ongoing as well as futuristic needs and come up with the actual yet cost-effective licensing need for your enterprise.
                 </p>
               </div>
             </div>
             <div className="col-lg-7 align-self-center">
               <div className="commen-lef-pic">
-                <img src="/img/licensing.png" alt="licensing" />
+                <Image src="/img/licensing.png" alt="licensing" width={1024} height={576}/>
               </div>
             </div>
           </div>
