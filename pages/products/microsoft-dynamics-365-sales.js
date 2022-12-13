@@ -71,7 +71,7 @@ const Sales = () => {
                   operations from ordering to warehousing and supply chain to
                   customers all through collaborated teamwork, omnichannel
                   efficiency, and AI-based sales analytics. Leveraging{" "}
-                  <Link href="/dynamics-365-sales-insights/">
+                  <Link href="/dynamics-365-sales-insights-an-overview/">
                     Sales insights
                   </Link>{" "}
                   , enterprises can make informed decisions, strategize their
@@ -259,18 +259,20 @@ const Sales = () => {
             <div className="col-lg-6 align-self-center">
               <div className="busine_service_bottom-left">
                 <div className="busine_service_bottom-right">
-                  <img
+                  <Image
                     src="/img/sales-side image.png"
                     className="fix-im"
                     alt="Dynamics 365 Sales Service"
+                    width={561} height={531}
                   />
                   <div className="video-ytube video-ytubes">
                     <div className="popup-btn popup-btns">
                       <Link href="#javascript:void(0)">
                         <a onClick={() => setOpen(true)}>
-                          <img
+                          <Image
                             src="/img/Video-Sales.png"
                             alt="sales-video-Sales"
+                            width={390} height={259}
                           />
                           <span className="cente-icns">
                             <img src="/img/play_icons.svg" alt="play_icons" />

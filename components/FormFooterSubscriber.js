@@ -13,7 +13,7 @@ const FormFooterSubscriber = () => {
     setDisplay("spinner-border text-success");
     e.preventDefault();
 
-    emailjs.sendForm('service_fhump8w', 'template_vq0gu2g', form.current, 'K7wsWama116Jghyaq')
+    emailjs.sendForm('service_cxxhqoq', 'template_601riyc', form.current, '7Ae4EIVY__86NsTQD')
       .then((result) => {
           console.log(result.text);
       }, (error) => {

@@ -1,5 +1,9 @@
 import React, { useState } from "react";
-import Head from 'next/head'
+import Head from 'next/head';
+import Image from 'next/image';
+import Script from 'next/script';
+import Link from 'next/link';
+import Blog from "../../components/Blog";
 import ModalVideo from "react-modal-video";
 const ProjectOperations = () => {
   const [isOpen, setOpen] = useState(false);
@@ -38,18 +42,18 @@ const ProjectOperations = () => {
               </p>
               <div>
                 <div className="text-center text-lg-start">
-                  <a
+                  <Link   href="#exampleModal"><a
                     data-bs-toggle="modal"
-                    to="#exampleModal"
+                  
                     className="btn-get-started scrollto"
                   >
-                    <span>Schedule a Demo</span>
-                  </a>
+                    <span>Schedule a Demo</span></a>
+                  </Link>
                 </div>
               </div>
             </div>
             <div className="col-lg-6 align-self-center">
-              <img src="/img/project-operation-banner.png" alt="project-operation-banner" />
+              <Image src="/img/project-operation-banner.png" alt="project-operation-banner" width={778} height={506} />
             </div>
           </div>
         </div>
@@ -199,7 +203,7 @@ const ProjectOperations = () => {
                       data-bs-parent="#accnews"
                     >
                       <div className="accordion-body">
-                       <p>Automate and transform your data flow with real-time accessibility by the people assigned for the specific project. With <a to="/products/microsoft-dynamics-365-finance/">Dynamics Finance</a>, faster project delivery with quality assurance practices.</p>
+                       <p>Automate and transform your data flow with real-time accessibility by the people assigned for the specific project. With <Link href="/products/microsoft-dynamics-365-finance/">Dynamics Finance</Link>, faster project delivery with quality assurance practices.</p>
                       </div>
                     </div>
                   </div>
@@ -243,7 +247,7 @@ const ProjectOperations = () => {
                       </h3>
                       <div className="overlay">
                         <p>
-                        Speed up your process flow by leveraging built-in functionalities of <a to="/microsoft-dynamics-365-project-service/">Dynamics 365 Project Service Automation</a> including Kanban boards, Gantt charts, and many more.
+                        Speed up your process flow by leveraging built-in functionalities of <Link href="/microsoft-dynamics-365-project-service/">Dynamics 365 Project Service Automation</Link> including Kanban boards, Gantt charts, and many more.
                         </p>
                       </div>
                     </div>
@@ -287,25 +291,26 @@ const ProjectOperations = () => {
             <div className="col-lg-6 align-self-center">
               <div className="busine_service_bottom-left">
                 <div className="busine_service_bottom-right">
-                  <img
+                  <Image
                     src="/img/Project-operation-side image.png"
                     className="fix-im"
                     alt="Project-operation-side"
+                    width={561} height={557}
                   />
                   <div className="video-ytube video-ytubes">
                     <div className="popup-btn popup-btns">
-                      <a
-                        to="#javascript:void(0)"
+                      <Link href="#javascript:void(0)"><a
+                        
                         onClick={() => setOpen(true)}
                       >
-                        <img src="/img/Video-Video-Project-Operation.png" />
+                        <Image src="/img/Video-Video-Project-Operation.png" width={390} height={259} alt="Video-Project-Operation" />
                         <span className="cente-icns">
                           <img
                             src="/img/play_icons.svg"
                             alt="play_icons"
                           />
-                        </span>
-                      </a>
+                        </span></a>
+                      </Link>
                     </div>
                   </div>
                 </div>
@@ -331,9 +336,9 @@ const ProjectOperations = () => {
                   Implementing Microsoft Project solutions can help to manage your project operations seamlessly.
                   </p>
                   <div className="action-content">
-                    <a data-bs-toggle="modal" to="#exampleModal">
-                      Get Started
-                    </a>
+                    <Link href="#exampleModal">
+                    <a data-bs-toggle="modal" >Get Started</a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -350,9 +355,9 @@ const ProjectOperations = () => {
                   Bring agility across your project operations with our improved and highly optimized support system.
                   </p>
                   <div className="action-content">
-                    <a data-bs-toggle="modal" to="#exampleModal">
-                      Get Started
-                    </a>
+                  <Link href="#exampleModal">
+                    <a data-bs-toggle="modal" >Get Started</a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -369,9 +374,9 @@ const ProjectOperations = () => {
                   Drive a project-centric approach across your business by upgrading Dynamics 365 Project Operations.
                   </p>
                   <div className="action-content">
-                    <a data-bs-toggle="modal" to="#exampleModal">
-                      Get Started
-                    </a>
+                  <Link href="#exampleModal">
+                    <a data-bs-toggle="modal" >Get Started</a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -412,13 +417,13 @@ const ProjectOperations = () => {
 
             <div className="col-lg-12 col-md-12">
               <div className="price-btn price-btnasd d-flex justify-content-center">
-                <a
+                <Link   href="#exampleModal"><a
                   data-bs-toggle="modal"
-                  to="#exampleModal"
+                
                   className="btn-get-red"
                 >
-                  <span>Get Started Now</span>
-                </a>
+                  <span>Get Started Now</span></a>
+                </Link>
               </div>
             </div>
           </div>
@@ -434,13 +439,13 @@ const ProjectOperations = () => {
                 Connect and reveal a healthy deal for your business to improve business processes and maximize business capabilities.
                 </p>
                 <div className="text-center m-o-t new-btn-nn">
-                  <a
+                  <Link   href="#exampleModal"><a
                     data-bs-toggle="modal"
-                    to="#exampleModal"
+                 
                     className="btn-get-started scrollto"
                   >
-                    <span>Get Started Now</span>
-                  </a>
+                    <span>Get Started Now</span></a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -458,8 +463,8 @@ const ProjectOperations = () => {
               </header>
             </div>
           </div>
-          <div className="row top-2 gx-5 justify-content-center">
-            {/* <Blog /> */}
+          <div className="row top-2 gx-5">
+            <Blog />
             <div className="col-lg-6">
               <div className="blogs-extra-title">
                 <h3>Documents</h3>
@@ -469,7 +474,7 @@ const ProjectOperations = () => {
                   <li>
                     <a
                       target="_blank"
-                      to="/pdf/Remote-Service-Modernise-Your-Operations-with-Mixed-Reality.pdf"
+                      href="/pdf/Remote-Service-Modernise-Your-Operations-with-Mixed-Reality.pdf"
                     >
                       <i className="bi bi-file-earmark-pdf"></i>Remote Service
                       Modernise Your Operations with Mixed Reality
@@ -478,7 +483,7 @@ const ProjectOperations = () => {
                   <li>
                     <a
                       target="_blank"
-                      to="/pdf/Transform-your-field-service-with-IoT-AI-and-mixed-reality.pdf"
+                      href="/pdf/Transform-your-field-service-with-IoT-AI-and-mixed-reality.pdf"
                     >
                       <i className="bi bi-file-earmark-pdf"></i>Transform Your
                       Field Service With IoT, AI, and Mixed Reality
@@ -487,7 +492,7 @@ const ProjectOperations = () => {
                   <li>
                     <a
                       target="_blank"
-                      to="/pdf/Five-ways-to-know-if-connected-field-service-is-right-for-your-business.pdf"
+                      href="/pdf/Five-ways-to-know-if-connected-field-service-is-right-for-your-business.pdf"
                     >
                       <i className="bi bi-file-earmark-pdf"></i>Connected Field
                       Service is Right for Your Business?
@@ -496,7 +501,7 @@ const ProjectOperations = () => {
                   <li>
                     <a
                       target="_blank"
-                      to="/pdf/5-innovative-ways-industry-leaders-modernize-their-field-service.pdf"
+                      href="/pdf/5-innovative-ways-industry-leaders-modernize-their-field-service.pdf"
                     >
                       <i className="bi bi-file-earmark-pdf"></i>Innovative Ways
                       Industry Leaders Modernize Their Field Service
@@ -505,7 +510,7 @@ const ProjectOperations = () => {
                   <li>
                     <a
                       target="_blank"
-                      to="/pdf/5-case-studies-from-manufacturing.pdf"
+                      href="/pdf/5-case-studies-from-manufacturing.pdf"
                     >
                       <i className="bi bi-file-earmark-pdf"></i>5 Case Studies
                       From Manufacturing
@@ -514,7 +519,7 @@ const ProjectOperations = () => {
                   <li>
                     <a
                       target="_blank"
-                      to="/pdf/Dynamics_365_Enterprise_edition_Licensing_Guide-1-1.pdf"
+                      href="/pdf/Dynamics_365_Enterprise_edition_Licensing_Guide-1-1.pdf"
                     >
                       <i className="bi bi-file-earmark-pdf"></i>Licensing Guide
                     </a>
@@ -580,7 +585,7 @@ const ProjectOperations = () => {
                     data-bs-parent="#faqlist1"
                   >
                     <div className="accordion-body">
-                     <p>When it comes to installing project operations in <a to="/products/microsoft-dynamics-365/">Dynamics 365</a>, multiple deployment options come ahead. You can either install Project Operations:</p>
+                     <p>When it comes to installing project operations in <Link href="/products/microsoft-dynamics-365/">Dynamics 365</Link>, multiple deployment options come ahead. You can either install Project Operations:</p>
                       <ul>
                         <li>To a new CDS environment</li>
                         <li>To an existing CDS environment</li>

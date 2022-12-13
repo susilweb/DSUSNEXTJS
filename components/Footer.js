@@ -21,7 +21,7 @@ const Footer = () =>{
     setDisplay("spinner-border text-success");
     e.preventDefault();
 
-    emailjs.sendForm('service_fhump8w', 'template_t7vfgzg', form.current, 'K7wsWama116Jghyaq')
+    emailjs.sendForm('service_ioc4m3m', 'template_gaio8jq', form.current, 'Z1IXZpfjgq01m5vW7')
 
       .then((result) => {
           console.log(result.text);

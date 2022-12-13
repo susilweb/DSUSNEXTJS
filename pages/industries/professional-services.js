@@ -1,11 +1,15 @@
 import React, { useState } from "react";
 import Head from "next/head";
-// import ModalVideo from "react-modal-video";
+import Image from "next/image";
+import Script from "next/script";
+import Link from "next/link";
+import ModalVideo from "react-modal-video";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/free-mode";
 import "swiper/css/pagination";
 import { Autoplay, FreeMode, Pagination } from "swiper";
+import Blog from "../../components/Blog";
 const Professional = () => {
   const [isOpen, setOpen] = useState(false);
   const [open, setsOpen] = useState(false);
@@ -20,16 +24,16 @@ const Professional = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.cam/industries/professional-services/"
+          href="https://www.dynamicssquare.com/industries/professional-services/"
         />
       </Head>
-      {/* <ModalVideo
+      <ModalVideo
         channel="youtube"
         autoplay
         isOpen={isOpen}
-        videoId="qLjfAsQRWaM"
+        videoId="Ykm-vyjBK4w"
         onClose={() => setOpen(false)}
-      /> */}
+      />
       <main>
         <section className="Solution-banner hero-1 hero">
           <div className="container">
@@ -45,19 +49,21 @@ const Professional = () => {
                   Microsoft Dynamics 365 For Professional Services.
                 </p>
                 <div className="text-center text-lg-start">
-                  <a
-                    data-bs-toggle="modal"
-                    href="#exampleModal"
-                    className="btn-get-started scrollto"
-                  >
-                    <span>Schedule a Demo</span>
-                  </a>
+                  <Link href="#exampleModal">
+                    <a
+                      data-bs-toggle="modal"
+                      className="btn-get-started scrollto"
+                    >
+                      <span>Schedule a Demo</span>
+                    </a>
+                  </Link>
                 </div>
               </div>
               <div className="col-lg-6 align-self-center">
-                <img
+                <Image
                   src="/img/professional service banner.png"
                   alt="Dynamics 365 For Professional Services"
+                  width={723} height={473}
                 />
               </div>
             </div>
@@ -186,13 +192,14 @@ const Professional = () => {
                     with a highly relevant solution for your industry.
                   </p>
                   <div className="m-o-t m-o-t-inde">
-                    <a
-                      data-bs-toggle="modal"
-                      href="#exampleModal"
-                      className="btn-get-started scrollto"
-                    >
-                      <span>Schedule a Demo</span>
-                    </a>
+                    <Link href="#exampleModal">
+                      <a
+                        data-bs-toggle="modal"
+                        className="btn-get-started scrollto"
+                      >
+                        <span>Schedule a Demo</span>
+                      </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -347,7 +354,7 @@ const Professional = () => {
                     <p>
                       By effectively leveraging the past business data or
                       project performance with the help of{" "}
-                      <a href="/products/erp/">ERP solutions</a> for the
+                      <Link href="/products/erp/">ERP solutions</Link> for the
                       Professional Service industry, enterprises can gain
                       accurate analytics to achieve project success.
                     </p>
@@ -375,13 +382,14 @@ const Professional = () => {
                     solution for your business.
                   </p>
                   <div className="text-center m-o-t m-o-t-hv">
-                    <a
-                      data-bs-toggle="modal"
-                      href="#exampleModal"
-                      className="btn-get-started scrollto"
-                    >
-                      <span>Get Started Now</span>
-                    </a>
+                    <Link href="#exampleModal">
+                      <a
+                        data-bs-toggle="modal"
+                        className="btn-get-started scrollto"
+                      >
+                        <span>Get Started Now</span>
+                      </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -394,29 +402,26 @@ const Professional = () => {
               <div className="col-lg-6 align-self-center">
                 <div className="busine_service_bottom-left">
                   <div className="busine_service_bottom-right">
-                    <img
+                    <Image
                       src="/img/proffesional service side.png"
                       className="fix-im"
                       alt="proffesional service side"
+                      width={553} height={541}
                     />
                     <div className="video-ytube video-ytubes">
                       <div className="popup-btn popup-btns">
-                        <a
-                          data-bs-toggle="modal"
-                          href="#javascript:void(0)"
-                          onClick={() => setOpen(true)}
-                        >
-                          <img
-                            src="/img/proffesional video-service.png"
-                            alt="proffesional video-service"
-                          />
-                          <span className="cente-icns">
-                            <img
-                              src="/img/play_icons.svg"
-                              alt="play_icons"
+                        <Link href="#javascript:void(0)">
+                          <a onClick={() => setOpen(true)}>
+                            <Image
+                              src="/img/proffesional video-service.png"
+                              alt="proffesional video-service"
+                              width={390} height={259}
                             />
-                          </span>
-                        </a>
+                            <span className="cente-icns">
+                              <img src="/img/play_icons.svg" alt="play_icons" />
+                            </span>
+                          </a>
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -433,9 +438,9 @@ const Professional = () => {
                     If you won't support your regularly increasing practices in
                     a timely manner, your productivity will start suffering
                     soon.{" "}
-                    <a href="/products/microsoft-dynamics-365/">
+                    <Link href="/products/microsoft-dynamics-365/">
                       Dynamics 365 solutions
-                    </a>{" "}
+                    </Link>{" "}
                     for Professional Services can help your business to
                     strategically process, monitor, and control your operations.
                     Connect and share your concern with our experts, we can help
@@ -443,13 +448,14 @@ const Professional = () => {
                     business.
                   </p>
                   <div className="text-lg-start mm-t">
-                    <a
-                      data-bs-toggle="modal"
-                      href="#exampleModal"
-                      className="btn-get-started scrollto"
-                    >
-                      <span>Schedule a Demo</span>
-                    </a>
+                    <Link href="#exampleModal">
+                      <a
+                        data-bs-toggle="modal"
+                        className="btn-get-started scrollto"
+                      >
+                        <span>Schedule a Demo</span>
+                      </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -503,8 +509,8 @@ const Professional = () => {
                       <SwiperSlide>
                         <div className="swiper-slide">
                           <div className="industries-list-more">
-                            <a href="/industries/food-and-beverages/">
-                              <div className="img-wrp">
+                            <Link href="/industries/food-and-beverages/">
+                              <a><div className="img-wrp">
                                 <img
                                   src="/img/Food-and-beverage.svg"
                                   alt="Food-and-beverage"
@@ -518,8 +524,8 @@ const Professional = () => {
                                   and Beverages business.
                                 </p>
                                 <span>Explore Now</span>
-                              </div>
-                            </a>
+                              </div></a>
+                            </Link>
                           </div>
                         </div>
                       </SwiperSlide>
@@ -527,8 +533,8 @@ const Professional = () => {
                         <div className="swiper-slide">
                           <div className="swiper-slide">
                             <div className="industries-list-more">
-                              <a href="/industries/microsoft-cloud-for-nonprofit/">
-                                <div className="img-wrp">
+                              <Link href="/industries/microsoft-cloud-for-nonprofit/">
+                                <a><div className="img-wrp">
                                   <img
                                     src="/img/NotforProfit.svg"
                                     alt="NotforProfit"
@@ -542,8 +548,8 @@ const Professional = () => {
                                     Dynamics 365 For Charities.
                                   </p>
                                   <span>Explore Now</span>
-                                </div>
-                              </a>
+                                </div></a>
+                              </Link>
                             </div>
                           </div>
                         </div>
@@ -552,8 +558,8 @@ const Professional = () => {
                         <div className="swiper-slide">
                           <div className="swiper-slide">
                             <div className="industries-list-more">
-                              <a href="/industries/ecommerce/">
-                                <div className="img-wrp">
+                              <Link href="/industries/ecommerce/">
+                                <a><div className="img-wrp">
                                   <img
                                     src="/img/Ecommerce.svg"
                                     alt="Ecommerce"
@@ -566,8 +572,8 @@ const Professional = () => {
                                     And Improve Your Customer Experience.
                                   </p>
                                   <span>Explore Now</span>
-                                </div>
-                              </a>
+                                </div></a>
+                              </Link>
                             </div>
                           </div>
                         </div>
@@ -577,8 +583,8 @@ const Professional = () => {
                         <div className="swiper-slide">
                           <div className="swiper-slide">
                             <div className="industries-list-more">
-                              <a href="/industries/microsoft-cloud-for-manufacturing/">
-                                <div className="img-wrp">
+                              <Link href="/industries/microsoft-cloud-for-manufacturing/">
+                                <a><div className="img-wrp">
                                   <img
                                     src="/img/microsoft-cloud-for-manufacturing.svg"
                                     alt="microsoft-cloud-for-manufacturing"
@@ -592,8 +598,8 @@ const Professional = () => {
                                     365 for Manufacturing and Distribution.
                                   </p>
                                   <span>Explore Now</span>
-                                </div>
-                              </a>
+                                </div></a>
+                              </Link>
                             </div>
                           </div>
                         </div>
@@ -602,12 +608,9 @@ const Professional = () => {
                         <div className="swiper-slide">
                           <div className="swiper-slide">
                             <div className="industries-list-more">
-                              <a href="/industries/startups/">
-                                <div className="img-wrp">
-                                  <img
-                                    src="/img/start-up.svg"
-                                    alt="start-up"
-                                  />
+                              <Link href="/industries/startups/">
+                                <a><div className="img-wrp">
+                                  <img src="/img/start-up.svg" alt="start-up" />
                                 </div>
                                 <div className="text-wrp-content">
                                   <h3>Startups</h3>
@@ -617,8 +620,8 @@ const Professional = () => {
                                     your Startup with Microsoft Dynamics 365.
                                   </p>
                                   <span>Explore Now</span>
-                                </div>
-                              </a>
+                                </div></a>
+                              </Link>
                             </div>
                           </div>
                         </div>
@@ -642,11 +645,12 @@ const Professional = () => {
               </h2>
             </header>
             <div className="row top-2 gx-5">
-              {/* <Blog /> */}
+              <Blog />
               <div className="col-lg-6 align-self-center">
-                <img
+                <Image
                   src="/img/n/Dynamics-365-for-professional-services.png"
-                  alt=""
+                  alt="Dynamics-365-for-professional-services"
+                  width={790} height={470}
                 />
               </div>
             </div>
@@ -705,7 +709,8 @@ const Professional = () => {
                         <br />
                         <br />
                         For further information or to implement a Professional
-                        Services <a href="/industries/">industry solution</a>,
+                        Services{" "}
+                        <Link href="/industries/">industry solution</Link>,
                         connect with us today
                       </div>
                     </div>
@@ -728,9 +733,9 @@ const Professional = () => {
                       data-bs-parent="#faqlist1"
                     >
                       <div className="accordion-body">
-                        <a href="/products/microsoft-dynamics-365/">
+                        <Link href="/products/microsoft-dynamics-365/">
                           Dynamics 365
-                        </a>{" "}
+                        </Link>{" "}
                         offers a range of business solutions considering
                         industry-specific needs. Depending on your process flow,
                         these applications can be combined or integrated with
