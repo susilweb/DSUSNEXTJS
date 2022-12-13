@@ -17,7 +17,7 @@ const FormGuide = () => {
       setDisplay("spinner-border text-success");
       e.preventDefault();
   
-      emailjs.sendForm('service_fhump8w', 'template_t7vfgzg', form.current, 'K7wsWama116Jghyaq')
+      emailjs.sendForm('service_8nlbo04', 'template_3b4uq29', form.current, '6bh9sGQpzDgqfRNHH')
   
         .then((result) => {
             console.log(result.text);
@@ -78,7 +78,7 @@ const FormGuide = () => {
                     <input
                       type="email"
                       className="form-control"
-                      placeholder="* Work Email"
+                      placeholder="*Work Email"
                       name="email"
                       pattern="^[a-zA-Z0-9._%+-]+@(?!gmail.com)(?!yahoo.com)(?!hotmail.com)(?!yahoo.co.in)(?!aol.com)(?!live.com)(?!outlook.com)[a-zA-Z0-9_-]+.[a-zA-Z0-9-.]{2,61}$"
                       required

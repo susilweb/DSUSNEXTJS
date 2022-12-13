@@ -1,18 +1,21 @@
 import React, { useState } from "react";
-import Head from 'next/head'
-// import ModalVideo from "react-modal-video";
+import Head from "next/head";
+import Image from "next/image";
+import Script from "next/script";
+import Link from "next/link";
+import ModalVideo from "react-modal-video";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/free-mode";
 import "swiper/css/pagination";
 import { Autoplay, FreeMode, Pagination } from "swiper";
+import Blog from "../../components/Blog";
 const MicrosoftCloudForNonprofit = () => {
   const [isOpen, setOpen] = useState(false);
   const [open, setsOpen] = useState(false);
   return (
     <>
       <Head>
-        <meta charSet="utf-8" />
         <title>Microsoft Cloud for Nonprofit | Dynamics Square</title>
         <meta
           name="description"
@@ -20,17 +23,16 @@ const MicrosoftCloudForNonprofit = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/industries/microsoft-cloud-for-nonprofit/"
+          href="https://www.dynamicssquare.com/industries/microsoft-cloud-for-nonprofit/"
         />
-        
       </Head>
-      {/* <ModalVideo
+      <ModalVideo
         channel="youtube"
         autoplay
         isOpen={isOpen}
         videoId="k9ZCzwj4FV8&t=2s"
         onClose={() => setOpen(false)}
-      /> */}
+      />
       <main>
         <section className="Solution-banner hero-1 hero">
           <div className="container">
@@ -42,22 +44,26 @@ const MicrosoftCloudForNonprofit = () => {
                   For NonProfit
                 </h1>
                 <p>
-                Ensure Your Focus On Your Mission To Simplify Your Mission-Critical Practices To Drive Campaign Success With Microsoft Cloud Solution For NonProfit.
+                  Ensure Your Focus On Your Mission To Simplify Your
+                  Mission-Critical Practices To Drive Campaign Success With
+                  Microsoft Cloud Solution For NonProfit.
                 </p>
                 <div className="text-center text-lg-start">
-                  <a
-                    data-bs-toggle="modal"
-                    href="#exampleModal"
-                    className="btn-get-started scrollto"
-                  >
-                    <span>Schedule a Demo</span>
-                  </a>
+                  <Link href="#exampleModal">
+                    <a
+                      data-bs-toggle="modal"
+                      className="btn-get-started scrollto"
+                    >
+                      <span>Schedule a Demo</span>
+                    </a>
+                  </Link>
                 </div>
               </div>
               <div className="col-lg-6 align-self-center">
-                <img
+                <Image
                   src="/img/Not-For-Profit-banner.png"
                   alt="Not-For-Profit-banner"
+                  width={723} height={473}
                 />
               </div>
             </div>
@@ -65,20 +71,36 @@ const MicrosoftCloudForNonprofit = () => {
         </section>
         <section>
           <div className="container">
-          <div className="row justify-content-center">
-            <div className="col-lg-8 col-md-8">
-            <header className="section-header">
-              <h2>
-              Drive Seamless Operations With Microsoft Cloud For NonProfit
-              </h2>
-              <p>
-              Connect and engage your donors, manage your volunteers, take advantage of program impact dashboard, drive data centralization, ensure your data security, and seamlessly drive mission success with the help of Microsoft Cloud for NonProfits.</p> <p>Microsoft Cloud for Nonprofit can help to strategically drive mission-critical practices while securing donor data and ensuring assigning the right responsibility to the right volunteer. This cloud-based not-for-profit industry solution can be implemented with its standard essence or can be configured according to your customized movements. Microsoft Cloud solution enables nonprofit units to strategically <a href="/our-services/dynamics-365-support-services/">support</a> their different roles and to carry out day-to-day challenges.
-
-</p>
-            </header>
+            <div className="row justify-content-center">
+              <div className="col-lg-8 col-md-8">
+                <header className="section-header">
+                  <h2>
+                    Drive Seamless Operations With Microsoft Cloud For NonProfit
+                  </h2>
+                  <p>
+                    Connect and engage your donors, manage your volunteers, take
+                    advantage of program impact dashboard, drive data
+                    centralization, ensure your data security, and seamlessly
+                    drive mission success with the help of Microsoft Cloud for
+                    NonProfits.
+                  </p>{" "}
+                  <p>
+                    Microsoft Cloud for Nonprofit can help to strategically
+                    drive mission-critical practices while securing donor data
+                    and ensuring assigning the right responsibility to the right
+                    volunteer. This cloud-based not-for-profit industry solution
+                    can be implemented with its standard essence or can be
+                    configured according to your customized movements. Microsoft
+                    Cloud solution enables nonprofit units to strategically{" "}
+                    <Link href="/our-services/dynamics-365-support-services/">
+                      support
+                    </Link>{" "}
+                    their different roles and to carry out day-to-day
+                    challenges.
+                  </p>
+                </header>
+              </div>
             </div>
-          </div>
-            
           </div>
         </section>
         <section className="Solution-business-why custom-pd-1">
@@ -86,12 +108,17 @@ const MicrosoftCloudForNonprofit = () => {
             <div className="row gx-5">
               <div className="col-lg-6 align-self-center">
                 <h2>
-                Why Implement 
+                  Why Implement
                   <br />
                   Microsoft Cloud for NonProfits <br />
-                    </h2>
+                </h2>
                 <p>
-                Microsoft Cloud Solution for Nonprofits empowers the organizations to effectively manage their donors, supporters, volunteers, etc. to produce and drive effective results. With the help of this cloud solution, non-profit hubs can effectively manage donors, supporters, and drive a seamless constituent marketing journey.
+                  Microsoft Cloud Solution for Nonprofits empowers the
+                  organizations to effectively manage their donors, supporters,
+                  volunteers, etc. to produce and drive effective results. With
+                  the help of this cloud solution, non-profit hubs can
+                  effectively manage donors, supporters, and drive a seamless
+                  constituent marketing journey.
                 </p>
               </div>
               <div className="col-lg-6 align-self-center">
@@ -104,7 +131,12 @@ const MicrosoftCloudForNonprofit = () => {
                     </div>
                     <div className="cintent-right">
                       <p>
-                      It enables or maximizes the capability of managing volunteers, engaging donors, and ensuring seamless volunteer center management. Microsoft Cloud for Non-Profits enables to combine both the back office and frontend data to enable unified fundraising and drive centralized data-driven practices.
+                        It enables or maximizes the capability of managing
+                        volunteers, engaging donors, and ensuring seamless
+                        volunteer center management. Microsoft Cloud for
+                        Non-Profits enables to combine both the back office and
+                        frontend data to enable unified fundraising and drive
+                        centralized data-driven practices.
                       </p>
                     </div>
                   </div>
@@ -117,7 +149,14 @@ const MicrosoftCloudForNonprofit = () => {
                     </div>
                     <div className="cintent-right">
                       <p>
-                      To support your unique organization flow and fulfill your mission-critical needs, non-profit business domains can get solutions configured and customized to serve their unique or personalized needs. With the help of constituents' analytics, proactively understand how likely the constituents are interested to engage, at what time constraints, and leveraging what sort of channels.
+                        To support your unique organization flow and fulfill
+                        your mission-critical needs, non-profit business domains
+                        can get solutions configured and customized to serve
+                        their unique or personalized needs. With the help of
+                        constituents' analytics, proactively understand how
+                        likely the constituents are interested to engage, at
+                        what time constraints, and leveraging what sort of
+                        channels.
                       </p>
                     </div>
                   </div>
@@ -142,17 +181,20 @@ const MicrosoftCloudForNonprofit = () => {
                     Our Expert Team
                   </h3>
                   <p>
-                  Let's simplify your non-profit practices, extend your outreach, and ensure mission success with Microsoft Cloud for NonProfits.
+                    Let's simplify your non-profit practices, extend your
+                    outreach, and ensure mission success with Microsoft Cloud
+                    for NonProfits.
                     <br />
                   </p>
                   <div className="m-o-t m-o-t-inde">
-                    <a
-                      data-bs-toggle="modal"
-                      href="#exampleModal"
-                      className="btn-get-started scrollto"
-                    >
-                      <span>Schedule a Demo</span>
-                    </a>
+                    <Link href="#exampleModal">
+                      <a
+                        data-bs-toggle="modal"
+                        className="btn-get-started scrollto"
+                      >
+                        <span>Schedule a Demo</span>
+                      </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -180,7 +222,9 @@ const MicrosoftCloudForNonprofit = () => {
                   <div className="card_new_content">
                     <h3>Constituent Management</h3>
                     <p>
-                    Effortlessly engage, manage, and retain your donors. Bring a centralized view of constituents' data to know your mission supporters, fundraisers, and actual donors. 
+                      Effortlessly engage, manage, and retain your donors. Bring
+                      a centralized view of constituents' data to know your
+                      mission supporters, fundraisers, and actual donors.
                     </p>
                   </div>
                 </div>
@@ -194,7 +238,9 @@ const MicrosoftCloudForNonprofit = () => {
                   <div className="card_new_content">
                     <h3>Personalized Engagement</h3>
                     <p>
-                    Leverage personalized engaging and impact your engaging movements. Connect and engage serious donors with the help of in-built engaging functionality.
+                      Leverage personalized engaging and impact your engaging
+                      movements. Connect and engage serious donors with the help
+                      of in-built engaging functionality.
                     </p>
                   </div>
                 </div>
@@ -208,7 +254,9 @@ const MicrosoftCloudForNonprofit = () => {
                   <div className="card_new_content">
                     <h3>Constituent Analytics</h3>
                     <p>
-                    Cloud solutions for Non-profits enables the capability to know whether the supporter, donor, or constituents is interested to engage and join your mission.               
+                      Cloud solutions for Non-profits enables the capability to
+                      know whether the supporter, donor, or constituents is
+                      interested to engage and join your mission.
                     </p>
                   </div>
                 </div>
@@ -222,7 +270,9 @@ const MicrosoftCloudForNonprofit = () => {
                   <div className="card_new_content">
                     <h3>Unified Data</h3>
                     <p>
-                    Centralize your fundraising and campaign data along with back office and front-line movements including programs, finances, and operations to achieve mission success.
+                      Centralize your fundraising and campaign data along with
+                      back office and front-line movements including programs,
+                      finances, and operations to achieve mission success.
                     </p>
                   </div>
                 </div>
@@ -238,7 +288,9 @@ const MicrosoftCloudForNonprofit = () => {
                   <div className="card_new_content">
                     <h3>Donation & Award Management</h3>
                     <p>
-                    Boost your donation and award management capabilities from payment processing to fund accounting and fundraising to award management all through Cloud Nonprofits.
+                      Boost your donation and award management capabilities from
+                      payment processing to fund accounting and fundraising to
+                      award management all through Cloud Nonprofits.
                     </p>
                   </div>
                 </div>
@@ -252,7 +304,10 @@ const MicrosoftCloudForNonprofit = () => {
                   <div className="card_new_content">
                     <h3>Volunteer Management</h3>
                     <p>
-                    Empower your volunteer coordinators to seamlessly match volunteer skills as per needs and enable both the volunteers and coordinators to ensure collaborative success. 
+                      Empower your volunteer coordinators to seamlessly match
+                      volunteer skills as per needs and enable both the
+                      volunteers and coordinators to ensure collaborative
+                      success.
                     </p>
                   </div>
                 </div>
@@ -266,7 +321,10 @@ const MicrosoftCloudForNonprofit = () => {
                   <div className="card_new_content">
                     <h3>Program Delivery</h3>
                     <p>
-                    To accomplish mission success, Microsoft's non-profit solution enables charity organizations to design, deliver, and monitor current events or movements to level up the foundational success. 
+                      To accomplish mission success, Microsoft's non-profit
+                      solution enables charity organizations to design, deliver,
+                      and monitor current events or movements to level up the
+                      foundational success.
                     </p>
                   </div>
                 </div>
@@ -280,19 +338,27 @@ const MicrosoftCloudForNonprofit = () => {
               <div className="col-lg-9">
                 <div className="call-to-action-content">
                   <h3>
-                  How to roll out effective and productive strategies across your Non-Profit Organization?
+                    How to roll out effective and productive strategies across
+                    your Non-Profit Organization?
                   </h3>
                   <p>
-                  Since every foundation is initiated with different aims or objectives and thereby, there could be specific system configuration needs to support both their ongoing flow as well as futuristic activities. Understanding your unique non-profit flow, we can help to come up with the most reliable and productive solution for your non-profit organization.
+                    Since every foundation is initiated with different aims or
+                    objectives and thereby, there could be specific system
+                    configuration needs to support both their ongoing flow as
+                    well as futuristic activities. Understanding your unique
+                    non-profit flow, we can help to come up with the most
+                    reliable and productive solution for your non-profit
+                    organization.
                   </p>
                   <div className="text-center m-o-t m-o-t-hv">
-                    <a
-                      data-bs-toggle="modal"
-                      href="#exampleModal"
-                      className="btn-get-started scrollto"
-                    >
-                      <span>Get Started Now</span>
-                    </a>
+                    <Link href="#exampleModal">
+                      <a
+                        data-bs-toggle="modal"
+                        className="btn-get-started scrollto"
+                      >
+                        <span>Get Started Now</span>
+                      </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -305,29 +371,26 @@ const MicrosoftCloudForNonprofit = () => {
               <div className="col-lg-6 align-self-center">
                 <div className="busine_service_bottom-left">
                   <div className="busine_service_bottom-right">
-                    <img
+                    <Image
                       src="/img/non-profit side.png"
                       className="fix-im"
                       alt="non-profit side"
+                      width={553} height={548}
                     />
                     <div className="video-ytube video-ytubes">
                       <div className="popup-btn popup-btns">
-                        <a
-                          data-bs-toggle="modal"
-                          href="#javascript:void(0)"
-                          onClick={() => setOpen(true)}
-                        >
-                          <img
-                            src="/img/Video-Non Profit.png"
-                            alt="Video-Non Profit"
-                          />
-                          <span className="cente-icns">
-                            <img
-                              src="/img/play_icons.svg"
-                              alt="play_icons"
+                        <Link href="#javascript:void(0)">
+                          <a onClick={() => setOpen(true)}>
+                            <Image
+                              src="/img/Video-Non Profit.png"
+                              alt="Video-Non Profit"
+                              width={390} height={259}
                             />
-                          </span>
-                        </a>
+                            <span className="cente-icns">
+                              <img src="/img/play_icons.svg" alt="play_icons" />
+                            </span>
+                          </a>
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -336,19 +399,25 @@ const MicrosoftCloudForNonprofit = () => {
               <div className="col-lg-6 d-flex align-items-center">
                 <div className="side-heading">
                   <h2>
-                  Learn How Microsoft Cloud Solution Can Ensure Success for Non-profits?
+                    Learn How Microsoft Cloud Solution Can Ensure Success for
+                    Non-profits?
                   </h2>
                   <p>
-                  Here is how Microsoft's cloud solution can help to support your unique non-profit events or movements to connect and engage genuine donors, manage processes with streamlined data, analyze expected donor behavior, and ensure overall mission success.
+                    Here is how Microsoft's cloud solution can help to support
+                    your unique non-profit events or movements to connect and
+                    engage genuine donors, manage processes with streamlined
+                    data, analyze expected donor behavior, and ensure overall
+                    mission success.
                   </p>
                   <div className="text-lg-start mm-t">
-                    <a
-                      data-bs-toggle="modal"
-                      href="#exampleModal"
-                      className="btn-get-started scrollto"
-                    >
-                      <span>Schedule a Demo</span>
-                    </a>
+                    <Link href="#exampleModal">
+                      <a
+                        data-bs-toggle="modal"
+                        className="btn-get-started scrollto"
+                      >
+                        <span>Schedule a Demo</span>
+                      </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -369,7 +438,7 @@ const MicrosoftCloudForNonprofit = () => {
                 <div className="box box-22 box-11">
                   <h3>Basic</h3>
                   <div className="price">
-                    <sup>£</sup>0<span>Per Month</span>
+                    <sup>$</sup>0<span>Per Month</span>
                   </div>
                   <ul>
                     <li>
@@ -430,16 +499,14 @@ const MicrosoftCloudForNonprofit = () => {
 
               <div className="col-lg-12 col-md-12">
                 <div className="price-btn price-btnasd d-flex justify-content-center">
-                  <a
-                    data-bs-toggle="modal"
-                    href="#exampleModal"
-                    className="btn-get-red"
-                  >
-                    <span>Get Started Now</span>
-                  </a>
-                  {/* <a href="#about" className="btn-get-whit">
+                  <Link href="#exampleModal">
+                    <a data-bs-toggle="modal" className="btn-get-red">
+                      <span>Get Started Now</span>
+                    </a>
+                  </Link>
+                  {/* <Link href="#about" className="btn-get-whit">
                               <span>See Licensing Guide</span>
-                              </a> */}
+                              </Link> */}
                 </div>
               </div>
             </div>
@@ -492,23 +559,25 @@ const MicrosoftCloudForNonprofit = () => {
                       <SwiperSlide>
                         <div className="swiper-slide">
                           <div className="industries-list-more">
-                            <a href="/industries//food-and-beverages/">
-                              <div className="img-wrp">
-                                <img
-                                  src="/img/Food-and-beverage.svg"
-                                  alt="Food-and-beverage"
-                                />
-                              </div>
-                              <div className="text-wrp-content">
-                                <h3>Food & Beverages</h3>
-                                <p>
-                                  Efficiently manage your inventory and supply
-                                  chain by implementing Dynamics 365 for Food
-                                  and Beverages business.
-                                </p>
-                                <span>Explore Now</span>
-                              </div>
-                            </a>
+                            <Link href="/industries//food-and-beverages/">
+                              <a>
+                                <div className="img-wrp">
+                                  <img
+                                    src="/img/Food-and-beverage.svg"
+                                    alt="Food-and-beverage"
+                                  />
+                                </div>
+                                <div className="text-wrp-content">
+                                  <h3>Food & Beverages</h3>
+                                  <p>
+                                    Efficiently manage your inventory and supply
+                                    chain by implementing Dynamics 365 for Food
+                                    and Beverages business.
+                                  </p>
+                                  <span>Explore Now</span>
+                                </div>
+                              </a>
+                            </Link>
                           </div>
                         </div>
                       </SwiperSlide>
@@ -517,22 +586,25 @@ const MicrosoftCloudForNonprofit = () => {
                         <div className="swiper-slide">
                           <div className="swiper-slide">
                             <div className="industries-list-more">
-                              <a href="/industries/ecommerce/">
-                                <div className="img-wrp">
-                                  <img
-                                    src="/img/Ecommerce.svg"
-                                    alt="Ecommerce"
-                                  />
-                                </div>
-                                <div className="text-wrp-content">
-                                  <h3>E-Commerce</h3>
-                                  <p>
-                                    Optimize Your End-To-End Ecommerce Processes
-                                    And Improve Your Customer Experience.
-                                  </p>
-                                  <span>Explore Now</span>
-                                </div>
-                              </a>
+                              <Link href="/industries/ecommerce/">
+                                <a>
+                                  <div className="img-wrp">
+                                    <img
+                                      src="/img/Ecommerce.svg"
+                                      alt="Ecommerce"
+                                    />
+                                  </div>
+                                  <div className="text-wrp-content">
+                                    <h3>E-Commerce</h3>
+                                    <p>
+                                      Optimize Your End-To-End Ecommerce
+                                      Processes And Improve Your Customer
+                                      Experience.
+                                    </p>
+                                    <span>Explore Now</span>
+                                  </div>
+                                </a>
+                              </Link>
                             </div>
                           </div>
                         </div>
@@ -541,23 +613,26 @@ const MicrosoftCloudForNonprofit = () => {
                         <div className="swiper-slide">
                           <div className="swiper-slide">
                             <div className="industries-list-more">
-                              <a href="/industries/professional-services/">
-                                <div className="img-wrp">
-                                  <img
-                                    src="/img/proffesional-service.svg"
-                                    alt="proffesional-service"
-                                  />
-                                </div>
-                                <div className="text-wrp-content">
-                                  <h3>Professional Services</h3>
-                                  <p>
-                                    Streamline And Efficiently Manage Your
-                                    Professional Services with Microsoft
-                                    Dynamics 365 Business Applications.
-                                  </p>
-                                  <span>Explore Now</span>
-                                </div>
-                              </a>
+                              <Link href="/industries/professional-services/">
+                                <a>
+                                  {" "}
+                                  <div className="img-wrp">
+                                    <img
+                                      src="/img/proffesional-service.svg"
+                                      alt="proffesional-service"
+                                    />
+                                  </div>
+                                  <div className="text-wrp-content">
+                                    <h3>Professional Services</h3>
+                                    <p>
+                                      Streamline And Efficiently Manage Your
+                                      Professional Services with Microsoft
+                                      Dynamics 365 Business Applications.
+                                    </p>
+                                    <span>Explore Now</span>
+                                  </div>
+                                </a>
+                              </Link>
                             </div>
                           </div>
                         </div>
@@ -566,23 +641,25 @@ const MicrosoftCloudForNonprofit = () => {
                         <div className="swiper-slide">
                           <div className="swiper-slide">
                             <div className="industries-list-more">
-                              <a href="/industries/microsoft-cloud-for-manufacturing/">
-                                <div className="img-wrp">
-                                  <img
-                                    src="/img/microsoft-cloud-for-manufacturing.svg"
-                                    alt="microsoft-cloud-for-manufacturing"
-                                  />
-                                </div>
-                                <div className="text-wrp-content">
-                                  <h3>Manufacturing & Distribution</h3>
-                                  <p>
-                                    Keep track of your production lines and
-                                    bring transparency with Microsoft Dynamics
-                                    365 for Manufacturing and Distribution.
-                                  </p>
-                                  <span>Explore Now</span>
-                                </div>
-                              </a>
+                              <Link href="/industries/microsoft-cloud-for-manufacturing/">
+                                <a>
+                                  <div className="img-wrp">
+                                    <img
+                                      src="/img/microsoft-cloud-for-manufacturing.svg"
+                                      alt="microsoft-cloud-for-manufacturing"
+                                    />
+                                  </div>
+                                  <div className="text-wrp-content">
+                                    <h3>Manufacturing & Distribution</h3>
+                                    <p>
+                                      Keep track of your production lines and
+                                      bring transparency with Microsoft Dynamics
+                                      365 for Manufacturing and Distribution.
+                                    </p>
+                                    <span>Explore Now</span>
+                                  </div>
+                                </a>
+                              </Link>
                             </div>
                           </div>
                         </div>
@@ -591,23 +668,25 @@ const MicrosoftCloudForNonprofit = () => {
                         <div className="swiper-slide">
                           <div className="swiper-slide">
                             <div className="industries-list-more">
-                              <a href="/industries/startups/">
-                                <div className="img-wrp">
-                                  <img
-                                    src="/img/start-up.svg"
-                                    alt="start-up"
-                                  />
-                                </div>
-                                <div className="text-wrp-content">
-                                  <h3>Startups</h3>
-                                  <p>
-                                    Leverage maximum possible resources to
-                                    manage end-to-end business processes for
-                                    your Startup with Microsoft Dynamics 365.
-                                  </p>
-                                  <span>Explore Now</span>
-                                </div>
-                              </a>
+                              <Link href="/industries/startups/">
+                                <a>
+                                  <div className="img-wrp">
+                                    <img
+                                      src="/img/start-up.svg"
+                                      alt="start-up"
+                                    />
+                                  </div>
+                                  <div className="text-wrp-content">
+                                    <h3>Startups</h3>
+                                    <p>
+                                      Leverage maximum possible resources to
+                                      manage end-to-end business processes for
+                                      your Startup with Microsoft Dynamics 365.
+                                    </p>
+                                    <span>Explore Now</span>
+                                  </div>
+                                </a>
+                              </Link>
                             </div>
                           </div>
                         </div>
@@ -631,7 +710,7 @@ const MicrosoftCloudForNonprofit = () => {
               </h2>
             </header>
             <div className="row top-2 gx-5">
-              {/* <Blog /> */}
+              <Blog />
               <div className="col-lg-6 align-self-center">
                 <img
                   src="/img/n/Microsoft-Cloud-For-Non-Profits-Banner.png"

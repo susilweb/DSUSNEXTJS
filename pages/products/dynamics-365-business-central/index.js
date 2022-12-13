@@ -17,10 +17,10 @@ const BusinessCentral = () => {
   return (
     <>
       <Head>
-        <title>Dynamics 365 Business Central Partner | Dynamics Square</title>
+        <title>Dynamics 365 Business Central: Microsoft's Leading Cloud ERP</title>
         <meta
           name="description"
-          content="Automate and manage your end-to-end business processes seamlessly with Dynamics 365 Business Central - A unified business management solution for small business."
+          content="Business Central brings ops to a unified cloud platform for high productivity. Contact a Dynamics 365 implementation partner like Dynamics Square for support."
         />
         <link
           rel="canonical"
@@ -74,19 +74,8 @@ const BusinessCentral = () => {
             <div className="col-lg-9 ">
               <header className="section-header">
                 <h2>What is Dynamics 365 Business Central?</h2>
-                <p>
-                  Dynamics 365 Business Central, often known as Business Central
-                  or BC, is a cloud-based ERP software developed specifically
-                  for small and mid-market size businesses to manage overall
-                  processes by automating finance, accounts, sales, customer
-                  service and operations. Moreover, 365 BC is the perfect SaaS
-                  ERP solution if you want to simplify your overall business
-                  processes and monitor them using a single dashboard. Powered
-                  by Microsoft cloud technology and with a D365 Business Central
-                  partner, you can have a unified view, security, scalability
-                  and flexibility so that you can focus on what's more important
-                  for your business.
-                </p>
+                <p>Dynamics 365 Business Central, often known as D365 Business Central, is a comprehensive cloud-based ERP (Enterprise Resource Planning) software. Microsoft developed it for SMBs (small and medium sized businesses) to manage their overall processes via automating finance, accounts, sales, customer service, and operations. <br /><br />It is an upgraded version of <Link href="/products/microsoft-dynamics-nav/">Microsoft Dynamics NAV</Link>. Business Central is the perfect SaaS (Software as a Service) ERP solution to simplify your overall business processes and monitor them on a single dashboard. Powered by <Link href="/products/microsoft-azure/">Microsoft cloud technology</Link>, this all-in-one app provides you with a unified view of security, scalability, and flexibility so that you can focus on what is more important for your business. 
+</p>
               </header>
             </div>
           </div>
@@ -3026,20 +3015,7 @@ const BusinessCentral = () => {
                   >
                     <div className="accordion-body">
                       <p>
-                        Dynamics 365 Business Central is a complete business
-                        solution package that comes with both on-cloud and
-                        on-premised facilitation and is designed to support and
-                        drive entire enterprise practices. Business Central is
-                        simple to use as comprising excel-like functionality,
-                        thereby, advanced excel users can instantly start
-                        leveraging the Business Central capabilities. It
-                        empowers enterprises to streamline and automate their
-                        tasks and processes by enabling connected and
-                        collaborated experience. With Business Central,
-                        enterprises can manage their end-to-end process flow
-                        from finance and supply chain to sales, warehousing,
-                        project management, manufacturing & distribution to
-                        project automation, reporting & analytics, and more.
+                      Dynamics 365 Business Central is a complete business solution package that comes with both on-cloud and on-premised facilitation and is designed to support and drive entire enterprise practices. Business Central is simple to use and comprises excel-like functionality, thereby, advanced excel users can instantly start leveraging the Business Central capabilities. It empowers enterprises to streamline and automate their tasks and processes by enabling connected and collaborative experiences. With Business Central, enterprises can manage their end-to-end process flow from <Link href="/products/microsoft-dynamics-365-finance/">finance</Link> and <Link href="/products/dynamics-365-supply-chain-management/">supply chain</Link> to <Link href="/products/microsoft-dynamics-365-sales/">sales</Link>, warehousing, project management, manufacturing & distribution to project automation, <Link href="/products/microsoft-power-bi/">reporting & analytics</Link>, and more. 
                       </p>
                     </div>
                   </div>
@@ -3061,18 +3037,7 @@ const BusinessCentral = () => {
                     data-bs-parent="#faqlist1"
                   >
                     <div className="accordion-body">
-                      Dynamics 365 Business Central is the updated version of{" "}
-                      <Link href="/products/microsoft-dynamics-nav/">
-                        Dynamics NAV
-                      </Link>
-                      . With its upgrade, Microsoft changed its name too. The
-                      Core functionality remains the same and is updated with
-                      advanced features and navigation to support modern
-                      enterprises and to serve every industry. However, existing
-                      Dynamics NAV users can still avail of the support
-                      services. Dynamics Square offers highly reliable and
-                      efficient NAV and Business Central Support Services at
-                      cost-effective rates.
+                    Dynamics 365 Business Central is the updated version of <Link href="/products/microsoft-dynamics-nav/">Dynamics NAV</Link>. With its upgrade, Microsoft changed its name too. The Core functionality remains the same and is updated with advanced features and navigation to support modern enterprises to serve every industry. However, existing Dynamics NAV users can still avail themselves of <Link href="/our-services/dynamics-365-support-services/">Dynamics Square's Support Services</Link>. Dynamics Square offers exceptionally reliable and efficient NAV and <Link href="/dynamics-365-business-central-support/">Business Central Support Services</Link> at cost-effective rates. 
                     </div>
                   </div>
                 </div>
@@ -3094,18 +3059,10 @@ const BusinessCentral = () => {
                   >
                     <div className="accordion-body">
                       <p>
-                        If you are willing to upgrade to Dynamics 365 Business
-                        Central, Dynamics Square can implement a highly
-                        configured solution for your business. Upgrading to
-                        Dynamics 365 either from NAV or other existing systems
-                        requires experts’ practices and years of proficiency.
-                        Team at Dynamics Square comprises all the required skill
-                        sets and years of expertise to implement a solution
-                        fulfilling your customized business needs.
+                      If you are willing to upgrade to Dynamics 365 Business Central, Dynamics Square can implement a highly configured solution for your business. <Link href="/our-services/dynamics-365-upgrade-services/">Upgrading to Dynamics 365</Link> either from NAV or other existing systems requires experts' practice and years of proficiency. The team at Dynamics Square comprises all the required skill sets and years of expertise to implement a solution fulfilling your customized business needs.
                       </p>
                       <p>
-                        For more clarification or avail of our free system
-                        health check, call us today, we can help.
+                      For more clarification or avail of our <Link href="/free-dynamics-365-system-health-check/">free system health check</Link>, or call us today for any Dynamics 365 help.
                       </p>
                     </div>
                   </div>
@@ -3118,7 +3075,7 @@ const BusinessCentral = () => {
                       data-bs-toggle="collapse"
                       data-bs-target="#faq-content-4"
                     >
-                      What industries can Dynamics 365 Business Central Support?
+                    What industries can Dynamics 365 Business Central Support?
                     </button>
                   </h3>
                   <div
@@ -3127,26 +3084,8 @@ const BusinessCentral = () => {
                     data-bs-parent="#faqlist1"
                   >
                     <div className="accordion-body">
-                      Business Central is designed and configured to support all
-                      the industries from E-commerce to{" "}
-                      <Link href="/industries/food-and-beverages/">
-                        food & beverages
-                      </Link>
-                      ,{" "}
-                      <Link href="/industries/manufacturing/">
-                        Manufacturing & Distribution
-                      </Link>
-                      , Professional Services to Non-Profit. Business Central
-                      could be a quite effective deal for Startups too if you
-                      are willing to jumpstart your business and start
-                      simplifying and enabling automation in your practices from
-                      the very initial.{" "}
-                      <p>
-                        To know more about how Business Central can be
-                        implemented for your specific industry to drive an
-                        effective and efficient approach throughout your
-                        business premises, connect to our professionals today.
-                      </p>
+                     <p>Business Central is designed and configured to support all industries from <Link href="/industries/ecommerce/">E-commerce</Link> to <Link href="/industries/food-and-beverages/">food & beverages</Link>, <Link href="/industries/manufacturing/">Manufacturing, and Distribution</Link>, and <Link href="/industries/professional-services/">Professional Services</Link> to <Link href="/industries/microsoft-cloud-for-nonprofit/">Non-Profit</Link>. Business Central could be quite an effective deal for your Startups too if you are willing to jumpstart your business and start simplifying and enabling automation in your practices from the very initial.</p>
+                     <p>To know more about how Business Central can be implemented for your specific industry to drive an effective and efficient approach throughout your business premises, <Link href="/contact-us/">contact our professionals</Link> today.</p>
                     </div>
                   </div>
                 </div>
@@ -3244,32 +3183,8 @@ const BusinessCentral = () => {
                     data-bs-parent="#faqlist1"
                   >
                     <div className="accordion-body">
-                      <p>
-                        Business Central is an all-in-one solution for all your
-                        business requirements. With D365 Business Central,
-                        enterprises can manage their entire practices including
-                        sales,{" "}
-                        <Link href="/products/microsoft-dynamics-365-finance/">
-                          finance
-                        </Link>{" "}
-                        , customers, manufacturing,{" "}
-                        <Link href="/products/dynamics-365-supply-chain-management/">
-                          supply chain
-                        </Link>
-                        , project operations, human resources, and reporting &
-                        analytics.
-                      </p>
-                      <p>
-                        Since Business Central is quite flexible and thereby,
-                        can be integrated with any of Microsoft's applications
-                        as well as with your existing system configurations.
-                        Thus, if your requirement goes for advanced reporting
-                        capabilities, then Power BI is the high-end solution to
-                        drive so. Enterprises can integrate their Business
-                        Central with Power BI to drive effective reporting
-                        strategies and avail of required key analytics to
-                        strengthen their decision-making.
-                      </p>
+                      <p>Business Central is an all-in-one solution for all your business requirements. Enterprises can manage their entire practices including sales, finance, customers, manufacturing, supply chain, project operations, <Link href="/products/dynamics-365-human-resources/">human resources</Link>, and reporting & analytics.</p>
+                      <p>Since Business Central is quite flexible and thereby, can be integrated with any of Microsoft's business applications as well as with your existing system configurations. Thus, if your requirement goes for advanced reporting capabilities, then <Link href="/products/microsoft-power-bi/">Power BI</Link> is the high-end solution. You can <a href="https://www.dynamicssquare.com/blog/an-introduction-to-microsoft-power-bi/">integrate Business Central with Power BI</a> to drive effective reporting strategies and avail of required key analytics to strengthen your decision-making.</p>
                     </div>
                   </div>
                 </div>

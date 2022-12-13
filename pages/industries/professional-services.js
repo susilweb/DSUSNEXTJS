@@ -6,7 +6,7 @@ import "swiper/css";
 import "swiper/css/free-mode";
 import "swiper/css/pagination";
 import { Autoplay, FreeMode, Pagination } from "swiper";
-const Startup = () => {
+const Professional = () => {
   const [isOpen, setOpen] = useState(false);
   const [open, setsOpen] = useState(false);
   return (
@@ -815,4 +815,4 @@ const Startup = () => {
   );
 };
 
-export default Startup;
+export default Professional;

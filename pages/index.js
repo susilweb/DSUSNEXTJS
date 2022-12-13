@@ -1,11 +1,11 @@
-import Head from 'next/head';
-import Image from 'next/image';
-import Script from 'next/script';
+import Head from "next/head";
+import Image from "next/image";
+import Script from "next/script";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
-import { Pagination,Autoplay,FreeMode } from "swiper";
-import Link from 'next/link';
+import { Pagination, Autoplay, FreeMode } from "swiper";
+import Link from "next/link";
 
 export default function Home() {
   // const addJsonLd = () => {
@@ -34,9 +34,9 @@ export default function Home() {
   //   }
   // }
   return (
-   <>
-   <Head>
-   <title>
+    <>
+      <Head>
+        <title>
           Microsoft Dynamics Partner | CRM & ERP Solutions | Dynamics Square
         </title>
         <meta
@@ -46,15 +46,29 @@ export default function Home() {
         <link rel="canonical" href="https://www.dynamicssquare.com/" />
         <meta property="og:title" content="Dynamics Square is" />
         <meta name="og:description" content="Dynamics Square is" />
-        <meta property="og:url" content="https://www.dynamicssquare.com/img/about.jpg" />
-        <meta property="og:image" content="https://www.dynamicssquare.com/img/about.jpg" />
+        <meta
+          property="og:url"
+          content="https://www.dynamicssquare.com/img/about.jpg"
+        />
+        <meta
+          property="og:image"
+          content="https://www.dynamicssquare.com/img/about.jpg"
+        />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Microsoft Dynamics 365 Partner Canada| Dynamics Square" />
-        <meta name="twitter:description" content="Dynamics Square is CA&#039;s leading Gold Microsoft Dynamics 365 Partner helping businesses to achieve desired results with Dynamics 365 apps and services." />
-        <meta name="twitter:image" content="https://www.dynamicssquare.com/img/about.jpg" />
-
+        <meta
+          name="twitter:title"
+          content="Microsoft Dynamics 365 Partner Canada| Dynamics Square"
+        />
+        <meta
+          name="twitter:description"
+          content="Dynamics Square is USA&#039;s leading Gold Microsoft Dynamics 365 Partner helping businesses to achieve desired results with Dynamics 365 apps and services."
+        />
+        <meta
+          name="twitter:image"
+          content="https://www.dynamicssquare.com/img/about.jpg"
+        />
       </Head>
-         
+
       <section id="hero" className="hero hero-1">
         <div className="container">
           <div className="row">
@@ -69,13 +83,12 @@ export default function Home() {
               <div>
                 <div className="text-center text-lg-start btn-welcome">
                   <Link href="#exampleModal">
-                  <a
-                    data-bs-toggle="modal"
-                 
-                    className="btn-get-started scrollto"
-                  >
-                    <span>Talk to an Expert </span>
-                  </a>
+                    <a
+                      data-bs-toggle="modal"
+                      className="btn-get-started scrollto"
+                    >
+                      <span>Talk to an Expert </span>
+                    </a>
                   </Link>
                 </div>
                 <div className="bnner_inline_images">
@@ -100,29 +113,26 @@ export default function Home() {
                   <li>
                     <div className="list-n-wrp">
                       <Link href="/products/dynamics-365-business-central/">
-                      <a>
-                        <img
-                          src="/img/business-center-logo.svg"
-                          alt="business-center-logo"
-                        />
-                        <span>
-                          Business <br />
-                          Central
-                        </span>
-                      </a>
+                        <a>
+                          <img
+                            src="/img/business-center-logo.svg"
+                            alt="business-center-logo"
+                          />
+                          <span>
+                            Business <br />
+                            Central
+                          </span>
+                        </a>
                       </Link>
                     </div>
                   </li>
                   <li>
                     <div className="list-n-wrp">
                       <Link href="/products/microsoft-azure/">
-                      <a>
-                        <img
-                          src="/img/azur-icons.svg"
-                          alt="azur-icons"
-                        />
-                        <span>Azure</span>
-                      </a>
+                        <a>
+                          <img src="/img/azur-icons.svg" alt="azur-icons" />
+                          <span>Azure</span>
+                        </a>
                       </Link>
                     </div>
                   </li>
@@ -130,148 +140,142 @@ export default function Home() {
                 <ul className="list-n fist-m-2">
                   <li>
                     <div className="list-n-wrp">
-                    <Link href="/products/microsoft-power-apps/">
-                    <a>
-                        <img
-                          src="/img/Powerapps_power-apps.svg"
-                          alt="Powerapps_power-apps"
-                        />
-                        <span>
-                          Power
-                          <br /> Apps
-                        </span>
-                      </a>
-                    </Link>
+                      <Link href="/products/microsoft-power-apps/">
+                        <a>
+                          <img
+                            src="/img/Powerapps_power-apps.svg"
+                            alt="Powerapps_power-apps"
+                          />
+                          <span>
+                            Power
+                            <br /> Apps
+                          </span>
+                        </a>
+                      </Link>
                     </div>
                   </li>
                   <li>
                     <div className="list-n-wrp">
-                    <Link href="/products/microsoft-dynamics-365-finance/">
-                    <a>
-                        <img
-                          src="/img/finace-icons.svg"
-                          alt="finace-icons"
-                        />
-                        <span>Finance</span>
-                      </a>
-                    </Link>
+                      <Link href="/products/microsoft-dynamics-365-finance/">
+                        <a>
+                          <img src="/img/finace-icons.svg" alt="finace-icons" />
+                          <span>Finance</span>
+                        </a>
+                      </Link>
                     </div>
                   </li>
                   <li>
                     <div className="list-n-wrp">
-                    <Link href="/products/microsoft-dynamics-365-customer-service/">
-                    <a>
-                        <img
-                          src="/img/customer-service-icons.svg"
-                          alt="customer-service-icons"
-                        />
-                        <span>
-                          Customer
-                          <br /> Service
-                        </span>
-                      </a>
-                    </Link>
+                      <Link href="/products/microsoft-dynamics-365-customer-service/">
+                        <a>
+                          <img
+                            src="/img/customer-service-icons.svg"
+                            alt="customer-service-icons"
+                          />
+                          <span>
+                            Customer
+                            <br /> Service
+                          </span>
+                        </a>
+                      </Link>
                     </div>
                   </li>
                 </ul>
                 <ul className="list-n  fist-m-3">
                   <li>
                     <div className="list-n-wrp">
-                    <Link href="/products/dynamics-365-supply-chain-management/">
-                    <a>
-                        <img
-                          src="/img/supplychain-logo.svg"
-                          alt="supplychain-logo"
-                        />
-                        <span>
-                          Supply
-                          <br />
-                          Chain
-                        </span>
-                      </a>
-                    </Link>
+                      <Link href="/products/dynamics-365-supply-chain-management/">
+                        <a>
+                          <img
+                            src="/img/supplychain-logo.svg"
+                            alt="supplychain-logo"
+                          />
+                          <span>
+                            Supply
+                            <br />
+                            Chain
+                          </span>
+                        </a>
+                      </Link>
                     </div>
                   </li>
                   <li className="list-n-wrp-size">
                     <div className="list-n-wrp">
-                    <Link href="/products/microsoft-dynamics-365/">
-                    <a>
-                        <img
-                          src="/img/ds-365.png"
-                          alt="Microsoft Dynamics 365 Partner"
-                        />
-                      </a>
-                    </Link>
+                      <Link href="/products/microsoft-dynamics-365/">
+                        <a>
+                          <img
+                            src="/img/ds-365.png"
+                            alt="Microsoft Dynamics 365 Partner"
+                          />
+                        </a>
+                      </Link>
                     </div>
                   </li>
                   <li>
                     <div className="list-n-wrp">
-                    <Link  href="/products/microsoft-dynamics-365-field-service/">
-                    <a>
-                        <img
-                          src="/img/feald-service-logo.svg"
-                          alt="feald-service-logo"
-                        />
-                        <span>
-                          Field <br /> Service
-                        </span>
-                      </a>
-                    </Link>
+                      <Link href="/products/microsoft-dynamics-365-field-service/">
+                        <a>
+                          <img
+                            src="/img/feald-service-logo.svg"
+                            alt="feald-service-logo"
+                          />
+                          <span>
+                            Field <br /> Service
+                          </span>
+                        </a>
+                      </Link>
                     </div>
                   </li>
                 </ul>
                 <ul className="list-n  fist-m-2">
                   <li>
                     <div className="list-n-wrp">
-                    <Link href="/products/microsoft-power-bi/">
-                    <a>
-                        <img
-                          src="/img/powerbilogo.png"
-                          alt="powerbilogo"
-                        />
-                        <span>Power BI</span>
-                      </a>
-                    </Link>
+                      <Link href="/products/microsoft-power-bi/">
+                        <a>
+                          <img src="/img/powerbilogo.png" alt="powerbilogo" />
+                          <span>Power BI</span>
+                        </a>
+                      </Link>
                     </div>
                   </li>
                   <li>
                     <div className="list-n-wrp">
-                    <Link href="/products/microsoft-dynamics-365-marketing/">
-                      <a>
-                        <img src="/img/marketing.svg" alt="marketing" />
-                        <span>Marketing</span>
-                      </a>
-                    </Link>
+                      <Link href="/products/microsoft-dynamics-365-marketing/">
+                        <a>
+                          <img src="/img/marketing.svg" alt="marketing" />
+                          <span>Marketing</span>
+                        </a>
+                      </Link>
                     </div>
                   </li>
                   <li>
                     <div className="list-n-wrp">
-                    <Link href="/products/microsoft-dynamics-365-sales/">
-                    <a>
-                        <img
-                          src="/img/Sales_scalable.svg"
-                          alt="Sales_scalable"
-                        />
-                        <span>Sales</span>
-                      </a>
-                    </Link>
+                      <Link href="/products/microsoft-dynamics-365-sales/">
+                        <a>
+                          <img
+                            src="/img/Sales_scalable.svg"
+                            alt="Sales_scalable"
+                          />
+                          <span>Sales</span>
+                        </a>
+                      </Link>
                     </div>
                   </li>
                 </ul>
                 <ul className="list-n fist-m">
                   <li>
                     <div className="list-n-wrp">
-                    <Link href="/products/dynamics-365-human-resources/">
-                    <a>
-                        <img
-                          src="/img/human-resource.svg"
-                          alt="human-resource"
-                        />
-                        <span>
-                          Human <br /> Resources
-                        </span>
-                      </a>
-                    </Link>
+                      <Link href="/products/dynamics-365-human-resources/">
+                        <a>
+                          <img
+                            src="/img/human-resource.svg"
+                            alt="human-resource"
+                          />
+                          <span>
+                            Human <br /> Resources
+                          </span>
+                        </a>
+                      </Link>
                     </div>
                   </li>
                 </ul>
@@ -314,15 +318,11 @@ export default function Home() {
                   practices, and drive effective customer engagement with
                   Business Central.
                 </p>
-                <Link  href="/products/dynamics-365-business-central/">
-                <a
-                 
-                 className="read-more"
-               >
-                 <span>Learn More...</span>
-               </a>
+                <Link href="/products/dynamics-365-business-central/">
+                  <a className="read-more">
+                    <span>Learn More...</span>
+                  </a>
                 </Link>
-               
               </div>
             </div>
             <div className="col-lg-4 col-md-6">
@@ -345,13 +345,10 @@ export default function Home() {
                   global financial complexity.
                 </p>
                 <Link href="/products/microsoft-dynamics-365-finance/">
-                <a             
-                  className="read-more"
-                >
-                  <span>Learn More...</span>
-                </a>
+                  <a className="read-more">
+                    <span>Learn More...</span>
+                  </a>
                 </Link>
-               
               </div>
             </div>
             <div className="col-lg-4 col-md-6">
@@ -373,12 +370,10 @@ export default function Home() {
                   through highly customized and integrated Dynamics 365 Supply
                   Chain Solutions.
                 </p>
-                <Link  href="/products/dynamics-365-supply-chain-management/">
-                <a 
-                 className="read-more"
-               >
-                 <span>Learn More...</span>
-               </a>
+                <Link href="/products/dynamics-365-supply-chain-management/">
+                  <a className="read-more">
+                    <span>Learn More...</span>
+                  </a>
                 </Link>
               </div>
             </div>
@@ -405,13 +400,10 @@ export default function Home() {
                   Predict & manage your sales pipeline with real-time AI
                   insights and close deals faster.
                 </p>
-                <Link  href="/products/microsoft-dynamics-365-sales/">
-                <a
-                 
-                 className="read-more"
-               >
-                 <span>Learn More...</span>
-               </a>
+                <Link href="/products/microsoft-dynamics-365-sales/">
+                  <a className="read-more">
+                    <span>Learn More...</span>
+                  </a>
                 </Link>
               </div>
             </div>
@@ -439,9 +431,9 @@ export default function Home() {
                   impacting productivity.
                 </p>
                 <Link href="/products/microsoft-power-bi/">
-                <a  className="read-more">
-                  <span>Learn More...</span>
-                </a>
+                  <a className="read-more">
+                    <span>Learn More...</span>
+                  </a>
                 </Link>
               </div>
             </div>
@@ -467,13 +459,10 @@ export default function Home() {
                   data-exchanging practices over a secured network. Seamlessly
                   connect your devices to ensure smoother data transformation.
                 </p>
-                <Link  href="/products/azure-iot-internet-of-things/">
-                <a
-                 
-                 className="read-more"
-               >
-                 <span>Learn More...</span>
-               </a>
+                <Link href="/products/azure-iot-internet-of-things/">
+                  <a className="read-more">
+                    <span>Learn More...</span>
+                  </a>
                 </Link>
               </div>
             </div>
@@ -513,14 +502,11 @@ export default function Home() {
                     business toward a productive and efficient route through
                     Microsoft Dynamics solutions.
                   </p>
-                  <Link   href="/industries/startups/">
-                  <a
-                  
-                  className="boxshadow kallyas-button kallyas-button-nn"
-                >
-                  Learn More
-                </a>
-                </Link>
+                  <Link href="/industries/startups/">
+                    <a className="boxshadow kallyas-button kallyas-button-nn">
+                      Learn More
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -545,13 +531,10 @@ export default function Home() {
                     practices across your non-profit hub.
                   </p>
                   <Link href="/industries/microsoft-cloud-for-nonprofit/">
-                  <a
-                    
-                    className="boxshadow kallyas-button kallyas-button-nn"
-                  >
-                    Learn More
-                  </a>
-                </Link>
+                    <a className="boxshadow kallyas-button kallyas-button-nn">
+                      Learn More
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -575,15 +558,11 @@ export default function Home() {
                     to ensure seamless customer fulfillment, enable secure
                     transactions, and meet demands.
                   </p>
-                  <Link  href="/industries/ecommerce/">
-                  <a
-                   
-                   className="boxshadow kallyas-button kallyas-button-nn"
-                 >
-                   Learn More
-                 </a>
-                </Link>
-                 
+                  <Link href="/industries/ecommerce/">
+                    <a className="boxshadow kallyas-button kallyas-button-nn">
+                      Learn More
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -607,14 +586,11 @@ export default function Home() {
                     throughout your enterprise by implementing MS Dynamics
                     solutions for your industry.
                   </p>
-                  <Link  href="/industries/microsoft-cloud-for-manufacturing/">
-                  <a
-                   
-                   className="boxshadow kallyas-button kallyas-button-nn"
-                 >
-                   Learn More
-                 </a>
-                </Link>
+                  <Link href="/industries/microsoft-cloud-for-manufacturing/">
+                    <a className="boxshadow kallyas-button kallyas-button-nn">
+                      Learn More
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -639,14 +615,10 @@ export default function Home() {
                     context to maximize outcomes.
                   </p>
                   <Link href="/industries/professional-services/">
-                  <a
-                    
-                    className="boxshadow kallyas-button kallyas-button-nn"
-                  >
-                    Learn More
-                  </a>
-                </Link>
-                  
+                    <a className="boxshadow kallyas-button kallyas-button-nn">
+                      Learn More
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -671,10 +643,10 @@ export default function Home() {
                     food & beverages industry.
                   </p>
                   <Link href="/industries/food-and-beverages/">
-                  <a className="boxshadow kallyas-button kallyas-button-nn">
-                    Learn More
-                  </a>
-                </Link>
+                    <a className="boxshadow kallyas-button kallyas-button-nn">
+                      Learn More
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -699,10 +671,12 @@ export default function Home() {
 
           <div className="row">
             <div className="col-lg-6 aos-init align-self-center">
-              <img
+              <Image
                 src="/img/system-health-check.png"
                 className="system-health-check"
                 alt="Dynamics 365 System Health Check"
+                width={553}
+                height={531}
               />
             </div>
             <div className="col-lg-6 pt-4 pt-lg-0 content align-self-center">
@@ -718,9 +692,9 @@ export default function Home() {
                       Evaluating your current business needs and future
                       considerations, we drive a system check to analyze your
                       concurrent system{" "}
-                      <a href="/our-services/dynamics-365-upgrade-services/">
+                      <Link href="/our-services/dynamics-365-upgrade-services/">
                         upgrading
-                      </a>{" "}
+                      </Link>{" "}
                       needs while supporting your future potentials.
                     </p>
                   </div>
@@ -734,7 +708,7 @@ export default function Home() {
                   <div className="cintent-right cintent-right-001">
                     <p>
                       Our experienced{" "}
-                      <a href="/">Dynamics 365 consultants</a> can
+                      <Link href="/">Dynamics 365 consultants</Link> can
                       diagnose your system to identify your actual system
                       upgrading needs and suggest you the best possible solution
                       suited to your customized business needs.
@@ -753,24 +727,21 @@ export default function Home() {
                       whether you want to go ahead with new system
                       configurations or would love to stay with your existing
                       one. Further, you can schedule{" "}
-                      <a href="/products/microsoft-dynamics-365/">
+                      <Link href="/products/microsoft-dynamics-365/">
                         Microsoft Dynamics 365
-                      </a>{" "}
+                      </Link>{" "}
                       Demo to upgrade your system capabilities.
                     </p>
                   </div>
                 </div>
               </div>
               <br />
-              <a
-                href="/free-dynamics-365-system-health-check/"
-                className="read-more"
-                data-aos="fade-left"
-                data-aos-delay="500"
-              >
-                Get System Health Check
-                <i className="bi bi-long-arrow-right"></i>
-              </a>
+              <Link href="/free-dynamics-365-system-health-check/">
+                <a className="read-more">
+                  Get System Health Check
+                  <i className="bi bi-long-arrow-right"></i>
+                </a>
+              </Link>
             </div>
           </div>
         </div>
@@ -881,10 +852,7 @@ export default function Home() {
                               alt=""
                             />
                             <div className="imginner">
-                              <img
-                                src="/img/Icon metro-quote.png"
-                                alt=""
-                              />
+                              <img src="/img/Icon metro-quote.png" alt="" />
                             </div>
                             <p>
                               We selected them because their communication is
@@ -911,10 +879,7 @@ export default function Home() {
                               alt="Spectra-Aluminum-logo-new"
                             />
                             <div className="imginner">
-                              <img
-                                src="/img/Icon metro-quote.png"
-                                alt=""
-                              />
+                              <img src="/img/Icon metro-quote.png" alt="" />
                             </div>
                             <p>
                               The team at Dynamics Square are very dedicated,
@@ -960,10 +925,12 @@ export default function Home() {
             <div className="col-lg-6 align-self-center">
               <div className="testimonials-bg">
                 <div className="testimonials-rigt-iner">
-                  <img
+                  <Image
                     src="/img/testmonial-side-pic.png"
                     className="testmonial-side-pic"
-                    alt=""
+                    alt="/testmonial-side-pic"
+                    width={802}
+                    height={764}
                   />
                 </div>
               </div>
@@ -1066,9 +1033,11 @@ export default function Home() {
         <div className="container" data-aos="fade-up">
           <div className="row  gy-4">
             <div className="col-lg-5 align-self-center">
-              <img
+              <Image
                 src="/img/case-study-side-banner.png"
                 alt="case-study-side-banner"
+                width={640}
+                height={592}
               />
             </div>
             <div className="col-lg-1 align-self-center"></div>
@@ -1114,12 +1083,9 @@ export default function Home() {
                         </div>
                       </div> */}
                       <div className="case-button">
-                        <a
-                          href="/case-studies/dmic/"
-                          className="btn btn-md btn-custom-1"
-                        >
-                          Read More
-                        </a>
+                        <Link href="/case-studies/dmic/">
+                          <a className="btn btn-md btn-custom-1">Read More</a>
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -1147,12 +1113,9 @@ export default function Home() {
                         </div>
                       </div> */}
                       <div className="case-button">
-                        <a
-                          href="/case-studies/spectra/"
-                          className="btn btn-md btn-custom-1"
-                        >
-                          Read More
-                        </a>
+                        <Link href="/case-studies/spectra/">
+                          <a className="btn btn-md btn-custom-1">Read More</a>
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -1180,12 +1143,9 @@ export default function Home() {
                         </div>
                       </div> */}
                       <div className="case-button">
-                        <a
-                          href="/case-studies/shimco/"
-                          className="btn btn-md btn-custom-1"
-                        >
-                          Read More
-                        </a>
+                        <Link href="/case-studies/shimco/">
+                          <a className="btn btn-md btn-custom-1">Read More</a>
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -1195,6 +1155,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-   </>
-  )
+    </>
+  );
 }

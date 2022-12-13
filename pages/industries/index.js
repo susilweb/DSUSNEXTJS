@@ -1,5 +1,6 @@
-
-import Head from 'next/head'
+import Head from "next/head";
+import Link from "next/link";
+import Image from "next/image";
 const IndustriesList = () => {
   return (
     <>
@@ -11,9 +12,8 @@ const IndustriesList = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/industries/"
+          href="https://www.dynamicssquare.com/industries/"
         />
-        
       </Head>
       <section className="Solution-banner hero-1 hero">
         <div className="container">
@@ -46,12 +46,11 @@ const IndustriesList = () => {
               <div className="location-list-wrper">
                 <h3>Startup</h3>
                 <div className="text-lg-center">
-                  <a
-                    href="/industries/startup/"
-                    className="btn-get-started btn-sm scrollto"
-                  >
-                    <span>View More</span>
-                  </a>
+                  <Link href="/industries/startups/">
+                    <a className="btn-get-started btn-sm scrollto">
+                      <span>View More</span>
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -59,12 +58,11 @@ const IndustriesList = () => {
               <div className="location-list-wrper">
                 <h3>Not for Profit</h3>
                 <div className="text-lg-center">
-                  <a
-                    href="/industries/microsoft-cloud-for-nonprofit/"
-                    className="btn-get-started btn-sm scrollto"
-                  >
-                    <span>View More</span>
-                  </a>
+                  <Link href="/industries/microsoft-cloud-for-nonprofit/">
+                    <a className="btn-get-started btn-sm scrollto">
+                      <span>View More</span>
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -73,12 +71,11 @@ const IndustriesList = () => {
               <div className="location-list-wrper">
                 <h3>E-Commerce</h3>
                 <div className="text-lg-center">
-                  <a
-                    href="/industries/ecommerce/"
-                    className="btn-get-started btn-sm scrollto"
-                  >
-                    <span>View More</span>
-                  </a>
+                  <Link href="/industries/ecommerce/">
+                    <a className="btn-get-started btn-sm scrollto">
+                      <span>View More</span>
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -86,12 +83,11 @@ const IndustriesList = () => {
               <div className="location-list-wrper">
                 <h3>Manufacturing & Distribution</h3>
                 <div className="text-lg-center">
-                  <a
-                    href="/industries/microsoft-cloud-for-manufacturing/"
-                    className="btn-get-started btn-sm scrollto"
-                  >
-                    <span>View More</span>
-                  </a>
+                  <Link href="/industries/microsoft-cloud-for-manufacturing/">
+                    <a className="btn-get-started btn-sm scrollto">
+                      <span>View More</span>
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -99,12 +95,11 @@ const IndustriesList = () => {
               <div className="location-list-wrper">
                 <h3>Professional Services</h3>
                 <div className="text-lg-center">
-                  <a
-                    href="/industries/professional-services/"
-                    className="btn-get-started btn-sm scrollto"
-                  >
-                    <span>Know More</span>
-                  </a>
+                  <Link href="/industries/professional-services/">
+                    <a className="btn-get-started btn-sm scrollto">
+                      <span>Know More</span>
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -112,12 +107,11 @@ const IndustriesList = () => {
               <div className="location-list-wrper">
                 <h3>Food & Beverages</h3>
                 <div className="text-lg-center">
-                  <a
-                    href="/industries/food-and-beverages/"
-                    className="btn-get-started btn-sm scrollto"
-                  >
-                    <span>View More</span>
-                  </a>
+                  <Link href="/industries/food-and-beverages/">
+                    <a className="btn-get-started btn-sm scrollto">
+                      <span>View More</span>
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>

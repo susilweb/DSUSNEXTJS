@@ -11,10 +11,10 @@ const Sales = () => {
   return (
     <>
       <Head>
-        <title>Microsoft Dynamics 365 Sales | D365 Sales ERP Solution</title>
+        <title>Microsoft Dynamics 365 for Sales | A Modern CRM Solution</title>
         <meta
           name="description"
-          content="Attract & engage potential customer base and connect & serve them in real-time with omnichannel efficiency. With Dynamics 365 for Sales, uplift your sales capabilities, improve your sales turnover, and drive profitability. "
+          content="Attract & engage potential customer base and connect & serve them in real-time with omnichannel efficiency. With Dynamics 365 for Sales, uplift your sales capabilities, improve your sales turnover, and drive profitability."
         />
         <link
           rel="canonical"

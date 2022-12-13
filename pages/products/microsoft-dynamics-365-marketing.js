@@ -1,12 +1,13 @@
-import Head from 'next/head'
+import Head from "next/head";
+import Image from "next/image";
+import Script from "next/script";
+import Link from "next/link";
 
 const Marketing = () => {
   return (
     <>
       <Head>
-        <title>
-        Microsoft Dynamics 365 Marketing | Dynamics Square
-        </title>
+        <title>Microsoft Dynamics 365 Marketing | Dynamics Square</title>
         <meta
           name="description"
           content="Microsoft Dynamics 365 Marketing is a marketing automation application that allows you to transform leads into fruitful relationships in a more efficient and profitable way."
@@ -15,33 +16,32 @@ const Marketing = () => {
           rel="canonical"
           href="https://www.dynamicssquare.com/products/microsoft-dynamics-365-marketing/"
         />
-        
       </Head>
       <section className="Solution-banner hero-1 hero">
         <div className="container">
           <div className="row">
             <div className="col-lg-5 mobile-1 align-self-center">
-              <h1>
-              Dynamics 365 Marketing
-              </h1>
+              <h1>Dynamics 365 Marketing</h1>
               <p>Automate your marketing to increase your conversion rates</p>
               <div>
                 <div className="text-center text-lg-start align-self-center">
-                  <a
-                    data-bs-toggle="modal"
-                    href="#exampleModal"
-                    className="btn-get-started scrollto"
-                  >
-                    <span>Schedule a Demo</span>
-                  </a>
+                  <Link href="#exampleModal">
+                    <a
+                      data-bs-toggle="modal"
+                      className="btn-get-started scrollto"
+                    >
+                      <span>Schedule a Demo</span>
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
             <div className="col-lg-1"></div>
             <div className="col-lg-6 align-self-center">
-              <img
+              <Image
                 src="/img/marketing-banners.png"
                 alt="Dynamics 365 Marketing"
+                width={808} height={508}
               />
             </div>
           </div>
@@ -49,20 +49,28 @@ const Marketing = () => {
       </section>
       <section>
         <div className="container">
-              <div className="row justify-content-center">
-                  <div className="col-lg-8 col-md-8">
-                      <header className="section-header">
-                      <h2> What Is Dynamics 365 Marketing?</h2>
-                      <p>Dynamics 365 Marketing is a marketing automation application that allows you to transform leads into fruitful relationships in a more efficient and profitable way. With Dynamics 365 Marketing you will be able to tailor the customer journey to your needs and transform it into a unique experience until the sale is achieved, and even beyond.</p> <br/>
-                      </header>
-                </div>
+          <div className="row justify-content-center">
+            <div className="col-lg-8 col-md-8">
+              <header className="section-header">
+                <h2> What Is Dynamics 365 Marketing?</h2>
+                <p>
+                  Dynamics 365 Marketing is a marketing automation application
+                  that allows you to transform leads into fruitful relationships
+                  in a more efficient and profitable way. With Dynamics 365
+                  Marketing you will be able to tailor the customer journey to
+                  your needs and transform it into a unique experience until the
+                  sale is achieved, and even beyond.
+                </p>{" "}
+                <br />
+              </header>
+            </div>
           </div>
           <div className="row justify-content-center">
-                  <div className="col-lg-8 col-md-8">
-                      <header className="section-header">
-                      <h2>Dynamics 365 Marketing Features</h2>
-                      </header>
-                </div>
+            <div className="col-lg-8 col-md-8">
+              <header className="section-header">
+                <h2>Dynamics 365 Marketing Features</h2>
+              </header>
+            </div>
           </div>
           <div className="row p-lg-6">
             <div className="col-lg-6">
@@ -138,7 +146,11 @@ const Marketing = () => {
                         The platform offers a customized form of communication
                         for the employees. Different customers need different
                         marketing strategies depending upon the requirements and
-                        the product or service that is being marketed. <a href="/products/microsoft-dynamics-365/">Dynamics 365</a> allows the users to customize such communication or
+                        the product or service that is being marketed.{" "}
+                        <Link href="/products/microsoft-dynamics-365/">
+                          Dynamics 365
+                        </Link>{" "}
+                        allows the users to customize such communication or
                         marketing strategy well by carefully segmenting the
                         customers in different segments according to diverse
                         factors.
@@ -467,7 +479,6 @@ const Marketing = () => {
         </div>
       </section>
 
-   
       <section id="pricing" className="pricing">
         <div className="container">
           <header className="section-header">
@@ -476,47 +487,51 @@ const Marketing = () => {
           <div className="row gy-4 p-9 justify-content-center">
             <div className="col-lg-5 col-md-5">
               <div className="box box-22">
-                <h3>
-                Dynamics 365 Marketing
-                </h3>
-                <p><b>For organizations without any other Dynamics 365 application</b></p>
+                <h3>Dynamics 365 Marketing</h3>
+                <p>
+                  <b>
+                    For organizations without any other Dynamics 365 application
+                  </b>
+                </p>
                 <div className="price">
                   <sup>$</sup>1,500<span>Per Tenant/Month</span>
                 </div>
                 <ul>
                   <li className="text-center">
-                  Includes 10,000 contacts, 100,000 interactions, 1,000 SMS Messages<sup>2</sup>
+                    Includes 10,000 contacts, 100,000 interactions, 1,000 SMS
+                    Messages<sup>2</sup>
                   </li>
                 </ul>
               </div>
             </div>
             <div className="col-lg-5 col-md-5">
               <div className="box box-22">
-                <h3>
-                Dynamics 365 Marketing Attach
-                </h3>
-                <p><b>For organizations with a qualifying Dynamics 365 application<sup>3</sup></b></p>
+                <h3>Dynamics 365 Marketing Attach</h3>
+                <p>
+                  <b>
+                    For organizations with a qualifying Dynamics 365 application
+                    <sup>3</sup>
+                  </b>
+                </p>
                 <div className="price">
                   <sup>$</sup>750<span>Per Tenant/Month</span>
                 </div>
                 <ul>
                   <li className="text-center">
-                  Includes 10,000 contacts, 100,000 interactions, 1,000 SMS Messages
+                    Includes 10,000 contacts, 100,000 interactions, 1,000 SMS
+                    Messages
                   </li>
                 </ul>
               </div>
             </div>
-            
 
             <div className="col-lg-12 col-md-12">
               <div className="price-btn price-btnasd d-flex justify-content-center">
-                <a
-                  data-bs-toggle="modal"
-                  href="#exampleModal"
-                  className="btn-get-red"
-                >
-                  <span>Get Started Now</span>
-                </a>
+                <Link href="#exampleModal">
+                  <a data-bs-toggle="modal" className="btn-get-red">
+                    <span>Get Started Now</span>
+                  </a>
+                </Link>
               </div>
             </div>
           </div>
@@ -527,10 +542,11 @@ const Marketing = () => {
         <div className="container">
           <div className="row">
             <div className="col-lg-5 m--t align-self-center">
-            <div className="wy-sultion-left-head">
-              <h2>
-                How does Marketing help to Elevate Your marketing Capabilities?
-              </h2>
+              <div className="wy-sultion-left-head">
+                <h2>
+                  How does Marketing help to Elevate Your marketing
+                  Capabilities?
+                </h2>
               </div>
             </div>
             <div className="col-lg-7">
@@ -604,16 +620,15 @@ const Marketing = () => {
         </div>
       </section>
 
-      
-
       <section className="busine_service_bottom custom07">
         <div className="container">
           <div className="row">
             <div className="col-lg-6 align-self-center">
               <div className="busine_service_bottom-left custom012">
-                <img
+                <Image
                   src="/img/microosoft-partner.png"
                   alt="Microosoft Partner"
+                  width={625} height={651}
                 />
               </div>
             </div>

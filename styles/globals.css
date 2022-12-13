@@ -1124,9 +1124,9 @@ border:none
 }
 
 /*button*/
-.btn-custom-1 {
+.btn-custom-1,.case-button .btn-custom-1{
   margin-top: 30px;
-  padding: 0.8rem 1.5rem;
+  padding: 0.6rem 1.5rem;
   border-radius: 5px;
   color: #fff;
   background:var(--color-red);
@@ -7565,7 +7565,7 @@ border:none
   padding: 0.8rem 1.5rem;
 }
 .slider-sp-wrpp{
-  background: url(/assets/img/final-frame-1.png) no-repeat center top;
+  background: url(/img/final-frame-1.png) no-repeat center top;
   /* padding: 15px;
     width: 100%;
     height: 100vh;
@@ -7581,7 +7581,7 @@ border:none
 .slider-sp-wrpp:before{
   /* content: "";
   width: 500px;
-  background: url(/assets/img/final-frame-1.png);
+  background: url(/img/final-frame-1.png);
   background-size: 100%;
   background-repeat: no-repeat;
   position: absolute;

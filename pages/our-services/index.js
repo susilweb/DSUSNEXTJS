@@ -9,7 +9,7 @@ const Inedex = () => {
           content="We deliver comprehensive Dynamics 365 services including consulting, training, upgrade and implementation of Microsoft Business Applications to grow your business fast." />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.ca/our-services/"
+          href="https://www.dynamicssquare.com/our-services/"
         />
         </Head>
         <section className="Solution-banner hero-1 hero">

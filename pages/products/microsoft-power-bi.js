@@ -43,18 +43,24 @@ const PowerBI = () => {
               </p>
               <div>
                 <div className="text-center text-lg-start">
-                  <Link    href="#exampleModal"><a
-                    data-bs-toggle="modal"
-                 
-                    className="btn-get-started scrollto"
-                  >
-                    <span>Schedule a Demo</span></a>
+                  <Link href="#exampleModal">
+                    <a
+                      data-bs-toggle="modal"
+                      className="btn-get-started scrollto"
+                    >
+                      <span>Schedule a Demo</span>
+                    </a>
                   </Link>
                 </div>
               </div>
             </div>
             <div className="col-lg-6 align-self-center">
-              <Image src="/img/Power-BI-1024x586.webp" alt="Microsoft Power BI" width={1024} height={586} />
+              <Image
+                src="/img/Power-BI-1024x586.webp"
+                alt="Microsoft Power BI"
+                width={1024}
+                height={586}
+              />
             </div>
           </div>
         </div>
@@ -298,18 +304,16 @@ const PowerBI = () => {
                       decisions.
                     </p>
                     <div className="button-call-ac">
-                      <Link  href="/guides/power-bi-guide-for-smb/"><a
-                       
-                        className="bt-red bt-red-a"
-                      >
-                        Read It Now</a>
+                      <Link href="/guides/power-bi-guide-for-smb/">
+                        <a className="bt-red bt-red-a">Read It Now</a>
                       </Link>
-                      <Link  href="#powerBIModals"><a
-                        data-bs-toggle="modal"
-                       
-                        className="bt-red-border bt-red-a"
-                      >
-                        Download as PDF</a>
+                      <Link href="#powerBIModals">
+                        <a
+                          data-bs-toggle="modal"
+                          className="bt-red-border bt-red-a"
+                        >
+                          Download as PDF
+                        </a>
                       </Link>
                     </div>
                   </div>
@@ -334,7 +338,8 @@ const PowerBI = () => {
                     src="/img/power-bi-side.png"
                     className="fix-im"
                     alt="Power BI Consultant UK"
-                    width={553} height={531}
+                    width={553}
+                    height={531}
                   />
                   <div className="video-ytube video-ytubes">
                     <div className="popup-btn popup-btns">
@@ -342,7 +347,12 @@ const PowerBI = () => {
                         <a onClick={() => setOpen(true)}>
                           <img src="/img/video-Power BI.png" />
                           <span className="cente-icns">
-                            <Image src="/img/play_icons.svg" alt="play_icons"   width={390} height={259}/>
+                            <Image
+                              src="/img/play_icons.svg"
+                              alt="play_icons"
+                              width={390}
+                              height={259}
+                            />
                           </span>
                         </a>
                       </Link>
@@ -392,7 +402,7 @@ const PowerBI = () => {
                   </p>
                   <div className="action-content">
                     <Link href="#exampleModal">
-                    <a  data-bs-toggle="modal">Get Started</a>
+                      <a data-bs-toggle="modal">Get Started</a>
                     </Link>
                   </div>
                 </div>
@@ -608,12 +618,10 @@ const PowerBI = () => {
 
             <div className="col-lg-12 col-md-12">
               <div className="price-btn price-btnasd d-flex justify-content-center">
-                <Link    href="#exampleModal"><a
-                  data-bs-toggle="modal"
-               
-                  className="btn-get-red"
-                >
-                  <span>Get Power Bi Now</span></a>
+                <Link href="#exampleModal">
+                  <a data-bs-toggle="modal" className="btn-get-red">
+                    <span>Get Power Bi Now</span>
+                  </a>
                 </Link>
               </div>
             </div>
@@ -632,12 +640,13 @@ const PowerBI = () => {
                   your business.
                 </p>
                 <div className="text-center m-o-t new-btn-nn">
-                  <Link   href="#exampleModal"><a
-                    data-bs-toggle="modal"
-                  
-                    className="btn-get-started scrollto"
-                  >
-                    <span>Get Started Now</span></a>
+                  <Link href="#exampleModal">
+                    <a
+                      data-bs-toggle="modal"
+                      className="btn-get-started scrollto"
+                    >
+                      <span>Get Started Now</span>
+                    </a>
                   </Link>
                 </div>
               </div>
@@ -983,7 +992,7 @@ const PowerBI = () => {
           </div>
         </div>
       </section>
-      
+
       <FormGuide />
     </>
   );
