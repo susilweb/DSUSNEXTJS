@@ -20,12 +20,11 @@ const WhyMigrade360a = () => {
               </h1>
               <div>
                 <div className="text-center text-lg-start">
-                  <Link
+                  <Link href="#exampleModal"><a
                     data-bs-toggle="modal"
-                    href="#exampleModal"
                     className="btn-get-started scrollto"
                   >
-                    <span>Schedule a Demo</span>
+                    <span>Schedule a Demo</span></a>
                   </Link>
                 </div>
               </div>
@@ -47,8 +46,8 @@ const WhyMigrade360a = () => {
               <header className="section-header">
                 <p>
                   <Link href="/products/microsoft-dynamics-365/">
-                    Microsoft Dynamics 365{" "}
-                  </Link>
+                    Microsoft Dynamics 365
+                  </Link>{" "}
                   empowers enterprises, of all dimensions, to scale-up their
                   productive capabilities through advanced integrations with{" "}
                   <Link href="/products/microsoft-power-bi/">Power BI</Link>
