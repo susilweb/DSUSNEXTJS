@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://dsusnextjs.vercel.app
-
-# Sitemaps
-Sitemap: https://dsusnextjs.vercel.app/sitemap.xml
