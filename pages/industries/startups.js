@@ -74,7 +74,7 @@ const Startup = () => {
         </section>
         <section>
           <div className="container">
-            <div class="row justify-content-center">
+            <div className="row justify-content-center">
               <div className="col-lg-9 col-md-9">
                 <header className="section-header">
                   <h2>
@@ -205,7 +205,7 @@ const Startup = () => {
           </div>
         </section>
         <section className="industry_service_bottoms">
-          <div class="row justify-content-center">
+          <div className="row justify-content-center">
             <div className="col-lg-9 col-md-9">
               <header className="section-header">
                 <h2>
@@ -456,7 +456,7 @@ const Startup = () => {
 
         <section className="industry-more-sec">
           <div className="container">
-            <div class="row justify-content-center">
+            <div className="row justify-content-center">
               <div className="col-lg-9 col-md-9">
                 <header className="section-header">
                   <h2>Explore Other Industries</h2>

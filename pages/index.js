@@ -36,12 +36,16 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>
-          Microsoft Dynamics Partner | CRM & ERP Solutions | Dynamics Square
+      <title>
+        USA's Trusted Microsoft Gold Partner | Dynamics Square
         </title>
         <meta
           name="description"
-          content="Dynamics Square is USA's leading Gold Microsoft Dynamics Partner helping businesses to leverage Dynamics 365 support, implementation, training and consulting services."
+          content="Dynamics Square is USA's leading Gold Microsoft Dynamics 365 Partner. Contact us at +1-281-899-0865 for implementation, training & consulting services."
+        />
+        <meta
+          name="robots"
+          content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
         />
         <link rel="canonical" href="https://www.dynamicssquare.com/" />
         <meta property="og:title" content="Dynamics Square is" />

@@ -559,7 +559,7 @@ const MicrosoftCloudForNonprofit = () => {
                       <SwiperSlide>
                         <div className="swiper-slide">
                           <div className="industries-list-more">
-                            <Link href="/industries//food-and-beverages/">
+                            <Link href="/industries/food-and-beverages/">
                               <a>
                                 <div className="img-wrp">
                                   <img
@@ -615,7 +615,6 @@ const MicrosoftCloudForNonprofit = () => {
                             <div className="industries-list-more">
                               <Link href="/industries/professional-services/">
                                 <a>
-                                  {" "}
                                   <div className="img-wrp">
                                     <img
                                       src="/img/proffesional-service.svg"
@@ -714,7 +713,7 @@ const MicrosoftCloudForNonprofit = () => {
               <div className="col-lg-6 align-self-center">
                 <img
                   src="/img/n/Microsoft-Cloud-For-Non-Profits-Banner.png"
-                  alt=""
+                  alt="Microsoft-Cloud-For-Non-Profits-Banner"
                 />
               </div>
             </div>

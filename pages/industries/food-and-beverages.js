@@ -70,7 +70,7 @@ const FoodBeverages = () => {
         </section>
         <section>
           <div className="container">
-            <div class="row justify-content-center">
+            <div className="row justify-content-center">
               <div className="col-lg-9 col-md-9">
                 <header className="section-header">
                   <h2>
@@ -201,7 +201,7 @@ const FoodBeverages = () => {
         </section>
         <section className="industry_service_bottoms">
           <div className="container">
-            <div class="row justify-content-center">
+            <div className="row justify-content-center">
               <div className="col-lg-9 col-md-9">
                 <header className="section-header">
                   <h2>
@@ -446,7 +446,7 @@ const FoodBeverages = () => {
 
         <section className="industry-more-sec">
           <div className="container">
-            <div class="row justify-content-center">
+            <div className="row justify-content-center">
               <div className="col-lg-9 col-md-9">
                 <header className="section-header">
                   <h2>Explore Other Industries</h2>
@@ -623,7 +623,7 @@ const FoodBeverages = () => {
 
         <section className="blogs-extra">
           <div className="container">
-            <div class="row justify-content-center">
+            <div className="row justify-content-center">
               <div className="col-lg-9 col-md-9">
                 <header className="section-header">
                   <h2>Explore Our Recent Blogs & Resources</h2>
