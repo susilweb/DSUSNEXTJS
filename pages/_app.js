@@ -27,7 +27,13 @@ function MyApp({ Component, pageProps }) {
       router.asPath =='/not-for-profit-fundrasing-engagenment/' ||
       router.asPath =='/email-ax-to-finance/' ||
       router.asPath =='/email-gp-to-bc/' ||
-      router.asPath =='/email-wms/' 
+      router.asPath =='/email-wms/' ||
+      router.asPath == '/thank-you/email-subscriber/' ||
+      router.asPath == '/subscribe-updates/' ||
+      router.asPath == '/support-dynamics-365/' ||
+      router.asPath == '/thank-you/' ||
+      router.asPath == '/thanks-webinar-registration/'
+      
   )  {
     return (
       <>

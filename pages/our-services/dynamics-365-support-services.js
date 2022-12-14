@@ -1,4 +1,7 @@
-import Head from 'next/head'
+import Head from 'next/head';
+import Image from 'next/image';
+import Script from 'next/script';
+import Link from 'next/link';
 
 const SupportServices = () => {
   return (
@@ -28,20 +31,21 @@ const SupportServices = () => {
               </p>
               <div>
                 <div className="text-center text-lg-start">
-                  <a
+                  <Link  href="#exampleModal"><a
                     data-bs-toggle="modal"
-                    href="#exampleModal"
+                   
                     className="btn-get-started scrollto"
                   >
-                    <span>Schedule a Demo</span>
-                  </a>
+                    <span>Schedule a Demo</span></a>
+                  </Link>
                 </div>
               </div>
             </div>
             <div className="col-lg-6 align-self-center">
-              <img
+              <Image
                 src="/img/support-service-banner.png"
                 alt="Microsoft Dynamics 365 Support"
+                width={805} height={473}
               />
             </div>
           </div>
@@ -62,7 +66,7 @@ const SupportServices = () => {
           <div className="row pad2xxx">
             <div className="col-lg-6 align-self-center">
               <div className="busine_service_bottom-left custom012">
-                <img src="/img/supper-img.png" alt="supper-img" />
+                <Image src="/img/supper-img.png" alt="supper-img" width={581} height={477} />
               </div>
             </div>
             <div className="col-lg-6 align-self-center">
@@ -73,14 +77,14 @@ const SupportServices = () => {
                 <p>Our Microsoft certified can help you to diagnose your support requirement and can provide proactive support to enable productive and scalable flow across your organizational structure. Through our dedicated support services, we can promptly identify your system issues and can resolve them with accuracy and reliability.</p>
               </div>
               <div className="custom-btn-new">
-                <a
+                <Link   href="#exampleModal"><a
                   aria-current="page"
                   className="btn-get-started scrollto active"
                   data-bs-toggle="modal"
-                  href="#exampleModal"
+                
                 >
-                  <span>Request a Demo</span>
-                </a>
+                  <span>Request a Demo</span></a>
+                </Link>
               </div>
             </div>
           </div>
@@ -96,7 +100,7 @@ const SupportServices = () => {
             <p>
               Drive innovative and strategic approach through your business
               premises with intelligent connected processes, data insights, and
-              adaptive <a href="/products/crm/">Dynamics 365 CRM</a> & <a href="/products/erp/">ERP solutions</a>.
+              adaptive <Link href="/products/crm/">Dynamics 365 CRM</Link> & <Link href="/products/erp/">ERP solutions</Link>.
             </p>
           </header>
           </div></div>
@@ -107,7 +111,7 @@ const SupportServices = () => {
                   Dynamics 365 Support Plans We Offer
                 </h3>
                 <p>
-                <a href="/">Dynamics Square</a> will handle every aspect of your Dynamics 365
+                <Link href="/">Dynamics Square</Link> will handle every aspect of your Dynamics 365
                   system from user support, training, customization, technical
                   consultancy to development work.
                 </p>
@@ -222,13 +226,13 @@ const SupportServices = () => {
                 <h3>Get Dynamics 365 Support Today!</h3>
                 <p>Discuss your Dynamics 365 support requirements to get the best advice from our Microsoft consultant.</p>
                 <div className="text-center m-o-t new-btn-nn">
-                  <a
+                  <Link     href="#exampleModal"><a
                     data-bs-toggle="modal"
-                    href="#exampleModal"
+               
                     className="btn-get-started scrollto"
                   >
-                    <span>Get Started Now</span>
-                  </a>
+                    <span>Get Started Now</span></a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -258,7 +262,7 @@ const SupportServices = () => {
                 <div className="style-grid-content">
                   <h3>Account Management</h3>
                   <p>
-                  Since Microsoft continuously comes up with regular updates and enhancements in their <a href="/products/microsoft-dynamics-365/">Dynamics 365 products</a>. Experts at Dynamics Square take care of your timely system updates and requirement enhancements. We seamlessly manage your Dynamics 365 account to ensure your system compatibility with the latest releases and updates fulfilling your core requirement and future changes.
+                  Since Microsoft continuously comes up with regular updates and enhancements in their <Link href="/products/microsoft-dynamics-365/">Dynamics 365 products</Link>. Experts at Dynamics Square take care of your timely system updates and requirement enhancements. We seamlessly manage your Dynamics 365 account to ensure your system compatibility with the latest releases and updates fulfilling your core requirement and future changes.
                   </p>
                 </div>
               </div>

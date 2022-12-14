@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import React, { useEffect } from 'react';
 import { useRouter } from 'next/router';
+import FooterHide from '../../components/FooterHide';
 const ThankYou = () => {
   // const router = useRouter();
   // useEffect(() => {
@@ -40,6 +41,7 @@ const ThankYou = () => {
           </div>
         </div>
       </section>
+      <FooterHide />
     </>
   );
 };

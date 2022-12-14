@@ -2,21 +2,23 @@ import Head from 'next/head';
 import Image from 'next/image';
 import Script from 'next/script';
 import Link from 'next/link';
-import Form from '../components/Form';
-const ScheduleDemoForm = () => {
+import FormSubsriber from '../components/FormSubsriber';
+import FooterHide from '../components/FooterHide';
+
+const SubscribeUpdates = () => {
   return (
     <>
       <Head>
-      <title>Schedule a Demo for Microsoft Dynamics 365 Applications</title>
-<meta name="description" content="Schedule a demo today to get a better understanding about how Microsoft Dynamics Business Applications works. Talk to our Dynamics 365 experts today."/>
-<link rel="canonical" href="https://www.dynamicssquare.com/schedule-a-demo/" />
+      <title>Subscribe Updates - Dynamics Square</title>
+<meta name="description" content="Subscribe Now For Latest Updates Stay Updated With upcoming insights, Offers and More."/>
+<link rel="canonical" href="https://www.dynamicssquare.com/subscribe-updates/" />
       </Head>
-      <section className="Solution-banner hero-1 hero hero-demo-form">
+      <section className="Solution-banner hero hero-demo-form">
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-lg-6 align-self-center text-center">
               <h1>
-              Schedule A Demo Today!
+              Subscribe Now For <br /> Latest Updates
               </h1>
               <div>
 
@@ -27,22 +29,24 @@ const ScheduleDemoForm = () => {
       </section>
 
          
-      <section className="custom-sed-demp-wraper">
+      <section className="custom-sed-demp-wraper"  style={{paddingBottom:'160px'}}>
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-lg-5 col-md-8  align-self-center">
            
               <div className="sedule-form">
-              <h3>Dynamics Square assists brands in deploying Microsoft Business Applications. Schedule a demo today.</h3>
-                <Form />
+              <h3>Stay Updated With upcoming insights, Offers and More</h3>
+                <FormSubsriber />
               </div>
+              
             </div>
           </div>
         </div>
       </section>
-      
+
+      <FooterHide />
     </>
   );
 };
 
-export default ScheduleDemoForm;
+export default SubscribeUpdates;
