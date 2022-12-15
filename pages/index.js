@@ -43,10 +43,6 @@ export default function Home() {
           name="description"
           content="Dynamics Square is USA's leading Gold Microsoft Dynamics 365 Partner. Contact us at +1-281-899-0865 for implementation, training & consulting services."
         />
-        <meta
-          name="robots"
-          content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-        />
         <link rel="canonical" href="https://www.dynamicssquare.com/" />
         <meta property="og:title" content="Dynamics Square is" />
         <meta name="og:description" content="Dynamics Square is" />
