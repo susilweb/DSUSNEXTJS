@@ -22,7 +22,6 @@ class MyDocument extends Document {
             />
             {/* <script src="https://www.googleoptimize.com/optimize.js?id=OPT-M9Z4742"></script>
             <meta name="google-site-verification" content="xFgE4PTaJv9p6KEkLb3yvhTbsewZhPo7xg8VbUXi_ME" /> */}
-            <meta name="robots" content="noindex,nofollow" />
             {/* <Script async
             src="https://www.googletagmanager.com/gtag/js?id=UA-243571673-1"
             strategy="beforeInteractive"
