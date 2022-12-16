@@ -1,0 +1,5 @@
+{
+    "redirects": [
+      { "source": "/products/crm/", "destination": "/products/microsoft-dynamics-crm/", "permanent": true }
+    ]
+  }

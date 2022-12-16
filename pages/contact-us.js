@@ -64,7 +64,7 @@ const ContactUs = () => {
                   <div className="col-lg-6 col-sm-12">
                     <div className="addre-left">
                       <p>
-                      2372 Morse Ave, Ste. 310 Irvine, 
+                      2372 Morse Ave, Ste. 310 Irvine,
                         <br />
                         CA 92614
                       </p>

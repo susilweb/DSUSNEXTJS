@@ -207,12 +207,13 @@ const AboutUs = () => {
                   <div className="tem-mem-info">
                     <h4>Gaurav Goyal</h4>
                     <span>Co - Founder</span>
+                    <p>"Nurturing people and investing in their capabilities to build a resilient organization."</p>
                   </div>
-                  <div className="social">
+                  {/* <div className="social">
                     <a href="https://www.linkedin.com/in/gauravg1">
                       <i className="bi bi-linkedin"></i>
                       </a>
-                    </div>
+                    </div> */}
                 </div>
               </div>
               <div className="col-lg-4">
@@ -223,6 +224,7 @@ const AboutUs = () => {
                   <div className="tem-mem-info">
                     <h4>Manish Goyal</h4>
                     <span>Co - Founder</span>
+                    <p>"Helping companies with Digital Transformation using innovative Microsoft cloud technology"</p>
                   </div>
                   <div className="social">
                     <a href="https://www.linkedin.com/in/manish-g-74854a44">
@@ -239,12 +241,13 @@ const AboutUs = () => {
                   <div className="tem-mem-info">
                     <h4>Dr. Felton Lean</h4>
                     <span>The People Person</span>
+                    <p>"Helping employees and organisations to achieve more through learning and development."</p>
                   </div>
-                  <div className="social">
+                  {/* <div className="social">
                     <a href="https://www.linkedin.com/in/dr-felton-lean-5941bb2b/">
                       <i className="bi bi-linkedin"></i>
                       </a>
-                    </div>
+                    </div> */}
                 </div>
               </div>
             </div>
