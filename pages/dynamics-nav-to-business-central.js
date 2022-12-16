@@ -151,7 +151,7 @@ const DynamicsNavToBusinessCentral = () => {
                   </li>
                   <li>
                     You want to connect your existing{" "}
-                    <Link href="/products/erp/">ERP solution</Link> with the
+                    <Link href="/products/microsoft-dynamics-erp/">ERP solution</Link> with the
                     cloud to control everything remotely.
                   </li>
                 </ul>

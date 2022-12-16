@@ -327,7 +327,7 @@ const Sales = () => {
                     profitability by upgrading your system with D365 Sales.
                   </p>
                   <div className="action-content">
-                    <Link href="/our-services/dynamics-365-support-services/">
+                    <Link href="/our-services/dynamics-365-upgrade-services/">
                       Get Started
                     </Link>
                   </div>
@@ -347,7 +347,7 @@ const Sales = () => {
                     experience with our Dynamics 365 Sales support services.
                   </p>
                   <div className="action-content">
-                    <Link href="/dynamics-nav-to-business-central/">
+                    <Link href="/our-services/dynamics-365-support-services/">
                       Get Started
                     </Link>
                   </div>

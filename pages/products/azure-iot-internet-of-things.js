@@ -593,7 +593,7 @@ const AzureIoT = () => {
                   >
                     <div className="accordion-body">
                       <p>Azure IoT Hub is used to create and connect secure connections between your equipment and IoT applications. You can remotely connect your devices with your cloud hosted IoT apps. Since it acts as a messaging hub that enables bi-directional communication between your connected devices and IoT apps to support smoother operational flow, proactively manage your devices to prevent downtime, provide timely maintenance, and more.</p>
-                      <p>To know how Azure <a href="/products/dynamics-365-internet-of-things/">IoT</a> could help your business to simply, monitor, and scale, connect with us today, we can help to implement as per your specific or customized needs.</p>
+                      <p>To know how Azure IoT could help your business to simply, monitor, and scale, connect with us today, we can help to implement as per your specific or customized needs.</p>
                     </div>
                   </div>
                 </div>

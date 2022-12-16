@@ -100,7 +100,7 @@ const SupportServices = () => {
             <p>
               Drive innovative and strategic approach through your business
               premises with intelligent connected processes, data insights, and
-              adaptive <Link href="/products/crm/">Dynamics 365 CRM</Link> & <Link href="/products/erp/">ERP solutions</Link>.
+              adaptive <Link href="/products/microsoft-dynamics-crm/">Dynamics 365 CRM</Link> & <Link href="/products/microsoft-dynamics-erp/">ERP solutions</Link>.
             </p>
           </header>
           </div></div>

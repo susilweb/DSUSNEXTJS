@@ -75,7 +75,7 @@ const CloudvsOnpremise = () => {
                   to explore and understand which{" "}
                   <Link href="/products/microsoft-dynamics-365/">
                     Microsoft Dynamics 365 installation
-                  </Link>
+                  </Link>{" "}
                   is the best for their offices.
                 </p>
               </header>
@@ -479,12 +479,11 @@ const CloudvsOnpremise = () => {
                   Migrating To The Cloud.
                 </p>
                 <div className="m-o-t m-o-t-inde">
-                  <Link
+                  <Link  href="#exampleModal"><a
                     data-bs-toggle="modal"
-                    href="#exampleModal"
                     className="btn-get-started scrollto"
                   >
-                    <span>Talk to Expert</span>
+                    <span>Talk to Expert</span></a>
                   </Link>
                 </div>
               </div>

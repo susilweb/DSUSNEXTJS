@@ -239,7 +239,7 @@ const MicrosoftDynamics365Ai = () => {
             <div className="col-lg-8">
               <div className="call-to-action-content">
                 <h3>Maximize your business potentials</h3>
-                <p>Microsoft Dynamics 365Artificial Intelligence (AI)​</p>
+                <p>Microsoft Dynamics 365Artificial Intelligence (AI)</p>
                 <div className="text-center m-o-t new-btn-nn">
                   <Link href="/about-us/">
                     <a className="btn-get-started scrollto">

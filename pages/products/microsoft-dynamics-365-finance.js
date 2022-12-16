@@ -12,10 +12,10 @@ const Finance = () => {
   return (
     <>
       <Head>
-        <title>Microsoft Dynamics 365 Finance Partner | Dynamics Square</title>
+        <title>Dynamics 365 Finance Implementation USA | Dynamics Square</title>
         <meta
           name="description"
-          content="Boost your financial visibility and faster your financial decision making by implementing Microsoft Dynamics 365 Finance. Book a free consultation today."
+          content="Use actionable insights to increase financial visibility and faster your decision making with Microsoft Dynamics 365 Finance Implementation. Contact us now."
         />
         <link
           rel="canonical"

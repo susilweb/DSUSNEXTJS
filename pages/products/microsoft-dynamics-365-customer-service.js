@@ -228,8 +228,8 @@ const CustomerService = () => {
                     Service Capabilities.
                   </p>
                   <div className="action-content">
-                    <Link data-bs-toggle="modal" href="#exampleModal">
-                      Get Started
+                    <Link href="#exampleModal">
+                      <a  data-bs-toggle="modal" >Get Started</a>
                     </Link>
                   </div>
                 </div>
@@ -249,8 +249,8 @@ const CustomerService = () => {
                     upgrade.
                   </p>
                   <div className="action-content">
-                    <Link data-bs-toggle="modal" href="#exampleModal">
-                      Get Started
+                  <Link href="#exampleModal">
+                      <a  data-bs-toggle="modal" >Get Started</a>
                     </Link>
                   </div>
                 </div>
@@ -270,8 +270,8 @@ const CustomerService = () => {
                     support services.
                   </p>
                   <div className="action-content">
-                    <Link data-bs-toggle="modal" href="#exampleModal">
-                      Get Started
+                  <Link href="#exampleModal">
+                      <a  data-bs-toggle="modal" >Get Started</a>
                     </Link>
                   </div>
                 </div>

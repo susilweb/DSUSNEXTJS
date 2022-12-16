@@ -82,8 +82,7 @@ const PowerPlatform = () => {
                   <strong>The Business Intelligence solution</strong>
                 </p>
                 <p>
-                  <Link href="/products/microsoft-power-bi/">Power BI</Link> is
-                  a business analytics solution that enables you to visualize
+                  Power BI a business analytics solution that enables you to visualize
                   data and share information across your organization. It is a
                   reporting tool capable of unifying data from multiple sources
                   (including Business Central) to create immersive, interactive
@@ -108,9 +107,7 @@ const PowerPlatform = () => {
                   <strong>Create business apps without codes</strong>
                 </p>
                 <p>
-                  <Link href="/products/microsoft-power-apps/">
-                    Microsoft Power Apps
-                  </Link>{" "}
+                  Microsoft Power Apps{" "}
                   allows you to create applications without the need to have
                   knowledge of code in an agile and fast way. Develop
                   applications from scratch or using predefined templates.
@@ -120,7 +117,7 @@ const PowerPlatform = () => {
                 </p>
                 <div className="cltt-actt">
                   <Link href="/products/microsoft-power-apps/">
-                    Get Started
+                  Find Out More
                   </Link>
                 </div>
               </div>
@@ -144,11 +141,7 @@ const PowerPlatform = () => {
                 <p>
                   <strong>Solution for defining workflow automations</strong>
                 </p>
-                <p>
-                  <Link href="/products/microsoft-power-automate/">
-                    Power Automate
-                  </Link>{" "}
-                  offers the ability to efficiently automate workflow directly
+                <p>Power Automate offers the ability to efficiently automate workflow directly
                   in your applications with a no-code approach that connects to
                   hundreds of the most popular applications and services on the
                   market. Connect to your data from any device or place to
@@ -173,11 +166,7 @@ const PowerPlatform = () => {
                     Tool to create intelligent chatbots. No Codes Required
                   </strong>
                 </p>
-                <p>
-                  <Link href="/products/microsoft-power-virtual-agents/">
-                    Power Virtual Agents
-                  </Link>{" "}
-                  is a tool designed to create conversational experiences
+                <p>Power Virtual Agents is a tool designed to create conversational experiences
                   (chatbots) that offer support by easily creating and
                   maintaining virtual agents, without the need for coding, using
                   a guided graphical interface without the need for data

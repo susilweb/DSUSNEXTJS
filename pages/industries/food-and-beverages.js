@@ -241,7 +241,7 @@ const FoodBeverages = () => {
                       Stay updated with your customers' activities in real-time,
                       drive productive sales strategies & marketing campaigns
                       with the help of the Food & Beverage{" "}
-                      <Link href="/products/erp/">ERP solution</Link> by
+                      <Link href="/products/microsoft-dynamics-erp/">ERP solution</Link> by
                       Microsoft.
                     </p>
                   </div>

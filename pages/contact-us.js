@@ -64,12 +64,12 @@ const ContactUs = () => {
                   <div className="col-lg-6 col-sm-12">
                     <div className="addre-left">
                       <p>
-                        10101 Southwest Freeway Houston,
+                      2372 Morse Ave, Ste. 310 Irvine, 
                         <br />
-                        TX 77074
+                        CA 92614
                       </p>
                       <a
-                        href="https://goo.gl/maps/ij2svGJ1tEPqGPvQ8"
+                        href="https://goo.gl/maps/HJtMuiqBdqw2eDuU9"
                         target="_blank"
                       >
                         Locate Us on Google

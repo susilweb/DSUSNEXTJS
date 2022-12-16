@@ -13,11 +13,11 @@ const PowerBI = () => {
     <>
       <Head>
         <title>
-          Microsoft Power BI Expert | Power BI Services &amp; Pricing
+        Microsoft Power BI Partners: Get Power BI Services in the USA
         </title>
         <meta
           name="description"
-          content="Power BI Expert: Use Microsoft Power BI data visualization tools to transform your data into actionable insights. Contact us for a free Power BI consultation &amp; services."
+          content="Utilize Power BI's data visualization capabilities to turn your data sets into actionable insights. Get free consultation & Power BI services with Dynamics Square."
         />
         <link
           rel="canonical"

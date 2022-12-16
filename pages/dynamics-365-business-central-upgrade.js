@@ -477,10 +477,7 @@ const BusinessCentralUpgrade = () => {
                     data-bs-parent="#faqlist1"
                   >
                     <div className="accordion-body">
-                      <a href="https://www.dynamicssquare.co.uk/dynamics-365-business-central-wave-2/">
-                        Dynamics 365 Business Central Wave 2
-                      </a>
-                      ; version 19 released in October 2021 is the latest
+                    Dynamics 365 Business Central Wave 2; version 19 released in October 2021 is the latest
                       version of Business Central primarily a cloud-based
                       platform.
                     </div>

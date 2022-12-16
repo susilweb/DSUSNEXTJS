@@ -166,7 +166,7 @@ const Ecommerce = () => {
                         delivery along with seamless return & refund process by
                         upgrading your current system capabilities with
                         Microsoft Ecommerce{" "}
-                        <Link href="/products/erp/">ERP solutions</Link>.
+                        <Link href="/products/microsoft-dynamics-erp/">ERP solutions</Link>.
                       </p>
                     </div>
                   </div>

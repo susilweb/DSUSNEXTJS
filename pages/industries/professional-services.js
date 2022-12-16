@@ -354,7 +354,7 @@ const Professional = () => {
                     <p>
                       By effectively leveraging the past business data or
                       project performance with the help of{" "}
-                      <Link href="/products/erp/">ERP solutions</Link> for the
+                      <Link href="/products/microsoft-dynamics-erp/">ERP solutions</Link> for the
                       Professional Service industry, enterprises can gain
                       accurate analytics to achieve project success.
                     </p>

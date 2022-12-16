@@ -522,8 +522,8 @@ const MicrosoftDynamicsNAV = () => {
                     your Dynamics NAV account.
                   </p>
                   <div className="action-content">
-                    <Link href="#exampleModal">
-                      <a data-bs-toggle="modal">Get Started</a>
+                    <Link href="/dynamics-nav-to-business-central/">
+                      <a>Get Started</a>
                     </Link>
                   </div>
                 </div>

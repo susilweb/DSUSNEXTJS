@@ -30,7 +30,7 @@ const MicrosoftCloudForNonprofit = () => {
         channel="youtube"
         autoplay
         isOpen={isOpen}
-        videoId="k9ZCzwj4FV8&t=2s"
+        videoId="qLjfAsQRWaM"
         onClose={() => setOpen(false)}
       />
       <main>
@@ -438,7 +438,7 @@ const MicrosoftCloudForNonprofit = () => {
                 <div className="box box-22 box-11">
                   <h3>Basic</h3>
                   <div className="price">
-                    <sup>$</sup>0<span>Per Month</span>
+                    $0<span>Per Month</span>
                   </div>
                   <ul>
                     <li>
@@ -451,14 +451,14 @@ const MicrosoftCloudForNonprofit = () => {
 
               <div className="col-lg-3">
                 <div className="box box-22 box-11">
-                  <h3>Standard</h3>
+                  <h3>Standard - Plan 1</h3>
                   <div className="price">
-                    <sup>$</sup>---<span>Per Month</span>
+                    $750<span>Per Month</span>
                   </div>
                   <ul>
                     <li>
                       <strong>
-                        Plan 1 For Nonprofits
+                        For Nonprofits
                         <br /> 1-250 Employees
                       </strong>
                     </li>
@@ -469,14 +469,14 @@ const MicrosoftCloudForNonprofit = () => {
 
               <div className="col-lg-3">
                 <div className="box box-22 box-11">
-                  <h3>Standard</h3>
+                  <h3>Standard - Plan 2</h3>
                   <div className="price">
-                    <sup>$</sup>---<span>Per Month</span>
+                  $2000<span>Per Month</span>
                   </div>
                   <ul>
                     <li>
                       <strong>
-                        Plan 2 For Nonprofits And IGOs <br />
+                        For Nonprofits And IGOs <br />
                         250+ Employees
                       </strong>
                     </li>

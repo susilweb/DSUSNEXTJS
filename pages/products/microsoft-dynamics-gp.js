@@ -137,7 +137,7 @@ const MicrosoftDynamicsGP = () => {
                   </h3>
                   <div className="overlay">
                     <p>
-                      Since it is an <Link href="/products/erp/">ERP</Link> and
+                      Since it is an <Link href="/products/microsoft-dynamics-erp/">ERP</Link> and
                       accounting solution, Great Plans can help in inventory
                       management. Keep records related to your orders and
                       returns in an easy manner. Meet the expectations of your

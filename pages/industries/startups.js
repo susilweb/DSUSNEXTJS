@@ -440,12 +440,11 @@ const Startup = () => {
                     Dynamics 365 startup solutions.
                   </p>
                   <div className="text-lg-start">
-                    <Link
+                    <Link href="#exampleModal"><a
                       data-bs-toggle="modal"
-                      href="#exampleModal"
                       className="btn-get-started scrollto"
                     >
-                      <span>Request a Demo</span>
+                      <span>Request a Demo</span></a>
                     </Link>
                   </div>
                 </div>

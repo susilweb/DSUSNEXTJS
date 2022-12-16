@@ -42,7 +42,7 @@ const BusinessCentralVSFinance = () => {
                 <p className="ne4">
                   Microsoft calls{" "}
                   <Link href="/products/dynamics-365-business-central/">
-                    <strong>Dynamics 365 Business Central</strong>
+                   <a><strong>Dynamics 365 Business Central</strong></a>
                   </Link>{" "}
                   a new-age software application that offers enhanced capability
                   and an all-in-one solution to manage finances, sales and
@@ -290,12 +290,11 @@ const BusinessCentralVSFinance = () => {
                   Talk to our Dynamics 365 Expert to get the best price quotes.
                 </p>
                 <div className="m-o-t m-o-t-inde">
-                  <Link
+                  <Link href="#exampleModal"><a
                     data-bs-toggle="modal"
-                    href="#exampleModal"
                     className="btn-get-started scrollto"
                   >
-                    <span>Talk to Expert</span>
+                    <span>Talk to Expert</span></a>
                   </Link>
                 </div>
               </div>

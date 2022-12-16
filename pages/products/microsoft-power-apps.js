@@ -40,12 +40,11 @@ const PowerApps = () => {
               </p>
               <div>
                 <div className="text-center text-lg-start">
-                  <Link
+                  <Link  href="#exampleModal"><a
                     data-bs-toggle="modal"
-                    href="#exampleModal"
                     className="btn-get-started scrollto"
                   >
-                    <span>Get a Demo</span>
+                    <span>Get a Demo</span></a>
                   </Link>
                 </div>
               </div>

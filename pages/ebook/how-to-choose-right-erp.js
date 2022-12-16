@@ -59,7 +59,7 @@ const Howtochooserighterp = () => {
         />
         <link
           rel="canonical"
-          href="https://www.dynamicssquare.co.US/ebook/how-to-choose-right-erp/"
+          href="https://www.dynamicssquare.com/ebook/how-to-choose-right-erp/"
         />
       </Head>
 

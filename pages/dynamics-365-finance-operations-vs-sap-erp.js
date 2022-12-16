@@ -116,7 +116,7 @@ const FinancevsSapErp = () => {
                     ERP solutions
                   </Link>{" "}
                   for medium and large- size organizations -{" "}
-                  <Link href="/products/ microsoft-dynamics-365-finance-operations/">
+                  <Link href="/products/microsoft-dynamics-365-finance-operations/">
                     Microsoft Dynamics 365 Finance and Operations
                   </Link>{" "}
                   (or D365 F&O), and SAP ERP. The team deep- dived into the

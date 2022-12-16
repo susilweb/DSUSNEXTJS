@@ -169,11 +169,7 @@ const D365VSDynamicsAX = () => {
                     >
                       <div className="accordion-body">
                         <p>
-                          Available as a cloud, hybrid, and{" "}
-                          <Link href="/dynamics-365-scm-cloud-vs-on-premise/">
-                            on- premises
-                          </Link>{" "}
-                          deployment options, ERP solutions bring the power,
+                          Available as a cloud, hybrid, and on-premises deployment options, ERP solutions bring the power,
                           speed, and intelligence to enterprises, thus providing
                           the core functionalities that organization need for
                           smart business decisions and business gains.

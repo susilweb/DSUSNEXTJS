@@ -190,7 +190,7 @@ const ImplementationServices = () => {
                     Leveraging in-depth sales insights, predict sales,
                     streamline customer data, and automate processes to achieve
                     sustainable results. Implementation of Microsoft Dynamics
-                    365 ERP and <Link href="/products/crm/">CRM Solutions</Link>{" "}
+                    365 ERP and <Link href="/products/microsoft-dynamics-crm/">CRM Solutions</Link>{" "}
                     can help to optimize sales, drive connected sales, and
                     support agile practices.
                   </p>

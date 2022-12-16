@@ -62,7 +62,7 @@ const StartGuide = () => {
         />
          <link
           rel="canonical"
-          href="https://www.dynamicssquare.com/e-book/upgrade-nav-to-business-central/"
+          href="https://www.dynamicssquare.com/ebook/upgrade-nav-to-business-central/"
         />
       </Head>
 
